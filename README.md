@@ -7,7 +7,7 @@ _A curated list of negative comments about Agile and Scrum on social media_
 
 (_Please note that while the word “Scrum” has been kept intact in the quoted comments, the reader should make no distinction between Scrum and Agile. The corporate world makes no distrinction, and we should not give others the defense of blameshifting to a framework_)
 
----
+--
 “This agile witch hunt has to end, but it never will unless we start politely asking for the things we want.
 
 i know for a fact that 90% of engineers dislike agile but many don't even imagine there can be an alternative, and most who do are terrified to say anything. Just look at the other answers to this question, most are from the very non engineers that have imposed this nonsense in the first place.”--Anonymous, [https://www.quora.com/Have-developers-finally-started-to-%E2%80%9Csay-no%E2%80%9D-to-agile-development](https://www.quora.com/Have-developers-finally-started-to-%E2%80%9Csay-no%E2%80%9D-to-agile-development)
