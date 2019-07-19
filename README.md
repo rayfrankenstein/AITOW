@@ -413,6 +413,16 @@ One of the biggest reasons people here dislike "Agile" is because management use
 ---
 “The Kanban view, and the story points, and sprints, all encourage the delusion that software development is like bricklaying, i.e. a highly predictable task which can be done at a consistent speed by moderately competent people, with well-specified chunks of work which can be easily subdivided with few dependencies. As long as all the walls are the same height, and meet at the corners, your’re good.
 SOFTWARE DEVLOPMENT IS NOT LIKE BRICKLAYING! NOT. LIKE. BRICKLAYING!”—Unknown
+——-
+If you call yourself an agile shop, I would like to hear in comments how you deal with the following problems.
+
+1) Short-term thinking that results from following short iterations and daily stand-ups
+
+2) Architecture that often times can not be deployed piecemeal
+
+3) Complex infrastructure in production that is supposedly continuously getting deployed over. If you are Facebook, you can afford automation. Can you ?
+
+4) Business expectations that they do not need to give you any requirements and that they can change their mind at any time.”—-Oleg Vishnepolsky, [https://www.linkedin.com/pulse/agile-does-work-oleg-vishnepolsky](https://www.linkedin.com/pulse/agile-does-work-oleg-vishnepolsky/)
 
 ---
 “I hate [agile]. Mostly because it priorities easy incremental improvements and rituals.”—RLQy16, a user who works for Spotify, Blind
@@ -902,5 +912,4 @@ I work for a smaller dev team currently and I take a project and finish it A to 
 
 ---
 “I work with people who keep making lots of changes and have no real long term plans. They do Agile and only think a week ahead of things. If you want to ship a long term project you need to lay a lot of groundwork up front and stick to it.”--@RedQueenCoder, https://twitter.com/RedQueenCoder/status/991120881719144449
-
 
