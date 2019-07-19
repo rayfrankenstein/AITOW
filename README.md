@@ -413,8 +413,10 @@ One of the biggest reasons people here dislike "Agile" is because management use
 ---
 “The Kanban view, and the story points, and sprints, all encourage the delusion that software development is like bricklaying, i.e. a highly predictable task which can be done at a consistent speed by moderately competent people, with well-specified chunks of work which can be easily subdivided with few dependencies. As long as all the walls are the same height, and meet at the corners, your’re good.
 SOFTWARE DEVLOPMENT IS NOT LIKE BRICKLAYING! NOT. LIKE. BRICKLAYING!”—Unknown
-——-
-If you call yourself an agile shop, I would like to hear in comments how you deal with the following problems.
+
+
+-—-
+“If you call yourself an agile shop, I would like to hear in comments how you deal with the following problems.
 
 1) Short-term thinking that results from following short iterations and daily stand-ups
 
