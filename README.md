@@ -17,6 +17,9 @@ i know for a fact that 90% of engineers dislike agile but many don't even imagin
 “The 'what did you do yesterday?' part can also encourage people to scramble to justify they worked hard enough yesterday when it's tricky to condense why a task isn't as trivial as it sounds”--seanwilson, [https://news.ycombinator.com/item?id=14085716](https://news.ycombinator.com/item?id=14085716)
 
 ---
+"Agile=='Go Cut me the Switch to beat you with'"--tbandtg, [https://www.reddit.com/r/programming/comments/afthlr/manifesto_for_halfarsed_agile_software_development/](https://www.reddit.com/r/programming/comments/afthlr/manifesto_for_halfarsed_agile_software_development/)
+
+---
 “The motto of delivering customer value has been used as an excuse to emphasize the surfaces exposed to the customer (e.g: features) and neglect non-features (non-functional requirements, e.g: maintainability, security, performance, scalability, configuration, testing).”--partycoder. [https://news.ycombinator.com/item?id=14085716](https://news.ycombinator.com/item?id=14085716)
 
 ---
@@ -37,6 +40,9 @@ I prefer my people solve difficult problems and not just little bite-sized tasks
 “The only thing consistent about Agile is that everyone is doing it wrong.”—fwio, [https://news.ycombinator.com/item?id=19571809](https://news.ycombinator.com/item?id=19571809)
 
 ---
+"'Your issue isn't agile, it's shitty management'. While I wholeheartedly agree with that statement, Agile/Scrum definitely exacerbates the problem of shitty management."--s73v3r, [https://www.reddit.com/r/programming/comments/8jvrr1/developers_should_abandon_agile/](https://www.reddit.com/r/programming/comments/8jvrr1/developers_should_abandon_agile/)
+
+---
 “This may be doing Agile wrong, but if something can be so easily done wrong that it's common, I count that as serious flaw in the methodology.”—JohnFen, [https://news.ycombinator.com/item?id=19571809](https://news.ycombinator.com/item?id=19571809)
 
 ---
@@ -52,6 +58,9 @@ That's sad.”—PaulHoule, [https://news.ycombinator.com/item?id=19571809](http
 
 ---
 “Generally the problem is that management wants this idea you call -just in time planning’ to happen all the time, and even believes it to be synonymous to Agile. Meanwhile the software team is saying, that's fundamentally at odds with the entire premise of how to write software. Saying you want to produce software that was always planned at the drop of a hat (which is what management wants) is like saying you want to chisel Mount Rushmore but you won't tell whose faces should be on it until right at the end. It's just not a coherent goal. My hope with the barriers to anti-quality thing is that we would take things like this, where regardless of what management feels entitled to, and make it sacred and inviolable that the obviously stupid and incoherent things can be vetoed by the feet-on-the-ground people doing the actual work.”--mlthoughts2018, [https://news.ycombinator.com/item?id=17186591](https://news.ycombinator.com/item?id=17186591)
+
+---
+"In my experience business uses the term 'Agile' as a coverup for indecision. When in doubt say 'Agile mode' , as you can change the requirements anytime."--SquareWait, [https://www.reddit.com/r/programming/comments/8jvrr1/developers_should_abandon_agile/](https://www.reddit.com/r/programming/comments/8jvrr1/developers_should_abandon_agile/)
 
 ---
 “I'll give you a recurring example of [Agile’s] bullshit. 
@@ -451,6 +460,10 @@ Treating team members as implicitly fungible leads to their skills and time bein
 All of these things could be 'fixed' if scrum trainers/advocates recognized these problems but they don't. To them, scrum is a hammer, everything is a nail, and all problems with scrum are due to improper use of said hammer.”—pydry, [https://www.google.com/amp/s/amp.reddit.com/r/cscareerquestions/comments/7r146e/do_you_hate_scrum/#ampf=undefined](https://www.google.com/amp/s/amp.reddit.com/r/cscareerquestions/comments/7r146e/do_you_hate_scrum/#ampf=undefined)
 
 ---
+
+"When I worked at a company that was big on Scrum I estimated that I was only getting about 10% to 50% as much work done in a typical 2 week period as I got done in previous positions using common sense methods do to all the inefficiencies of Scrum."--oscarboom, [https://www.reddit.com/r/programming/comments/afthlr/manifesto_for_halfarsed_agile_software_development/](https://www.reddit.com/r/programming/comments/afthlr/manifesto_for_halfarsed_agile_software_development/)
+
+---
 "
 > The business wants to know how much feature X is going to cost and   when they can expect it.
 
@@ -539,12 +552,16 @@ It isn’t a case of whether Waterfall or Agile is better it is about thinking o
 ---
 “YES . Agile is developper slavery to infantile clients who cannot decide or verbalize what they want. It also rewards bad programmers because although their work quality is poor they seem to be working more as they constantly have to fix their own mess. On the other hand if you write quality code that does not need many fixes you are perceived as lazy.”--Panait Ciprian, [https://www.quora.com/Does-Agile-Kill-Innovation](https://www.quora.com/Does-Agile-Kill-Innovation)
 
-
-
 ---
 “You cannot use Agile process to produce portrait of Mona Lisa or statue of David. If your goal is to produce original creative work, and something beautiful, Agile is not the answer.
 
 As a contractor I have worked at many companies, each with its own methodology of getting development work done. And I haven’t seen Agile to be much effective methodology...As I have seen, Agile methodology hinders a developer’s real creativity and makes him/her a machine to fit in the bureaucratic process where on paper people are made to look like doing some work while actually that might not be the case. In some companies this is important from the Project Management perspective, since PMs are not software engineers and they are thought to deal any type of work in the same terms as laying bricks by a labourer. Software engineering is a creative process, its not like process of laying bricks, which doesn’t need any creativity on the part of the labourer.”--Zeeshan A. Zakaria, [https://www.quora.com/Is-Agile-really-successful](https://www.quora.com/Is-Agile-really-successful)
+
+---
+"The thing about agile is that it doesn't work everywhere for everything.
+
+I do software test automation development. Try doing that without test cases that include extensive, precise, click-by-click instructions. Fun fact. You can't! At least not without adding hours, or days to a process that would have taken 15 minutes had the original manual tester actually written it down completely. We live and die by that documentation.
+Consequently, whenever I hear about 'working software over documentation,' I feel my head start to explode."--Kcufftrump, [https://www.reddit.com/r/programming/comments/afthlr/manifesto_for_halfarsed_agile_software_development/](https://www.reddit.com/r/programming/comments/afthlr/manifesto_for_halfarsed_agile_software_development/)
 
 ---
 “[Why are employees against moving to scrum and agile]?
@@ -580,6 +597,9 @@ When the project management was informed of these predictions now having come tr
 
 ---
 “I've been developing software for 20+ years. In practice, due to the nature of agile / scrum, design is very minimal or thrown out the window entirely. It encourages short term thinking. Rarely is anything beyond the "current sprint" considered.”—icedchai, [https://news.ycombinator.com/item?id=20017854#20021832](https://news.ycombinator.com/item?id=20017854#20021832)
+
+---
+"Well, now the client is doing "agile", asking new features all the time, never writing actual requirements but just blabbing in a meeting, but we are stuck with the constraints of waterfall. I'd rather do 90's waterfall than this shit, at least I'd have stable requirements and users thinking more than 30 seconds about the shit they're asking."--mlk, [https://www.reddit.com/r/programming/comments/afthlr/manifesto_for_halfarsed_agile_software_development/](https://www.reddit.com/r/programming/comments/afthlr/manifesto_for_halfarsed_agile_software_development/)
 
 ---
 “Scrum is unsuited to actually building a decent framework for you application.
@@ -799,6 +819,15 @@ The only things they had in common was bad management and negligence of tech deb
 I want to go back to just doing good work. Obviously focusing on what the customer needs and wants, but where the engineers have a choice to do something the right way instead of just the fast way."--KrumpetPirate, [https://news.ycombinator.com/item?id=20417768](https://news.ycombinator.com/item?id=20417768)
 
 ---
+"vp of tech/scrum master - 'We're here to facilitate YOU. You let us know if you need anything or if you have any blockers.'
+
+me - 'I have a blocker, I need a license for this program, it costs $380.'
+
+vp - 'Ok, schedule a meeting with myself, the CTO whom we're trying to get to quit by scheduling him in menial meetings to death, your immediate boss and ask anybody in earshot if they want to come.
+
+Also, you haven't filled out all the business process software stuff so that I can tell the CEO who is my buddy why us being behind schedule isn't my fault or his.'"--bodhemon, [https://www.reddit.com/r/programming/comments/afthlr/manifesto_for_halfarsed_agile_software_development/](https://www.reddit.com/r/programming/comments/afthlr/manifesto_for_halfarsed_agile_software_development/)
+
+---
 “Why Scrum is the Wrong Way to Build Software
 
 A brief list of what Scrum gets wrong
@@ -892,6 +921,13 @@ Anyway, long story short, the barrier to anti-quality principle was that it's to
 ".... in a waterfall-esque environment where requirements documents contained a whole quarter's worth of development, to be delivered two quarters from now, it's impossible to keep the requirements to come in mind while gathering the requirements still needed....."
 
  The best PM I ever worked with was an old civil servant, he was strictly waterfall and no other, and he always added a section to the requirements doc he kept secret from the customer - the Wants. This was compiled from right at the start of the analysis phase and consisted of all the "wants" that anyone expressed but which didn't get actually made into firm requirements. Added to this was a good slice of political "likely-to-happens", which was a cynical look at the politics of the customer and associated risks. It was amazing how often his Wants section predicted the customer's (often many) requirements changes, but then one of that PM's skills was an absolutely brilliant way of getting inside the customer's head and understanding their real business drivers, environment and politics and not the bullshine the customer presented to us. Where possible, we dialled in the Wants into the design phase so that we could add them modularly if possible, then when the "unexpected" change in requirements arrived he could hum and haw, charge the customer for a massive redesign (which meant the sales team loved him too), extend the deadlines (so us grunts had extra time for quality control), and proceed with almost no change to the plan. The guy was a genius!”--[http://forums.theregister.co.uk/forum/1/2015/01/08/erik_meijer_agile_is_a_cancer_we_have_to_eliminate_from_the_industry/](http://forums.theregister.co.uk/forum/1/2015/01/08/erik_meijer_agile_is_a_cancer_we_have_to_eliminate_from_the_industry/)
+
+---
+"I like the informalness of agile at least in theory. But i hate the idea of just coding without an idea how all the parts fit together, and I hate the idea of writing code that's meant as a quick test and then tossing it, which seems to be how some people use agile.
+
+Outside of things like AI and signal processing you generally know if something is possible pretty quick. You generally have an idea of how big and full featured the end product is going to be.... So why not design like it? 
+
+Don't pile up a tangle of crap later on to work around your lack of architecture. That's like buying the cheapest screwdriver you can find, then replacing it and all the stripped screws when it busts them all."--EternityForest, [https://www.reddit.com/r/programming/comments/afthlr/manifesto_for_halfarsed_agile_software_development/](https://www.reddit.com/r/programming/comments/afthlr/manifesto_for_halfarsed_agile_software_development/)
 
 ---
 “That's great to hear, and I'm sorry it blew up.
