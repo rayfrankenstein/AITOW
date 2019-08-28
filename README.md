@@ -111,10 +111,10 @@ _"Look this is an agile shop. We can't anticipate the needs of the customer. We 
 ---
 “In a nutshell Agile makes many assumptions that are unrealistic in most real case scenarios:
  
-every engineer in a team can work on any task at the same speed/quality than anyone else 
-backlog items can be broken down almost indefinitely so they can fit 2–3 weeks sprint 
-the product should be in a deliverable state at the end of each sprint 
-a team scrum every day is a useful way to track sprint progression.
+1. every engineer in a team can work on any task at the same speed/quality than anyone else 
+2. backlog items can be broken down almost indefinitely so they can fit 2–3 weeks sprint 
+3. the product should be in a deliverable state at the end of each sprint 
+4. a team scrum every day is a useful way to track sprint progression.
 
 A few things that agile fails to capture IMHO:
  
