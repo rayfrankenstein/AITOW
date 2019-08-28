@@ -107,6 +107,8 @@ _"Look this is an agile shop. We can't anticipate the needs of the customer. We 
 ---
 “Scrum doesn’t work for projects which require hard effort. Its focus on short, well-defined tasks and zero personal responsibility make it impossible to finish any poorly predictable project, for example, relying on deep development or research. Here scrum again proves that it is an agile methodology (though the term “slimy” would be more appropriate): it encourages to stick to the easiest, tastiest problems and ignore anything harder than that. As such, every project infected with scrum eventually transforms into the pipeline that copy-pastes simple by-the-book solutions. It is very frustrating to observe a fresh project with novel idea slowly dying after scrum has been introduced into it.”--Andrei Gudkov, [https://medium.com/@gudok/scrum-dysfunction-55e52494dc1d](https://medium.com/@gudok/scrum-dysfunction-55e52494dc1d)
 
+---
+"When Agile was introduced into the organization I work it was combined with "become more T-shaped" with the intent that everyone should be able to do everything, but the result was that nobody really understands what they are doing and use it as an excuse for "Somebody Else's Problem". I'm sort of the few remaining "specialists" with deep knowledge regarding my areas of functionality left, which has resulted in the case that I have had to present the intended logic of the functionality 5 times in 2 years now because there have been a new set of developers allocated 5 times now."--Z00L00K, [https://developers.slashdot.org/story/19/08/24/1748246/is-agile-becoming-less-and-less-relevant#comments](https://developers.slashdot.org/story/19/08/24/1748246/is-agile-becoming-less-and-less-relevant#comments)
 
 ---
 “In a nutshell Agile makes many assumptions that are unrealistic in most real case scenarios:
@@ -533,6 +535,33 @@ Unfortunately, for what I've been able to see in my day to day job, often the ou
 The result is code that lacks structure and inventive, as every action is initiated by the product people and every feature developed on its own without any respect or knowledge for the context. In other words, Agile, as I've experienced it, manages to push again software developers in the role of mere translators into code of a constant flow of requests from their clients, who in turn are completely unaware of and uninterested in the technical aspects involved. No need to say that this is the death of innovation and creativity.”--Anonymous, [https://www.quora.com/Does-Agile-Kill-Innovation](https://www.quora.com/Does-Agile-Kill-Innovation)
 
 ---
+"Absolutely. When you fly a dozen people around 2-4 times a year to spend two days playing point poker, you've truly quaffed the wrong kool-aid.
+
+Blah blah two pizza blah blah. Points are not hours, compare each story to a prior story of the same complexity blah blah -- which makes all manner of bogus assumptions.
+
+Every team member should be capable of handling any story, every problem is neatly divisible into Fibonacci chunks and precisely predictable :rolleyes:.
+
+My experience with Cult Agile is to have seen it piss away hundreds of thousands of dollars."--cthulu11, [https://developers.slashdot.org/story/19/08/24/1748246/is-agile-becoming-less-and-less-relevant#comments](https://developers.slashdot.org/story/19/08/24/1748246/is-agile-becoming-less-and-less-relevant#comments)
+
+---
+"The kind of problems described in the summary have always existed even if web and mobile phone developers are only discovering them now. Agile always was a poor fit for anything that requires thought and planning. I've spent months working on changes that resulted in maybe 100 lines of code. First, I have to figure out what to do, then do a preliminary analysis of how it might change things and discuss it with colleagues, then implement and test it (which is takes no time at all) and then to finally try it on real data and prove it does exactly what it was supposed to with no unintended side effects. And, yes, you always find unexpected side effects. Some are due to bugs or limitations in the rest of the code that did not make a difference before, some are due to corner cases or improper inputs which worked "by accident" and some changes just look really weird but after careful analysis (by hand) turn out to actually be correct.
+
+The point is, when the testing and verification of a feature takes a month, you really don't want to find fundamental flaws in your thinking or your code since that would require rechecking and retesting everything again. I don't see how any of this could be packaged into 2 week sprints or how daily meetings would help (Yes, I'm doing the same thing as yesterday. Yes, it is still hard. No, I don't know how long it will take since it depends on the number of issues I find that needs analysis).
+
+It seems to me "agile" only works if all the features are "light": quick to implement, no side effects, easy to test and verify etc. Like "add a green button here" and not "replace the central calculation engine which is used by everyone and everything and make sure no one is adversely affected."--ath1901, [https://developers.slashdot.org/story/19/08/24/1748246/is-agile-becoming-less-and-less-relevant#comments](https://developers.slashdot.org/story/19/08/24/1748246/is-agile-becoming-less-and-less-relevant#comments)
+
+---
+"There are many classes of problems that result in the kind of work that was described by the GP - data analysis and curation being the example quoted in the linked article. There analytical work is huge and needed upfront, and the changes, if any, that is needed to the system, can be small. Maintenance work in data processing in data transformation constantly gives challenges like this. I once dealt with an entire system that got mothballed because of a critical defect that required 3 months of analysis to understand the problem. The fix took three lines of code. How do you break this up into an an agile story and work it into a sprint timeline?"--Kenneth Stephen, [https://developers.slashdot.org/story/19/08/24/1748246/is-agile-becoming-less-and-less-relevant#comments](https://developers.slashdot.org/story/19/08/24/1748246/is-agile-becoming-less-and-less-relevant#comments)
+
+---
+"Sometimes making small deliverables is either the hardest part of the project, or it's just impractical to get a two week chunk of work. Remember, everybody is overloaded, so that's 10 two week tasks all wanted to be done in a literal two weeks. Sounds bad, but it's a fact of life in many places. Understanding the specs and getting clarity may take longer than two weeks, it takes longer than 2 weeks to get a review of the requirements. It takes longer than 2 weeks to set up a test bed. Sure, the agile trainers all disagreed with this, but they never gave good examples on how to split stuff up without it sounding highly artificial."--Darinbob, [https://developers.slashdot.org/story/19/08/24/1748246/is-agile-becoming-less-and-less-relevant#comments](https://developers.slashdot.org/story/19/08/24/1748246/is-agile-becoming-less-and-less-relevant#comments)
+
+---
+"Part of the problem [with agile in embedded development] is the decomposing problems into 2 (or 3) week chunks, avoiding a high level design, focusing on low level module testing while glossing over the more important integration and system testing. There are tasks that are just huge, do you really have a sprint for reading chapter one and two of the SoC developer's guide, another sprint for chapter three, and so forth. which all must happen before you tell the team of the product is viable or if you need to look at other vendors? And unit test can't even begin until you've created enough of the base platform that you can run the tests on the real hardware (except for simplistic tests. There are unexpected road bumps every day, the two week task will become a 12 week hurdle, you have to plan changes like that. And on a real device you can't give a demo at the end of a sprint when it takes a couple sprints just to build enough framework for a demo. Testing a feature may take 4 or 5 sprints, that's the first thing we had to change in the Orthodox Agile Religion, we couldn't have development and testing be simultaneous.
+
+Finally, you don't have interchangeable developers. Sure, in a web world where you have 7 people who all do the same job it's easy. But if you have only one expert on the radio, and only one expert on protocols, and only one expert on crypto, and three junior people all unfamiliar with RTOS concepts, then the developers aren't fungible."--DarinBob, [https://developers.slashdot.org/story/19/08/24/1748246/is-agile-becoming-less-and-less-relevant#comments](https://developers.slashdot.org/story/19/08/24/1748246/is-agile-becoming-less-and-less-relevant#comments)
+
+---
 “Before answering this question, I re-read the Agile Manifesto - http://agilemanifesto.org/princi... 
 
 Some general observations could be:- Face to face conversation is not always the best way to remember things, our highest priority is to serve the customer but unfortunately the customer doesn’t know what they want and it can become a fool’s errand, business people and developers must work together frequently/daily but we all know that constant interruptions are the death knell of focussed code writing. What we do notice is how mention of the best solutions and architectures arise from self-organising teams but where is the evidence of this being true? However, the original manifesto was created by experienced software developers to try and deliver better solutions to the business quicker.
@@ -673,6 +702,11 @@ Although this process was extremely successful, I don't know if I would call thi
 
 ---
 “A problem I've run into is management is using "Agile" but in the most short sighted way possible. I would get a rigid spec for a feature and implement it. Then three or four weeks later get a new spec to expand that feature that requires a lot rework of the original implementation, because it's so far outside the original scope, or involves integration with another feature/system that was never designed to work with the new one. It's still agile, but may as well be waterfall. If the original spec had given me outlines or plans of where they wanted the feature to eventually end up if budget/time permitted, I could have setup hooks, or more appropriately designed the original feature to make expanding it far easier with minimal additional effort or time commitment on my part.”—0x8086, [https://www.google.com/amp/s/amp.reddit.com/r/programming/comments/bla7sm/why_agile_is_so_misunderstood_and_what_is_the/](https://www.google.com/amp/s/amp.reddit.com/r/programming/comments/bla7sm/why_agile_is_so_misunderstood_and_what_is_the/)
+
+---
+"So what you're saying is that team management so incompetent that they "don't know what's possible, what's not possible, don't know what they want or what they want isn't what they need" should be replaced by Agile, a methodology in which devs still "don't know what's possible, what's not possible, don't know what they want or what they want isn't what they need" , and compensate for their planning inability by working it out as they go along.
+
+Agile replaces one problem by a "solution" that still has exactly the same problem --- incompetency at team or project management."--Anonymous Coward, [https://developers.slashdot.org/story/19/08/24/1748246/is-agile-becoming-less-and-less-relevant#comments](https://developers.slashdot.org/story/19/08/24/1748246/is-agile-becoming-less-and-less-relevant#comments)
 
 ---
 “Agile is the ultimate excuse to shove all blame on developers after stripping them of proper software development/design process. It is a middle manager's wet dream to force developers to concede to their change requests/demands at whims and blame developers for not complying successfully. It is a powerful political tool in the corporation to put developers in their rightful place and remove their powers/influence in software decision making authority.”—tonefart, [https://www.google.com/amp/s/amp.reddit.com/r/programming/comments/bla7sm/why_agile_is_so_misunderstood_and_what_is_the/](https://www.google.com/amp/s/amp.reddit.com/r/programming/comments/bla7sm/why_agile_is_so_misunderstood_and_what_is_the/)
@@ -896,6 +930,23 @@ A brief list of what Scrum gets wrong
     > http://www.agilemanifesto.org/
 
 14. Scrum ignores the fact that any task that has been done before in software does not need to be redone because it can be easily copied and reused. So, by definition, new software tasks are truly new territory and therefore very hard to estimate.”--Adam Ard, [https://medium.com/@ard_adam/why-scrum-is-the-wrong-way-to-build-software-99d8994409e5](https://medium.com/@ard_adam/why-scrum-is-the-wrong-way-to-build-software-99d8994409e5).
+
+---
+
+"The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+
+This really is the most ridiculous of them all as an absolute statement. Complex features across multiple developers are best documented in some form of design documents which are rigorously reviewed and open for all to see and comment on.
+
+Relying on "face-to-face" communication results in insufficient review and stability of critical software interactions because
+(a) parties will remember the conversations differently,
+(b) parties will make different assumptions which will lead to serious bugs,
+(c) if someone is absent (illness, vacation, diverted to critical customer problem, etc.) their input is now lost and upon return they are less able to understand what happened and why,
+(d) less external review, often very helpful, is possible because of conflicts (anyone can read the design spec whenever they have a moment -- even while they are watching the kids do homework -- but during the work day everyone can't be everywhere at once in a desperate attempt at keeping up on what is happening in critical projects that may affect them or that they can provide useful insight on),
+(e) if someone leaves the project (or gets hit by a bus) even if they understood all the "face-to-face" discussions and had reached agreement, their replacement lacks critical context.
+
+I hate writing design specs as much as the next developer. I also hate (to a lesser degree) reviewing them.
+
+However, I really hate tracking down problems that occur once a year at a few customers, defy replication, leave few if any useful hints, and disrupt the customer's business."--Anonymous Coward, [https://developers.slashdot.org/story/19/08/24/1748246/is-agile-becoming-less-and-less-relevant#comments](https://developers.slashdot.org/story/19/08/24/1748246/is-agile-becoming-less-and-less-relevant#comments)
 
 **What works, in their own words**
 
