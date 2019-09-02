@@ -20,6 +20,9 @@ i know for a fact that 90% of engineers dislike agile but many don't even imagin
 "Agile=='Go Cut me the Switch to beat you with'"--tbandtg, [https://www.reddit.com/r/programming/comments/afthlr/manifesto_for_halfarsed_agile_software_development/](https://www.reddit.com/r/programming/comments/afthlr/manifesto_for_halfarsed_agile_software_development/)
 
 ---
+"Agile is too vague to be dead. You will always find projects to fit your definition of agile."--reanjr, [https://developers.slashdot.org/story/19/08/26/045216/agile-programming-is-not-dead-quite-the-opposite#comments](https://developers.slashdot.org/story/19/08/26/045216/agile-programming-is-not-dead-quite-the-opposite#comments)
+
+---
 “The motto of delivering customer value has been used as an excuse to emphasize the surfaces exposed to the customer (e.g: features) and neglect non-features (non-functional requirements, e.g: maintainability, security, performance, scalability, configuration, testing).”--partycoder. [https://news.ycombinator.com/item?id=14085716](https://news.ycombinator.com/item?id=14085716)
 
 ---
@@ -295,6 +298,12 @@ Thus, new features get progressively harder to implement, as you touch a deeper 
 "As a user I can see a login page" - ok here's a static html page with two input boxes and a submit button. "As a user I can log in" - implement that slice of the backend, all in one hit with no eye on what other things might need from it (Dont get me started on YAGNI... YMNI, imho and you'll miss it when it isn't there! Especially when there's "no time" because it's not a feature with perceived customer benefit which take priority) And it goes from there. What I would prefer is more like "before we can even think about showing a login page to a user we should have..." which is more bottom up, and doesn't look good to a customer (or management).”--wilkosez, [https://news.ycombinator.com/item?id=16892307](https://news.ycombinator.com/item?id=16892307)
 
 ---
+"From a developer's perspective Agile is a cult. I've been in software development for 15 years now and have worked multiple "Agile" projects. I've learned the hard way that Agile never means the same thing from the perspective of the guy on the ground actually writing the code. In most cases it's a excuse to have short development cycles with poorly defined gates. Usually "Agile" just boils down to a poorly run waterfall process from the end dev's perspective.
+
+When I hear "Agile" now a days I just tells me I need to up my billing rate and make sure my contract has been run past my lawyer."--DarkKaplah, [https://developers.slashdot.org/story/19/08/26/045216/agile-programming-is-not-dead-quite-the-opposite#comments](https://developers.slashdot.org/story/19/08/26/045216/agile-programming-is-not-dead-quite-the-opposite#comments)
+
+---
+
 “
 > If you really have a fleet of web servers burning CPU and you aren't tracking the costs, then I guess "it works" until someone figures out there isn't any money left in the coffer.
 
