@@ -34,16 +34,29 @@ I prefer my people solve difficult problems and not just little bite-sized tasks
 “Developers [under scrum] are incentivized to get it done as quickly as possible and if they start to present multiple steps [in the form of epics] their managers will be likely to acuse them of overengineering the system so they just try to do it all at once.”--nautilus12, [https://news.ycombinator.com/item?id=18642845](https://news.ycombinator.com/item?id=18642845)
 
 ---
+"What I never hear anyone say, but what I see all the time: Agile is a carte blanche for postponing hard stuff. It stacks technical debt, fast and high. Because we focus on reducible, deductible and demoable problems. And when that stack topples, that's when it gets politicized and we're back at square one in every bad way."--Bas Groot, [https://www.infoq.com/articles/agile-agile-blah-blah/#anch169219](https://www.infoq.com/articles/agile-agile-blah-blah/#anch169219)
+
+---
 “Sprints are a shit idea and need to die a horrible death. The number of times we've had to break up some functional requirements for no reason other than to meet some stupid concept isn't funny ultimately it's a waste of time in itself”--teramu, [https://news.ycombinator.com/item?id=17186591](https://news.ycombinator.com/item?id=17186591)
 
 ---
 “Scrum is basically a huge amplifier for crappy management, and offers absolutely no protections against it.”--s73v3r_, [https://news.ycombinator.com/item?id=17186591](https://news.ycombinator.com/item?id=17186591)
 
 ---
+"Totally agree. In my experience management likes agile since they set all these random goals on an arbitrary timeline. Devs hate agile since there are all these random goals that must be met by an arbitrary deadline.
+
+Plus doing large scale architectural changes is really hard in two week (or whatever) time slices.
+
+Some stuff just takes as long as it takes."--marqis, [https://www.reddit.com/r/programming/comments/6rsyrd/in_a_nutshell_why_do_a_lot_of_developers_dislike/](https://www.reddit.com/r/programming/comments/6rsyrd/in_a_nutshell_why_do_a_lot_of_developers_dislike/)
+
+---
 “The only thing consistent about Agile is that everyone is doing it wrong.”—fwio, [https://news.ycombinator.com/item?id=19571809](https://news.ycombinator.com/item?id=19571809)
 
 ---
 "'Your issue isn't agile, it's shitty management'. While I wholeheartedly agree with that statement, Agile/Scrum definitely exacerbates the problem of shitty management."--s73v3r, [https://www.reddit.com/r/programming/comments/8jvrr1/developers_should_abandon_agile/](https://www.reddit.com/r/programming/comments/8jvrr1/developers_should_abandon_agile/)
+
+---
+"The real reason programmers hate agile: we like our autonomy. We want to diagnose and fix problems, not be micromanaged and told how to do our jobs by people who don't even know how to program."--deleted, [https://www.reddit.com/r/programming/comments/6rsyrd/in_a_nutshell_why_do_a_lot_of_developers_dislike/](https://www.reddit.com/r/programming/comments/6rsyrd/in_a_nutshell_why_do_a_lot_of_developers_dislike/)
 
 ---
 “This may be doing Agile wrong, but if something can be so easily done wrong that it's common, I count that as serious flaw in the methodology.”—JohnFen, [https://news.ycombinator.com/item?id=19571809](https://news.ycombinator.com/item?id=19571809)
@@ -162,7 +175,6 @@ I got told by Manager that you are not giving enough details and working less...
 
 ---
 “I'm getting really frustrated with my current role since I'm an ML scientist and feel Agile Scrum is a particularly bad fit for this job. It reduces ML work to incremental pointless improvements since everything needs to have story points and be finished in two weeks where half the days are full of meetings.”—RLQy16, “For Machine Learning people, does you team use Agile?”, Blind.
-
 ---
 “I’ve heard the same complaint from desktop app developers from Autodesk. It seems to only incentivize tiny features so features that requires months and years to build never gets built.”—Autodesk, “For Machine Learning people, does you team use Agile?”, Blind.
 
@@ -301,6 +313,11 @@ Thus, new features get progressively harder to implement, as you touch a deeper 
 "From a developer's perspective Agile is a cult. I've been in software development for 15 years now and have worked multiple "Agile" projects. I've learned the hard way that Agile never means the same thing from the perspective of the guy on the ground actually writing the code. In most cases it's a excuse to have short development cycles with poorly defined gates. Usually "Agile" just boils down to a poorly run waterfall process from the end dev's perspective.
 
 When I hear "Agile" now a days I just tells me I need to up my billing rate and make sure my contract has been run past my lawyer."--DarkKaplah, [https://developers.slashdot.org/story/19/08/26/045216/agile-programming-is-not-dead-quite-the-opposite#comments](https://developers.slashdot.org/story/19/08/26/045216/agile-programming-is-not-dead-quite-the-opposite#comments)
+
+---
+"While agile claims to be many things, in practice it's usually a mixture of red-tape and rituals which promotes processes that reduce programmers into interchangeable cogs in a machine whose sole purpose is to churn through an assembly line of tickets.
+
+There are perhaps many reasons to be frustrated with Agile, and I've written much on the subject. However my biggest gripe is that is effectively undermines the creative or R&D style elements of being a programmer. Sure you may get to design how the data flows through the system, choices of technologies and libraries, pick programming patterns or languages, but true creativity is usually reserved for projects you work on in your own time - outside of work."--DevIceMan, [https://www.reddit.com/r/programming/comments/6rsyrd/in_a_nutshell_why_do_a_lot_of_developers_dislike/](https://www.reddit.com/r/programming/comments/6rsyrd/in_a_nutshell_why_do_a_lot_of_developers_dislike/)
 
 ---
 
@@ -939,6 +956,33 @@ A brief list of what Scrum gets wrong
     > http://www.agilemanifesto.org/
 
 14. Scrum ignores the fact that any task that has been done before in software does not need to be redone because it can be easily copied and reused. So, by definition, new software tasks are truly new territory and therefore very hard to estimate.”--Adam Ard, [https://medium.com/@ard_adam/why-scrum-is-the-wrong-way-to-build-software-99d8994409e5](https://medium.com/@ard_adam/why-scrum-is-the-wrong-way-to-build-software-99d8994409e5).
+
+---
+
+"[Agile] is idolatry of process, to the detriment of the ones making software.
+
+Like watchmaking, a craft can go toward making a Swiss watch of exquisite craftsmanship OR sweatshop mill 'quantity before quality'.
+
+Agile emphasizes the later with minimal thinking ahead BUT with the delusion of equating shuffling pieces of paper of META DATA with actually solving the underlying problems.
+
+Massaging the customer's words around a few dozen times leads to a nice game of telephone too. Gotta have that bureaucracy.
+
+It promotes mediocre incremental changes because it was DESIGNED TO DO THAT IN THE FIRST PLACE. It is a way of organizing development to be more.. factory controlled. And you get cog-like design, cog-like performance, and cog-like behavior. Because it's an eternal treadmill!
+
+Then the hands mean nothing because you can replace them with redundant (read: cheap) labor.
+
+Cheap, Fast, or Good.. Agile is a shift toward the Cheap and the Fast vector of the triangle.
+
+Oh, and if you blaspheme against the Agile, it's always "YOU'RE DOING IT WRONG", as if it is a perfect thing of which merely all bad implementations are flawed. Convenient."--emergent_properties, [https://www.reddit.com/r/programming/comments/6rsyrd/in_a_nutshell_why_do_a_lot_of_developers_dislike/](https://www.reddit.com/r/programming/comments/6rsyrd/in_a_nutshell_why_do_a_lot_of_developers_dislike/)
+
+---
+"One aspect of agile, and of SCRUM in particular, is that the team is expected to 'forecast' which stories it will 'burn down' for a sprint. The phrase "forecast" is often replaced with "commit", and a manager-type will interpret this to mean he/she gets a fixed price deal with the team, yet without any quotation on behalf of the team for assessing risks/opportunities, as with a regular fixed price contract. As a freelancer, you can't let this happen, so it leads to unpleasant discussions.
+
+I also take issue with the term 'sprint'. By definition, a sprint is a short-term sports activity to reach a goal in the shortest amount of time possible. But just as in sports, you can't expect to do one sprint after another without quickly burning out, and that's exactly what I've been seeing in agile projects. An engineering-heavy software project shouldn't be seen as a series of sprints at all, but more as an endurance run if anything.
+
+I also hate the term 'agile' itself, which seems to be chosen to appease to a manager's idea of interchangeable, faceless staffing. Actually, "agile" makes me think of spermatozoa striving to fertilize ova.
+
+I also despise the motivation propaganda that usually goes with agile, and the "scrum masters" non-coders interrupting any meaningful technical discussion they don't understand and suggest to take the discussion 'offline' or 'time-boxed'."--imhotap, [https://www.reddit.com/r/programming/comments/6rsyrd/in_a_nutshell_why_do_a_lot_of_developers_dislike/](https://www.reddit.com/r/programming/comments/6rsyrd/in_a_nutshell_why_do_a_lot_of_developers_dislike/)
 
 ---
 
