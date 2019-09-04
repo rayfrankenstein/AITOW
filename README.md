@@ -1,9 +1,9 @@
 
 
 
-**Agile In Their Own Words: The problem with Agile & Scrum**
+**#AgileKillsKittens (or Agile In Their Own Words: The Problem With Agile & Scrum)**
 
-_A curated list of negative comments about Agile and Scrum on social media_
+_A curated list of negative developer comments about Agile and Scrum on social media_
 
 (_Please note that while the word “Scrum” has been kept intact in the quoted comments, the reader should make no distinction between Scrum and Agile. The corporate world makes no distrinction, and we should not give others the defense of blameshifting to a framework_)
 
@@ -175,7 +175,6 @@ I got told by Manager that you are not giving enough details and working less...
 
 ---
 “I'm getting really frustrated with my current role since I'm an ML scientist and feel Agile Scrum is a particularly bad fit for this job. It reduces ML work to incremental pointless improvements since everything needs to have story points and be finished in two weeks where half the days are full of meetings.”—RLQy16, “For Machine Learning people, does you team use Agile?”, Blind.
-
 ---
 “I’ve heard the same complaint from desktop app developers from Autodesk. It seems to only incentivize tiny features so features that requires months and years to build never gets built.”—Autodesk, “For Machine Learning people, does you team use Agile?”, Blind.
 
