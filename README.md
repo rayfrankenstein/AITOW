@@ -173,6 +173,11 @@ Agile is like writing a draft of a mystery novel, before actually thinking throu
 “It’s the worst part of my day.  I have to think back on yesterday and if it sounds like enough.  Like OP said, many times I’m researching libraries or features and I always feel like it doesn’t sound like enough even though you learn a lot for upcoming days and tasks.”—Ytdj51, Expedia, “Anyone else hate scrum standups”, Blind.
 
 ---
+"> My current job is the opposite. Some tasks take 15 minutes of discussion (no, they aren't complex tasks) with people debating whether it is worth 5 points or 8. It is just tiring and pointless.
+
+That was my last gig. The whole organization eventually just collapsed under the increasing load of being 'Agile'."--g051051, [https://news.ycombinator.com/item?id=28414751](https://news.ycombinator.com/item?id=28414751)
+
+---
 “When in stand ups I was giving updates like
 
 (1) What I did yesterday
@@ -506,9 +511,23 @@ Treating team members as implicitly fungible leads to their skills and time bein
 All of these things could be 'fixed' if scrum trainers/advocates recognized these problems but they don't. To them, scrum is a hammer, everything is a nail, and all problems with scrum are due to improper use of said hammer.”—pydry, [https://www.google.com/amp/s/amp.reddit.com/r/cscareerquestions/comments/7r146e/do_you_hate_scrum/#ampf=undefined](https://www.google.com/amp/s/amp.reddit.com/r/cscareerquestions/comments/7r146e/do_you_hate_scrum/#ampf=undefined)
 
 ---
+"Agile is about measuring and tracking, full stop. The difference between Waterfall and Agile is that Agile promises short iterations and continuous measuring and tracking throughout. But the important bit is that everything you do as a developer is tracked, recorded, and KPIs extracted from it so the company can see if it's hitting its OKRs and if not, what can be done.
+Yeah, I know, that's not Agile according to the Agile Manifesto. Forget the Manifesto. You think the CTO approved an Agile transformation because of a fucking manifesto? NUMBERS. How much money can we save and how much more profitable can we become by delivering exactly the software, and only the software, our users need with ruthless efficiency? This, and ONLY this, is Agile in the enterprise. Shove your manifestos. You have sprint commitments you need to fulfill. Get back to work."--bitwize, [https://news.ycombinator.com/item?id=28414751](https://news.ycombinator.com/item?id=28414751)
+
+---
+"Some tasks take 15 minutes of discussion (no, they aren't complex tasks) with people debating whether it is worth 5 points or 8. It is just tiring and pointless. And retro - gawd, I hate those. There are all kinds of stupid shit (people using references from music, movies etc, trying to make it "fun" and "hip"). I can't bring other tasks into the sprint, even if I finished all my current tasks, without my manager's permission. And on and on.
+
+I was thinking the other day why this is so painful and awkward. I realized that it all comes down to "metrics" - end of every sprint, my manager has to present it to his bosses, with pretty graphs describing "velocity" and other buzzwords. So he has to do all kinds of jugglery to appear competent to his bosses and not alienate the team at the same time.
+
+All of this could be avoided by treating the team as adults, instead of trying to "processify" or quantify everything."--akudha, [https://news.ycombinator.com/item?id=28414751](https://news.ycombinator.com/item?id=28414751)
+
+---
 "I think that it takes freedoms and responsibilities away from developers, chops work into chunks that are too small, forces constant arbitrary deadlines and a lack of a relaxed pace (they are not called 'sprints' for nothing), and incentivizes under-estimation to 'fit things in', resulting in overloading or overruns. It also treats developers as fungible which is very much not the case if specialist skills are not evenly distributed. The constant "scrum meetings" serve as an unwelcome goad and very rarely convey information that anyone except micromanagers care about.
 
 Learning is an important part of being a programmer. Experimenting, reading the manual, trying it out, these are all things that get managed out, when you have to beg for 'spike' time to do them, and somebody else doesn't see the importance."--JulianMorrison, [https://news.ycombinator.com/item?id=26345235&p=3](https://news.ycombinator.com/item?id=26345235&p=3)
+
+---
+"if anything else comes up during the "sprint", you're expected to address it while still finishing everything that you (involuntarily) "committed" to during sprint planning"--commadlinefan, [https://news.ycombinator.com/item?id=28414751](https://news.ycombinator.com/item?id=28414751)
 
 ---
 
@@ -537,6 +556,29 @@ anyone can pick up any stories, after a while there is nobody that is an expert 
 to make things worse, document is neglected due to agile's own philosophy and due to the daily chaos, and it makes development much much slower. 
 In short, agile gets everyone going and looking busy, but the product can never deliver because nobody knows enough to fix hard issues. Many of them are senior developers, the old model seems working better, a bit slower and quieter but products are out of the door with good quality.
 Agile is bad from my experience so far, our product is embedded system that can't really be sprinted like those fancy front-end UI projects and such. Agile does not fit us well.”—ausjke, [https://news.ycombinator.com/](https://news.ycombinator.com/item?id=19571809)item?id=1957180
+
+---
+"I realized that it all comes down to 'metrics' - end of every sprint, my manager has to present it to his bosses". I wonder how widespread this is.. Certainly that's exactly what I experienced at a previous workplace, and worse than that, people's performance was judged on whether they'd done exactly the 'right' stories in a 2 week sprint. Rather than thinking about developing software, people were working out how to game the system to ensure their metrics were good. I cannot see how this can have done the employer any good. I've now moved jobs, to a place that's far more Kanban, and if mid-story we encounter bugs that need fixing, or opportunities to improve something, or something else useful that piques our fancy, then as long as the whole team agree and our overarching goals are being worked toward , we can work naturally, rather than rigidly."--nickd2001, [https://news.ycombinator.com/item?id=28414751](https://news.ycombinator.com/item?id=28414751)
+
+---
+"> I realized that it all comes down to 'metrics' - end of every sprint, my manager has to present it to his bosses, with pretty graphs describing "velocity" and other buzzwords.
+
+"You've discovered the secret of Agile in the corporate workplace: that the key takeaways, as far as the enterprise is concerned, are not finding better ways to develop software and better customer-developer relations. It's all about trackability, measurement, and metrics, because everything is. Trackability and measurement enable key decision makers to make accurate budgeting and execution plans and there is literally nothing else for key decision makers. Therefore, it makes less of a difference what you output than that it was properly planned for, tracked, and measured and that it hits organizational KPIs. That's why nobody cares that Scrum is a giant productivity suck. Code could be written faster, but that's not writing it properly.
+Agile in the enterprise is a game of Mornington Crescent. The goal is not to foster the things advocated in the Agile Manifesto. It's to make it look like the company is fostering those things, while actually promoting the same Taylorist values corporations have always loved (and workers hated)."--bitwize, [https://news.ycombinator.com/item?id=28414751](https://news.ycombinator.com/item?id=28414751)
+
+---
+"My last job, we each had a minimum required individual velocity in our weekly sprints. That velocity score was the same if you were a junior or a senior. So in that case convincing the team it was an 8 could mean the difference between keeping your job or not. It was the most soul destroying, stressful job I have ever had. The worst was the Rockstar programmers not seeming to grasp that by reducing the points total on a hard ticket they were dooming their teammates. It lead to everything you can imagine, tickets implemented as fast as possible so they met the letter of the ticket but crashed on anything not defined as the team raced to meet their velocity. Massive unpaid overtime and burnout. Constant crashes in production. Races to claim the 'easy' tickets, and sandbagging. Eventually culminating in 8 of 12 devs quitting in an 8 month window including all seniors. My new job is so much better."--wonderwonder, [https://news.ycombinator.com/item?id=28414751](https://news.ycombinator.com/item?id=28414751)
+
+---
+"Exactly. Managers look for metrics and point and velocity are what they use.
+Well anyway, managers in my current company are dumber than second coat of paint and I inflate points."--amrx101, [https://news.ycombinator.com/item?id=28414751](https://news.ycombinator.com/item?id=28414751)
+
+---
+"Oh god, this perfectly describes the company I just quit. They went from using Trello, allowing us to choose what to work on, loosely setting story points and ... that was it.
+Then they decided they needed the metrics on everything, so they switched to JIRA, started doing retros, setting strict points on tasks(reprimanded in retros if you messed up), using burndown charts to reprimand even more, and giving the product manager the power to dictate what I work on and in what order.
+It went from being a great company to work at, to a company I ran away from. I have half a mind to send this thread over to them."--sunwooz
+
+"Retros are great iff there is team empowered to actually meaningfully change stuff. I've been in places where everyone agrees that something sucks but there is no actual way to change it. Then retros turn into an impotent bitching session... no thanks."--gampleman, [https://news.ycombinator.com/item?id=28414751](https://news.ycombinator.com/item?id=28414751)
 
 ---
 “In my experience management likes agile since they set all these random goals on an arbitrary timeline. Devs hate agile since there are all these random goals that must be met by an arbitrary deadline. 
@@ -1195,6 +1237,73 @@ You can't streamline software development. I don't know why people keep trying."
 "The main advantage of Agile is for project managers, who can change requirements on the fly."--b0rsuk, [https://news.ycombinator.com/item?id=26345235&p=3](https://news.ycombinator.com/item?id=26345235&p=3)
 
 ---
+"But lots of developers actually hates Scrum even when done correctly. The problem is that Scrum is very rigid, it tells you how long your development cycle should be, what your meetings should look like etc. They'd prefer to just do what needs done, have the meetings that needs to be had, deliver features when ready rather than have arbitrary deadlines (sprints) etc. I understand that many developers loves having that rigid process since it is easy to just go and do your work without thinking about the bigger picture, but lots of people wants to do the other parts and feel constrained by Scrum.
+
+And no, 'adapting the process for your needs' doesn't work. The problem is having the process mandating meetings and timelines in the first place. If you just do everything freeform as these people wants then it isn't Scrum"--Jennson, [https://news.ycombinator.com/item?id=28414751](https://news.ycombinator.com/item?id=28414751)
+
+---
+"Scrum makes it easy to break down features and problems into nice little pieces which can be done within one sprint (often in one day). That is a win in many ways, but it doesn't encourage higher level reviews, refactoring, etc. It's the problem of not seeing the forest for the trees.
+Of course you can intentionally create epics for these kinds of reviews, but those don't have a good short-term return value for time spent. And so, they get inadvertently or intentionally postponed. Eventually the system is complex and messy, few people understand the system in entirety, and the easiest Scrummy solution is a re-write.
+
+For me, Scrum was a straightjacket, a hundred NOs against my creativity and my attention to broader concerns. There are times when you are implementing a simple ticket, but you keep touching things that need attention... or you see how the entire system has become convoluted, and you see a better way. To do it the right way either means creating new epics and tickets, debating those with product owners who don't understand the value, and generally NOT solving the real problem."--blunte, [https://news.ycombinator.com/item?id=28414751](https://news.ycombinator.com/item?id=28414751)
+
+---
+"A cause of this problem is when people are worried about what happens when they say 'erm, I don't know how to do this cleanly' and so they want the "how" to be defined far far in advance. Solving this requires a mix of
+A. Identifying those activities that will genuinely make people's lives easier if they have a process and designing those processes to be meaningful and low-burden. Those activities will vary based on team members individual peeves and affinities.
+B. Creating clear lines of communication for how and whom to ask for help. This often means more clear naming of responsibilities.
+C. Ensuring there is enough slack time for people to be able to help each other out.
+D. Creating trust in the team that asking for help won't lead people to question if you are fit to do your job.
+> quantify everything
+
+Many times, this is the https://en.wikipedia.org/wiki/McNamara_fallacy"--afarell, [https://news.ycombinator.com/item?id=28414751](https://news.ycombinator.com/item?id=28414751)
+
+---
+"I find "velocity" to be almost completely useless, both in principle and in practice. It's not only useless for comparing teams, it's useless for comparing the same team over time if anything that affects "velocity" changes: the team composition, the length of the iterations, the nature of the tasks being worked on, etc. Now, how often have any of us worked on a project where at least one of those things didn't change, and sometimes fairly frequently?
+
+I mean, just the difference in an iteration with a couple of people on PTO, or a holiday or two intruding into it, will throw the numbers off. Now factor in all of the other fuzziness that's inherent in the process... yeah, no. Don't bother trying to calculate or track "velocity". You'd probably get better results from Tarot cards or animal entrails.", [https://news.ycombinator.com/item?id=28414751](https://news.ycombinator.com/item?id=28414751)
+
+---
+"I too find velocity to be one of the dumbest aspects of Agile. It takes the stupid of story points and doubles down on uselessness and arbitrariness.
+
+Velocity in physical terms is an instantaneous measure. It's the same in Agile, you've done X things in Y time. But that ignores the context of those X tasks and the context of Y time.
+
+The X+1 task might turn out more difficult or have some other challenge that makes it take longer. Time keeps passing so at time Y+2 the velocity measurement is lower than before. Now all the PMs and other team members jump in demanding answers which now makes the task take even longer.
+
+As you mention, some span of time can see team members out or unavailable. So the velocity is "low" but rarely is that context captured or bubbled up the management chain. So your team has "low velocity" which ends up generating worthless meetings, bad reviews, or all sorts of problems.",  [https://news.ycombinator.com/item?id=28414751](https://news.ycombinator.com/item?id=28414751)
+
+---
+"I can only speak from personal experience (perhaps our Scrum consultant did it wrong). We have a large group and even running through the all of the demos (mostly slides really) from all of the teams at the end of a three week period took days. Added to this the retrospective, multiple planning sessions as well as all of the meetings that we used to have prior to doing this.
+
+In the end, it was just so obviously unworkable to everyone it had to be stopped.
+
+However, you are absolutely right, we were not in meetings 100% of the time - it just felt like it. Many people need good swaths of uninterrupted time (perhaps 1.5-2 hours minimum) in order to be productive. Rapid context switching between various meetings and development work can be expensive. It is unfortunate when this time can only be found outside of working hours.", [https://news.ycombinator.com/item?id=28414751](https://news.ycombinator.com/item?id=28414751)
+
+---
+"Every company I've worked at that followed some sort of rigid scrum process has suffered from burnout and general failure in one form or another
+
+It treats developers like consultants because it's really designed for agencies working on one-off short-burst projects ( this is the only setting I've seen it have a positive effect )
+
+by nature it just chews people up if it becomes a day-to-day practice, the whole process revolves around the assumption that there's lack of trust and team cohesion"--snuser, [https://news.ycombinator.com/item?id=28414751](https://news.ycombinator.com/item?id=28414751)
+
+---
+"The problem with scrum is that it is micromanagement distributed. And that it makes whole team victim of the assertive asshole when that one appears."--watwut, [https://news.ycombinator.com/item?id=28414751](https://news.ycombinator.com/item?id=28414751)
+
+---
+"'Why is it that every criticism of agile/scrum/safe is met with "well you just weren't really doing it?'
+
+Probably because a lot of people aren't really doing it, for reasons that are entirely predictable if you've ever worked at a big company. Consider the core of the Agile Manifesto http://agilemanifesto.org/:
+
+> * Individuals and interactions over processes and tools
+> * Working software over comprehensive documentation
+> * Customer collaboration over contract negotiation
+> * Responding to change over following a plan
+> 
+
+How many big companies do you know that are organizationally capable of valuing individuals over processes and tools, or responding to change over following a plan? Almost all big companies have the opposite value system on those two points, imposed from the top down by the CEO (with the exception that they do value individuals if those individuals are senior management). Many big companies also have incentive structures that strongly countermand the other points, too. Comprehensive documentation is crucial ammunition for redirecting the blame for bad decisions, for example. (Cf. https://news.ycombinator.com/item?id=28674388: 'we not only need very thorough clarity on what feature development will yield the greatest returns, but also deniability that we had good reason for doing what we were doing if it turns south.')"--kragen, [https://news.ycombinator.com/item?id=28414751](https://news.ycombinator.com/item?id=28414751)
+
+---
+"From a management perspective, [scrum] having everything reduced to a process and method is the ideal world, as no true knowledge about the actual work is needed. The weaker then understanding of the work, the stronger the desire to replace uncertainty with process."--RandomLensman, [https://news.ycombinator.com/item?id=28414751](https://news.ycombinator.com/item?id=28414751)
+
 **What works, in their own words**
 
 _People on social media uncovering better ways of developing software that are entirely different than Agile._
