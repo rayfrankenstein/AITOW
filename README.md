@@ -164,6 +164,9 @@ Agile is like writing a draft of a mystery novel, before actually thinking throu
 "My experience is that sprints interrupt my workflow to such an extent that I can no longer get anything done. In other words, they make a good team bad. Perhaps it's just me, but I need long periods uninterrupted to work. It's not just the regular status meetings, but other meetings which break up the day to an extent that I can no longer get that."--rwmj, [https://news.ycombinator.com/item?id=17186591](https://news.ycombinator.com/item?id=17186591)
 
 ---
+"The issue with all of [Scrum's addition of] process, ceremony and meetings is work still needs to get done. Sadly the only time to do work is often outside of working hours since then, finally, the meetings and ceremony have ended."--osigurdson, [https://news.ycombinator.com/item?id=28414751](https://news.ycombinator.com/item?id=28414751)
+
+---
 “I can relate to this, in my current team, scrum is used as a tool for micromanagement, in my previous quarterly review I received negative feedback from my manager for failing in "stakeholder management" which he explained as not sharing enough updates during scrum, utter nonsense!”—__dev, booking.com, “Anyone else hate scrum standups”, Blind.
 
 ---
@@ -477,6 +480,9 @@ SOFTWARE DEVLOPMENT IS NOT LIKE BRICKLAYING! NOT. LIKE. BRICKLAYING!”—Unknow
 
 ---
 “I hate [agile]. Mostly because it priorities easy incremental improvements and rituals.”—RLQy16, a user who works for Spotify, Blind
+
+---
+"[Scrum] also fits very well with feature factory shops: a story fits nicely into a single feature. God help you when you are trying to build a system from scratch with scrum overhead. Not everything is a story or a ticket. It's painful."--bennysomething, [https://news.ycombinator.com/item?id=28414751](https://news.ycombinator.com/item?id=28414751)
 
 ---
 “The first time I got in a Scrum team I thought of Animal Farm in the first few days. It presents itself as giving power to the workers while being highly authoritarian. It rely heavily on social pressure and those who don’t conform are shamed or purged. The control of the mean of production, the disdain for individuality and creativity, the party line, all is there.”—heisgone, [https://www.google.com/amp/s/amp.reddit.com/r/cscareerquestions/comments/7r146e/do_you_hate_scrum/](https://www.google.com/amp/s/amp.reddit.com/r/cscareerquestions/comments/7r146e/do_you_hate_scrum/)
@@ -884,6 +890,11 @@ Not to mention that "velocity" and burn down charts actually reinforce the idea 
 I have worked in several environments that embraced 'agile'. And they were all different, for the most part.
 
 The only things they had in common was bad management and negligence of tech debt."--codesushi42, [https://news.ycombinator.com/item?id=20417768](https://news.ycombinator.com/item?id=20417768)
+
+---
+"The whole reason lean manufacturing works is you're manufacturing slightly different variations the same car, or toaster, TV over and over again. And you have an opportunity to incrementally improve the manufacturing process.
+
+Applying these same principles to a year long development effort where you are building an enterprise software application and dividing it into 2 week sprints doesn't really work when each sprint you're doing something completely different."--elliotLoLerson, [https://www.reddit.com/r/ExperiencedDevs/comments/qc7f5x/what_is_your_most_controversial_opinion_tech/](https://www.reddit.com/r/ExperiencedDevs/comments/qc7f5x/what_is_your_most_controversial_opinion_tech/)
 
 ---
 "I would describe my current project as "Agile at all costs". No testing, no requirements, just go. Just do. I have to say it's created an environment where almost every developer is super unhappy and ultimately producing a sub-par product.
