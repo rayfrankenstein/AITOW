@@ -50,6 +50,9 @@ Plus doing large scale architectural changes is really hard in two week (or what
 Some stuff just takes as long as it takes."--marqis, [https://www.reddit.com/r/programming/comments/6rsyrd/in_a_nutshell_why_do_a_lot_of_developers_dislike/](https://www.reddit.com/r/programming/comments/6rsyrd/in_a_nutshell_why_do_a_lot_of_developers_dislike/)
 
 ---
+"Almost invariably, there are tickets that simply do not fit into a 2-3 week sprint, which cannot reasonably be split into multiple tickets (possibly done by another dev, who starts from "zero"). What almost always happens in my own experience is that no one really cares about the sprint as such. The tickets take as long as they need."--Juha Utinen, [https://softwareengineering.stackexchange.com/questions/410482/how-do-i-prevent-scrum-from-turning-great-developers-into-average-developers](https://softwareengineering.stackexchange.com/questions/410482/how-do-i-prevent-scrum-from-turning-great-developers-into-average-developers)
+
+---
 “The only thing consistent about Agile is that everyone is doing it wrong.”—fwio, [https://news.ycombinator.com/item?id=19571809](https://news.ycombinator.com/item?id=19571809)
 
 ---
@@ -76,7 +79,15 @@ That's sad.”—PaulHoule, [https://news.ycombinator.com/item?id=19571809](http
 “Generally the problem is that management wants this idea you call -just in time planning’ to happen all the time, and even believes it to be synonymous to Agile. Meanwhile the software team is saying, that's fundamentally at odds with the entire premise of how to write software. Saying you want to produce software that was always planned at the drop of a hat (which is what management wants) is like saying you want to chisel Mount Rushmore but you won't tell whose faces should be on it until right at the end. It's just not a coherent goal. My hope with the barriers to anti-quality thing is that we would take things like this, where regardless of what management feels entitled to, and make it sacred and inviolable that the obviously stupid and incoherent things can be vetoed by the feet-on-the-ground people doing the actual work.”--mlthoughts2018, [https://news.ycombinator.com/item?id=17186591](https://news.ycombinator.com/item?id=17186591)
 
 ---
+
+"Scrum is a bit like communism, it only works in theory. Here's what ruins it in practice. After a successful scrum, managers demand an increase in velocity. Scrum estimates quickly become deadlines. Developers stop helping each other because that's not visible on the board. Developers say tasks are easy when the know they won't be working on them. If your first task goes badly then you are reminded that you are behind schedule every day in the scrum meeting. Developers look for jobs where scrum is not used.", Paul McCarthy, [https://softwareengineering.stackexchange.com/questions/410482/how-do-i-prevent-scrum-from-turning-great-developers-into-average-developers](https://softwareengineering.stackexchange.com/questions/410482/how-do-i-prevent-scrum-from-turning-great-developers-into-average-developers)
+
+---
+
 "In my experience business uses the term 'Agile' as a coverup for indecision. When in doubt say 'Agile mode' , as you can change the requirements anytime."--SquareWait, [https://www.reddit.com/r/programming/comments/8jvrr1/developers_should_abandon_agile/](https://www.reddit.com/r/programming/comments/8jvrr1/developers_should_abandon_agile/)
+
+---
+"I’ve spent enough time in sprint planning meetings trying to explain why we need to do A before B before C to product owners who are more interested in power politics than working code", Tim Burns, [https://sam-redmond.com/scrum-and-agile-are-one-in-the-same-and-its-killing-us-c67974bb2f48](https://sam-redmond.com/scrum-and-agile-are-one-in-the-same-and-its-killing-us-c67974bb2f48)
 
 ---
 “I'll give you a recurring example of [Agile’s] bullshit. 
