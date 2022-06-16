@@ -72,7 +72,14 @@ Some stuff just takes as long as it takes."--marqis, [https://www.reddit.com/r/p
 That's sad.”—PaulHoule, [https://news.ycombinator.com/item?id=19571809](https://news.ycombinator.com/item?id=19571809)
 
 ---
+"Every scrum proponent always responds to any criticism with a no true Scotsman claim. I’ve never personally seen or heard second hand of a successful scrum implementation, and the SWE academic literature doesn’t support it either.
 
+I’d argue that spending time on activities like scrum poker or sprint planning are actively harmful for most kinds of teams. The points games are inherently adversarial, only add value for scrum masters, and waste time that could be spent understanding requirements/business problems better. The incentives are inherently perverse and the whole exercise encourages and rewards dishonesty."--ch4s3, [https://news.ycombinator.com/item?id=31705526](https://news.ycombinator.com/item?id=31705526)
+
+---
+"People basically used Scrum or that part from the Agile manifesto as a get out of jail free card for not doing any documentation. Probably the single worst thing that ever happened in the history of software development."--AtNightWeCode, [https://news.ycombinator.com/item?id=31705526](https://news.ycombinator.com/item?id=31705526)
+
+---
 “I have yet to see an implementation of Agile that's not misused as a pretext for micromanagement.”—tempdox, [https://news.ycombinator.com/item?id=19571809](https://news.ycombinator.com/item?id=19571809)
 
 ---
@@ -691,6 +698,9 @@ Because it's invisible, what's the point of arbitrarily shipping it in one-to-tw
 Not every problem is well suited to being broken up into single day chunks of work. Not every developer can maintain a healthy relationship to their work with that level of micromanagement. There is a huge amount of anecdotal evidence about this if you read any thread about developer burnout, or modern day scrum and agile. You mention the Agile Manifesto, but seem to forget that one of the primary points is "individuals and interactions over processes and tools"--Transmatta, [https://news.ycombinator.com/item?id=30074949](https://news.ycombinator.com/item?id=30074949).
 
 ---
+"[Metrics only being seen and used by the team] seems to be the exception rather than the rule in my head experience. Even still, what concrete value comes from assigning fairly arbitrary effort estimates in this fashion?...Respectfully, I’ve seen a bunch of scrum implementations and attempts in that direction and they have a lot of overlapping pathologies. I’ve also gone to the source material. IMHO scrum simply wastes time on meetings that give a false sense of visibility and create a lot of negative incentives. For those costs, I’ve never seen a return that was worth the trade off."--ch4s3, [https://news.ycombinator.com/item?id=31705526](https://news.ycombinator.com/item?id=31705526)
+
+---
 “Before answering this question, I re-read the Agile Manifesto - http://agilemanifesto.org/princi... 
 
 Some general observations could be:- Face to face conversation is not always the best way to remember things, our highest priority is to serve the customer but unfortunately the customer doesn’t know what they want and it can become a fool’s errand, business people and developers must work together frequently/daily but we all know that constant interruptions are the death knell of focussed code writing. What we do notice is how mention of the best solutions and architectures arise from self-organising teams but where is the evidence of this being true? However, the original manifesto was created by experienced software developers to try and deliver better solutions to the business quicker.
@@ -720,6 +730,14 @@ As a contractor I have worked at many companies, each with its own methodology o
 
 I do software test automation development. Try doing that without test cases that include extensive, precise, click-by-click instructions. Fun fact. You can't! At least not without adding hours, or days to a process that would have taken 15 minutes had the original manual tester actually written it down completely. We live and die by that documentation.
 Consequently, whenever I hear about 'working software over documentation,' I feel my head start to explode."--Kcufftrump, [https://www.reddit.com/r/programming/comments/afthlr/manifesto_for_halfarsed_agile_software_development/](https://www.reddit.com/r/programming/comments/afthlr/manifesto_for_halfarsed_agile_software_development/)
+
+---
+> Scrum is great for teams composed of new developers who don't yet know how to work together
+ 
+I couldn’t disagree more strongly. My experience is that scrum teaches junior devs bad Han it’s around blame shifting, focuses them on process, prevents them from learning about the business, and bogs them down in meetings that don’t help them learn.
+
+I would argue that scrum ossifies bad culture. It has a habit of giving bad leaders metrics around things they shouldn’t be measuring.
+There’s a lot of software engineering research about processes and the case in the literature for scrum is very weak."--ch4s3, [https://news.ycombinator.com/item?id=31705526](https://news.ycombinator.com/item?id=31705526)
 
 ---
 “[Why are employees against moving to scrum and agile]?
@@ -787,7 +805,8 @@ Besides tech debt, a concern I have that I don't see brought up is burn out. Wit
 
 While it "works" it is certainly not ideal that people have to go off the reservation to ensure that the project doesn't implode in the future due to the accumulation of buggy code, performance problems and likely security vulnerabilities.”—pandapower, [https://news.ycombinator.com/item?id=20017854#20021832](https://news.ycombinator.com/item?id=20017854#20021832)
 
-
+---
+"But that just begs the question, why sprint? Two weeks seems arbitrary, and meetings on that cadence are pretty noisy. Trying to deliver in that frame can either lead to dead time if things go faster than expected or can lead to artificial failures if you miss it. Why set yourself up to fail that particular way? I don’t think it’s especially useful for organization or accountability and adds a lot of noise and waste."--ch4s3, [https://news.ycombinator.com/item?id=31705526](https://news.ycombinator.com/item?id=31705526)
 
 --
 “I feel like you work at my last company. But so many companies f* this up that it could be any company.
