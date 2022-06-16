@@ -1452,7 +1452,7 @@ __Deliberately estimating inaccurate story points that will help create a “per
 
 __Comparing one team with another team in terms of “velocity”.__ Every team has a different understanding of what a story point is “worth”. This makes story points and in turn velocity ultimately meaningless metrics that simply cannot be used to compare the output of two or more teams. Any decisions based upon this are going to be flawed. This leads to scrum masters and product owners having to present reports to executives that indicate one team is “performing” better than another. Obviously, that is a flawed comparison and despite an organisation “doing agile” they seem to never take these nuances into account and instead pressure teams."--Lloyd Atkinson, [https://www.lloydatkinson.net/posts/2022/one-teams-eight-points-is-another-teams-two-points/](https://www.lloydatkinson.net/posts/2022/one-teams-eight-points-is-another-teams-two-points/)
 
-**What works, in their own words**
+## What works, in their own words
 
 _People on social media uncovering better ways of developing software that are entirely different than Agile._
 
