@@ -310,6 +310,11 @@ Scrum is just the by-product of corporate status-seeking evolutionary war games 
 “Technical debt. I see this time and time again. User Stories are supposed to be forecasts, not commitments. But the business doesn't like stories carried over, so they become commitments. At the end of each sprint, everyone rushes to get their stuff done, and hacks are implemented to meet an arbitrary deadline. Many times I want to begin my work by refactoring something to what it needs to be first, then do the actual user story. But its risky because the refactoring might take more than the allocated story points, and you get dinged. So I do the story first, and if there is time do the refactoring but it almost never happens.”—clumsysmurf, [https://news.ycombinator.com/item?id=20017854#20021832](https://news.ycombinator.com/item?id=20017854#20021832)
 
 ---
+"My company is undergoing an "agile transformation" to use Scrum. Whereas before my team was working prioritising people and communication over process we're now "committing" to arbitrary deadlines and bogged down by process and useless meetings. Rather than being able to respond to change we have set scope and bringing work in is frowned upon because it might cross the "deadline". We don't even have a fixed release schedule so the fortnightly sprint boundary is pointless. 
+
+I can see why you might need to run a low-trust low-skill offshore project this way but actually existing Scrum is worse than even the waterfall my first company did."--Guid_NewGuid, https://news.ycombinator.com/item?id=31705526
+
+---
 “The bane of my existence is the endless pressure for estimates. I'm doing research; no one has done this stuff before. It is truly unknowable. If it was known it would be in a paper somewhere, and I would merely be implementing that paper. So I get told "break it down into smaller chunks", as if my 30 years of success didn't teach me how to break down problems. Thanks PM that has never coded or produced anything intellectually novel before! I'm surely being dumb and/or obstinate!
 
 I got that written in my previous performance review, that I don't know how to plan and break down problems, because I flatly refuse to play this game. You get punished for trying for hard things. It's nonsense. "I don't know" cannot be changed by insisting on an estimate.”—RogerL, [https://news.ycombinator.com/item?id=20325096](https://news.ycombinator.com/item?id=20325096)
@@ -465,6 +470,14 @@ Lastly, the "story points not related to effort but related to effort" conundrum
 I have no idea who was tying to prove what to whom when they came up with Scrum and Scrum certifications. The certified Scrum masters I've seen don't even know how to write a good user story or to break it into tasks.
 
 Give me low process overhead iterative waterfall any day over these schemes. Repeatedly trying to turn software developers into predictable manufacturing style widget makers is not a good idea.”--newscracker
+
+---
+"1. Scrum sprints have all sorts of goofy restrictions, that you don't need to waste time on with a true-agile process. You don't need to plan out exactly two weeks. You don't need to worry about having too much or too little work in the sprint.
+2. Scrum requires you to break things down pointlessly, when really most teams can execute on higher level goals.
+3. Teams do not need to meet for a standup every day.
+4. Effort estimates can be extremely approximate and wrong, but scrum tries to force you to spend way too much time on them.
+ 
+The "plan" in a non-scrum environment is much better at focusing on what matters, rather than ticking all the scrum boxes."--lostdog, [https://news.ycombinator.com/item?id=31705526](https://news.ycombinator.com/item?id=31705526)
 
 ---
 “I work for a good company but the team I was on a few years ago was using scrum. It really does promote pushing debt down the line because the product owner only cares about what they can see or measure. The debt isn't part of that set so the developer has to fight to address it. After the first battle many will stop fighting because they are measured by how well the product owner thinks that developer is implementing their roadmap and on track with the schedule they got approved.
@@ -788,6 +801,15 @@ When the project management was informed of these predictions now having come tr
 
 ---
 “I've been developing software for 20+ years. In practice, due to the nature of agile / scrum, design is very minimal or thrown out the window entirely. It encourages short term thinking. Rarely is anything beyond the "current sprint" considered.”—icedchai, [https://news.ycombinator.com/item?id=20017854#20021832](https://news.ycombinator.com/item?id=20017854#20021832)
+
+---
+"Anecdotally, the worst part about scrum is the skewed incentives it creates. When you start doing scrum, a few things become really hard.
+
+- Long term planning, few impactful projects/features ship in 2-3 weeks. Many can ship in 3-6 months. Talking about these things becomes exceptionally hard as debate on whether there should be a plan takes center stage.
+
+- Focusing on the right things. Do you care that the sprint points got done, or do you care that the customer's problem was solved? what if the two are in conflict?
+
+- Organization politics. When 5 teams publish burn down charts and one goes in the wrong direction, what happens? What happens when you ask another team to do something and they don't deliver? Do we haggle over "acceptance criteria"?--lumost, [https://news.ycombinator.com/item?id=31705526](https://news.ycombinator.com/item?id=31705526)
 
 ---
 "Well, now the client is doing "agile", asking new features all the time, never writing actual requirements but just blabbing in a meeting, but we are stuck with the constraints of waterfall. I'd rather do 90's waterfall than this shit, at least I'd have stable requirements and users thinking more than 30 seconds about the shit they're asking."--mlk, [https://www.reddit.com/r/programming/comments/afthlr/manifesto_for_halfarsed_agile_software_development/](https://www.reddit.com/r/programming/comments/afthlr/manifesto_for_halfarsed_agile_software_development/)
