@@ -23,6 +23,9 @@ i know for a fact that 90% of engineers dislike agile but many don't even imagin
 "Agile is too vague to be dead. You will always find projects to fit your definition of agile."--reanjr, [https://developers.slashdot.org/story/19/08/26/045216/agile-programming-is-not-dead-quite-the-opposite#comments](https://developers.slashdot.org/story/19/08/26/045216/agile-programming-is-not-dead-quite-the-opposite#comments)
 
 ---
+"Scrum doesn't work. You can't apply Lean Manufacturing principles to software development."--elliotLoLerson, [https://www.reddit.com/r/ExperiencedDevs/comments/qc7f5x/what_is_your_most_controversial_opinion_tech/](https://www.reddit.com/r/ExperiencedDevs/comments/qc7f5x/what_is_your_most_controversial_opinion_tech/)
+
+---
 “The motto of delivering customer value has been used as an excuse to emphasize the surfaces exposed to the customer (e.g: features) and neglect non-features (non-functional requirements, e.g: maintainability, security, performance, scalability, configuration, testing).”--partycoder. [https://news.ycombinator.com/item?id=14085716](https://news.ycombinator.com/item?id=14085716)
 
 ---
@@ -191,6 +194,18 @@ I got told by Manager that you are not giving enough details and working less...
 
 ---
 “I hate agile/scrum with a passion.  If you ask me, agile is a cancer that needs to be killed with a bullet to its head.  It's killing the profession of software engineering and turning us into blue collar factory employees by measuring our output on a daily basis.  All of us should do our best to put it into the ground where it belongs.”—OICI53, Palo Alto Networks, “Anyone else hate scrum standups”, Blind.
+
+---
+"I'm also a good developer (I think) who struggles with Scrum. My personal beef with it is not only the lack of defined procedures, but the overall mindless despair it causes with things like:
+
+* there isn't any hierarchy, so you're worth the same as a junior
+* a task has to fit in two weeks, so there's no time for anything meaningful
+* monotone cycles with no end at hand
+* every day explain what are you doing (doesn't matter to whom)
+* every success is for the "team", but mistakes are yours
+* complete lack of a long term objective because "requirements change"--KiraraVS.
+
+[https://softwareengineering.stackexchange.com/questions/410482/how-do-i-prevent-scrum-from-turning-great-developers-into-average-developers](https://softwareengineering.stackexchange.com/questions/410482/how-do-i-prevent-scrum-from-turning-great-developers-into-average-developers)
 
 ---
 “I'm getting really frustrated with my current role since I'm an ML scientist and feel Agile Scrum is a particularly bad fit for this job. It reduces ML work to incremental pointless improvements since everything needs to have story points and be finished in two weeks where half the days are full of meetings.”—RLQy16, “For Machine Learning people, does you team use Agile?”, Blind.
@@ -588,6 +603,9 @@ Plus doing large scale architectural changes is really hard in two week (or what
 Some stuff just takes as long as it takes.”—marqis, [https://www.google.com/amp/s/amp.reddit.com/r/programming/comments/6rsyrd/in_a_nutshell_why_do_a_lot_of_developers_dislike/](https://www.google.com/amp/s/amp.reddit.com/r/programming/comments/6rsyrd/in_a_nutshell_why_do_a_lot_of_developers_dislike/)
 
 ---
+"[sarcastic] WE committed. We made these commitments as a team. If you can't fulfill what has been committed to by the team, then we as a team have to have a discussion about that. I'll put the meeting for next Monday on everyone's outlook."--bitwize, [https://news.ycombinator.com/item?id=28414751](https://news.ycombinator.com/item?id=28414751)
+
+---
 “Writing both the code and the unit tests for a requirement often takes more than 8 to 10 hours so expecting a deliverable daily is micro mgmt.”—ostrich1, ““Anyone else hate scrum standups”, Blind.
 
 ---
@@ -830,6 +848,31 @@ The business DOES favor:
 *   conformance to industry best practice
 *   a large talent pool to draw from
 *   as low a salary for developers as possible”--bitwize, [https://www.reddit.com/r/programming/comments/c2s81g/maybe_agile_is_the_problem/](https://www.reddit.com/r/programming/comments/c2s81g/maybe_agile_is_the_problem/)
+
+---
+"5
+
+I’m a decent developer transformed to mediocrity by Scrum mostly because Scrum gives me a path to get away with it and gives me no reason to care and strongly encourages me to game the system.
+
+Scrum makes the 15 minute standup where you influence your boss and where your boss evaluates your performance. The entire day becomes built around reporting success in your 1 minute blurb. So doing anything complex means it never enters the reporting hierarchy as complex ideas require more than a minute.
+
+Because all I need to do is blither on and keep my velocity high. My colleagues and I can reallocate a lot of my time to other things. I’m doing my master's degree. Another team member is building his own startup. My QA spends half her day weaving.
+
+Scrum assumes employees care whether a company or project succeeds or fails, but we don’t because we are the zebras on display, not the zookeeper. The zoo merely needs to make enough money for us not to starve. Whether the owner eats is irrelevant. Another answer says that a group of individuals will lose to a team. As an employee though, losing is perfectly fine. If my project dies a year out, why do I care?
+
+I’m a developer who is pro Scrum, but mostly because it lets me get paid for doing my master's degree nearly full time.
+
+Nobody in management should be happy with it as our team is probably producing 1/3 of what it did back in September. But as long as we keep velocity high, management is too blinded by Scrum to know the difference between points generation and real work.
+
+Preventing this would require caring about individual performance beyond standup and ticket speed. Scrum emphasizes reporting about speed and nothing else, so committing garbage and then using the time for myself makes absolute sense.
+
+Scrumisms since I wrote this answer:
+
+A fellow dev was rushing to finish an if statement before the daily standup. He skipped the final check to get it to QA for 8 so they could check it before 9. That check is still not there and is basically going to wait for a client complaint.
+
+Numerous tasks abandoned halfway on new orders called down from on high by the product owner leaving half done tickets which needed to be declared done so intro production they went.
+
+Generating 30 tickets for changing a heading size (which is just one CSS change)."--Spleen, [https://softwareengineering.stackexchange.com/questions/410482/how-do-i-prevent-scrum-from-turning-great-developers-into-average-developers](https://softwareengineering.stackexchange.com/questions/410482/how-do-i-prevent-scrum-from-turning-great-developers-into-average-developers)
 
 ---
 “Agile is basically just a collection of thought terminating cliches at this point. Even "going back to the manifesto" as the author suggests, just brings us back to the root of the problem. The manifesto is dead set against "analysis paralysis", and "worriers", etc. It's ANTI-THOUGHT.
