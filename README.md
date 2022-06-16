@@ -671,6 +671,25 @@ It seems to me "agile" only works if all the features are "light": quick to impl
 Finally, you don't have interchangeable developers. Sure, in a web world where you have 7 people who all do the same job it's easy. But if you have only one expert on the radio, and only one expert on protocols, and only one expert on crypto, and three junior people all unfamiliar with RTOS concepts, then the developers aren't fungible."--DarinBob, [https://developers.slashdot.org/story/19/08/24/1748246/is-agile-becoming-less-and-less-relevant#comments](https://developers.slashdot.org/story/19/08/24/1748246/is-agile-becoming-less-and-less-relevant#comments)
 
 ---
+[Scrum] is an approach to development that encourages an extremely limited and short term view on development that leads to low quality software and unhappy developers. It's also only remotely possible with a certain type of software.
+
+"Not all development fits nicely into day-or-two chunks. Forcing all your work to fit nicely into this type of mold is an arbitrary restriction that serves no real purpose except to check all the necessary scrum boxes, give the illusion of extra productivity, and allow for micro-management. It ends up being completely antithetical to thinking deeply and long term about the the code you're writing.
+
+I've worked on teams that run the full gamut here. Those that did scrum and enforced "an every task should be one or two days" did not ship more or higher quality software than those that didn't, and the development teams were consistently more stressed and less satisfied with their work.
+
+> _What do you think of the idea that providing finished work on an every-day-or-two cadence allows you to collect feedback from your customers in a way that keeps your work focused and relevant to their needs?_
+
+You can gather plenty of useful feedback to keep your work focused and relevant on cadences other than one or two days. What kind of customer even wants to provide feedback that often? That sounds awful, not to mention being a poor user experience, where users are treated like beta testers, with half baked features constantly pushed out the door.
+
+This also ignores the fact that there is a huge amount of important work that is effectively invisible to the end user, but is absolutely crucial. The workflow you're suggesting disincentives the team from working on those things, and may even punish them for it (as they are not shipping customer visible features).
+
+A lot of important work is something a customer will have no idea exists until it goes wrong. If you've done your job right, it will remain invisible forever.
+
+Because it's invisible, what's the point of arbitrarily shipping it in one-to-two day chunks to "gather user feedback"? Be willing to take the time to do hard things right. I'm not proposing you spin your wheels for ages on something, and I'm generally in favor of shipping early and often, it's just trying to fit every different shaped problem into the same process that doesn't work for me.
+
+Not every problem is well suited to being broken up into single day chunks of work. Not every developer can maintain a healthy relationship to their work with that level of micromanagement. There is a huge amount of anecdotal evidence about this if you read any thread about developer burnout, or modern day scrum and agile. You mention the Agile Manifesto, but seem to forget that one of the primary points is "individuals and interactions over processes and tools"--Transmatta, [https://news.ycombinator.com/item?id=30074949](https://news.ycombinator.com/item?id=30074949).
+
+---
 “Before answering this question, I re-read the Agile Manifesto - http://agilemanifesto.org/princi... 
 
 Some general observations could be:- Face to face conversation is not always the best way to remember things, our highest priority is to serve the customer but unfortunately the customer doesn’t know what they want and it can become a fool’s errand, business people and developers must work together frequently/daily but we all know that constant interruptions are the death knell of focussed code writing. What we do notice is how mention of the best solutions and architectures arise from self-organising teams but where is the evidence of this being true? However, the original manifesto was created by experienced software developers to try and deliver better solutions to the business quicker.
