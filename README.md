@@ -1423,6 +1423,35 @@ How many big companies do you know that are organizationally capable of valuing 
 ---
 "From a management perspective, [scrum] having everything reduced to a process and method is the ideal world, as no true knowledge about the actual work is needed. The weaker then understanding of the work, the stronger the desire to replace uncertainty with process."--RandomLensman, [https://news.ycombinator.com/item?id=28414751](https://news.ycombinator.com/item?id=28414751)
 
+---
+__Misuse of story points__
+
+How many of these anti-patterns sounds familiar?
+
+__Failing to realise story points are an estimate.__ Despite the phrase “story point estimate” there are often cases where stakeholders seem totally oblivious to the “estimate” part. In other cases, the assigned story point value is often taken to be the exact amount of effort required to implement the backlog item.
+
+__Pressuring or coercing developers into choosing a lower number.__ Pressure being applied to developers in order to make them feel like they have no choice except to “estimate” a lower amount of effort in order to be left alone and avoid the stress of being singled out. Even worse, then blaming the developer at the end of the sprint when work “takes longer” than estimated.
+
+__Immediately discounting high or low numbers.__ Similar to the previous point. Immediately disregarding any estimates that are an outlier compared to other team members. A score wildly different to the average usually means one of two things - that either they didn’t understand the scope of the work or that they have unique insights and concerns about the task. Some stakeholders ignore those insights and concerns because they are inconvenient.
+
+__Comparing and judging developers workloads based on the total points.__ This is a terrible practice that only leads to resentment and unfair representations of workloads. Sometimes a developer completing many tasks with smaller estimates are perceived as doing more work than a developer completing tasks with higher estimates that take longer to implement. Both developers are contributing yet one gets little to no acknowledgment.
+
+__Treating story point estimations as hard immutable facts.__ Once an agreement has been made over how many points a story is to have, there is no way to update the value of it as more discoveries are made without unnecessary drama and arguments. Of course, this should not be the case as changing is supposed to be part of the manifesto. It inevitably leads to everyone estimating higher values in order to get breathing room.
+
+_“Responding to change over following a plan”_
+
+— Manifesto for Agile Software Development
+
+Berating developers when they realise a story was over or under estimated. Similar to the previous point. Discouraging and discrediting developers for their estimates, often on a regular basis. This needs to stop.
+
+__30+ minute debates to decide if a story should be 1 or 2 points.__ Long and protracted discussions are sometimes needed, that’s just life and the nature of development. Perhaps the bigger picture system architecture needs to be considered or maybe there is a concern an approach could lead to technical debt and highly coupled code. On the other hand, some of the debates around whether an “easy” task should be assigned 1 or 2 points etc. are captious and a waste of time and patience.
+
+__Expecting the same “velocity” every sprint.__ This one is more subtle and seems to sneak in unnoticed - at least until after a few sprints have been completed. It might be subtle, but it’s a debilitating practice that only serves to exhaust teams and it’s members over time. This can manifest in multiple ways often concurrently. Making a specific number of story points per sprint a mandatory target. Adjusting story points to “fit” that target. Bringing in extra items from the backlog to “fit” the target thus increasing work load on the developers.
+
+__Deliberately estimating inaccurate story points that will help create a “perfect” burn down chart.__ Similar to the previous point but needs to be pointed out specifically. There’s a couple of angles at work here: 1) the developer that just wants to work and is fed up of being berated so “estimates” a story point that will keep the scrum master happy. 2) the scrum master being asked why their team does not have a perfect burn down chart and so massages the story points into something that the executives want to hear and see. Even if the burn down chart is totally inaccurate as long as it’s a perfectly linear line that’s all that seems to matter for organisations “doing agile”.
+
+__Comparing one team with another team in terms of “velocity”.__ Every team has a different understanding of what a story point is “worth”. This makes story points and in turn velocity ultimately meaningless metrics that simply cannot be used to compare the output of two or more teams. Any decisions based upon this are going to be flawed. This leads to scrum masters and product owners having to present reports to executives that indicate one team is “performing” better than another. Obviously, that is a flawed comparison and despite an organisation “doing agile” they seem to never take these nuances into account and instead pressure teams."--Lloyd Atkinson, [https://www.lloydatkinson.net/posts/2022/one-teams-eight-points-is-another-teams-two-points/](https://www.lloydatkinson.net/posts/2022/one-teams-eight-points-is-another-teams-two-points/)
+
 **What works, in their own words**
 
 _People on social media uncovering better ways of developing software that are entirely different than Agile._
@@ -1472,7 +1501,6 @@ Of course, this was at a startup, where there was no "on high". The product mana
 I will not work at Agile/Scrum shops for similar reasons. Although my primary reason is different. Estimations break the whole process. Most of engineering is discovery work and discovery work can't be estimated, leading devs to estimate 10 times what tasks actually take so that they don't get in trouble for not finishing tasks on time.
 
 I work for a smaller dev team currently and I take a project and finish it A to Z. It is extremely satisfying to have complete individual ownership over a task and we've achieved greater development velocity than I ever thought possible.
-
 
 ---
 “I work with people who keep making lots of changes and have no real long term plans. They do Agile and only think a week ahead of things. If you want to ship a long term project you need to lay a lot of groundwork up front and stick to it.”--@RedQueenCoder, https://twitter.com/RedQueenCoder/status/991120881719144449
