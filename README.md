@@ -46,6 +46,9 @@ I prefer my people solve difficult problems and not just little bite-sized tasks
 “Scrum is basically a huge amplifier for crappy management, and offers absolutely no protections against it.”--s73v3r_, [https://news.ycombinator.com/item?id=17186591](https://news.ycombinator.com/item?id=17186591)
 
 ---
+"I've worked for 15 different companies, and 13 of those had a standup. And of those 13/13 were a status report."--JamesBarney, [https://news.ycombinator.com/item?id=31705526](https://news.ycombinator.com/item?id=31705526)
+
+---
 "Totally agree. In my experience management likes agile since they set all these random goals on an arbitrary timeline. Devs hate agile since there are all these random goals that must be met by an arbitrary deadline.
 
 Plus doing large scale architectural changes is really hard in two week (or whatever) time slices.
