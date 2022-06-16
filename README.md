@@ -1505,3 +1505,15 @@ I work for a smaller dev team currently and I take a project and finish it A to 
 ---
 “I work with people who keep making lots of changes and have no real long term plans. They do Agile and only think a week ahead of things. If you want to ship a long term project you need to lay a lot of groundwork up front and stick to it.”--@RedQueenCoder, https://twitter.com/RedQueenCoder/status/991120881719144449
 
+---
+"I recently made a transition from a company focused on scrum to a FAANG working the way above. A lot of comments here are saying that engineers in this system can just do whatever they want without constraint.
+
+I think what people are missing is the focus on documentation that FAANG have in contrast to the focus on in person meetings in scrum.
+
+Things like sizing and planning get done in the initial stages of a project. The design docs and plans are peer reviewed and only once it has been signed off on does the actual implementation start. During implementation you have much autonomy but this is because most of the details have already been ironed out. The code is almost an afterthought."--aleksiy123, [https://news.ycombinator.com/item?id=31705526](https://news.ycombinator.com/item?id=31705526)
+
+---
+"In my past job, I volunteered and pushed to get the whole project, then I asked to be exempted from all scrum stuff, then got really close to PM and Designer, launched the whole thing without a single bug in 3 months and with more features than planned, and had 2 more months left.
+The reason there were no bugs was because any question I had, I slacked messaged PM, and got replied in less than a minute. She was on the project full time too, and was technical so was able to test out things and apis, document correct relevant data like console log errors, browser version, json response, curl ... etc.
+
+Have experts available in team which can be consulted asap - give whole projects - start with minimal project - create small informal groups, POC for each area: sr eng for legacy code, designer to get artifacts, PM to clarify tickets and address new bugs, main dev to do the whole thing - have team informally occasionally input on tech decisions."--lifeplusplus, [https://news.ycombinator.com/item?id=31705526](https://news.ycombinator.com/item?id=31705526)
