@@ -46,6 +46,13 @@ I prefer my people solve difficult problems and not just little bite-sized tasks
 “Scrum is basically a huge amplifier for crappy management, and offers absolutely no protections against it.”--s73v3r_, [https://news.ycombinator.com/item?id=17186591](https://news.ycombinator.com/item?id=17186591)
 
 ---
+"I feel that most people don't understand that larger corporations don't adopt Agile to benefit product teams, but to add a layer of measurability to the process that is only useful for middle and upper management to establish and track OKRs.
+
+Thus Agile may not be a failed idea, but it arguably fails at the implementation.
+
+Agile apologists seem to be disconnected from this reality."--manuelabelado, [https://news.ycombinator.com/item?id=31533420](https://news.ycombinator.com/item?id=31533420)
+
+---
 "I've worked for 15 different companies, and 13 of those had a standup. And of those 13/13 were a status report."--JamesBarney, [https://news.ycombinator.com/item?id=31705526](https://news.ycombinator.com/item?id=31705526)
 
 ---
