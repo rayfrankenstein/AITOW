@@ -56,6 +56,9 @@ Agile apologists seem to be disconnected from this reality."--manuelabelado, [ht
 "I've worked for 15 different companies, and 13 of those had a standup. And of those 13/13 were a status report."--JamesBarney, [https://news.ycombinator.com/item?id=31705526](https://news.ycombinator.com/item?id=31705526)
 
 ---
+"All these teams down in the weeds are obsessed with following the rituals to a tee thinking that makes them good little devs. When the whole point is so the middle and upper managements can track your activity to the minute and judge your performance."--matt-attach, [https://news.ycombinator.com/item?id=31533420](https://news.ycombinator.com/item?id=31533420)
+
+---
 "Totally agree. In my experience management likes agile since they set all these random goals on an arbitrary timeline. Devs hate agile since there are all these random goals that must be met by an arbitrary deadline.
 
 Plus doing large scale architectural changes is really hard in two week (or whatever) time slices.
@@ -81,6 +84,9 @@ News flash: nobody is doing the actual, literal version of Scrum as defined in t
 
 ---
 “This may be doing Agile wrong, but if something can be so easily done wrong that it's common, I count that as serious flaw in the methodology.”—JohnFen, [https://news.ycombinator.com/item?id=19571809](https://news.ycombinator.com/item?id=19571809)
+
+---
+"The biggest problem (though far from only) problem of Agile is that the authors of the Manifesto underestimated the degree to which people would misread “over” as “instead of”, even given an explicit admonition that that reading was incorrect, making the Manifesto terse and catchy, but ineffective in communicating it's core ideas."---dragonwriter, [https://news.ycombinator.com/item?id=31533420](https://news.ycombinator.com/item?id=31533420)
 
 ---
 “Often agile "teams" have a "normalization of deviance" situation where they have to do one thing (or say they are doing one thing) so they can say they are sticking to the process, but actually do something entirely different to get the job done.
@@ -159,6 +165,9 @@ _"Look this is an agile shop. We can't anticipate the needs of the customer. We 
 
 ---
 “Scrum doesn’t work for projects which require hard effort. Its focus on short, well-defined tasks and zero personal responsibility make it impossible to finish any poorly predictable project, for example, relying on deep development or research. Here scrum again proves that it is an agile methodology (though the term “slimy” would be more appropriate): it encourages to stick to the easiest, tastiest problems and ignore anything harder than that. As such, every project infected with scrum eventually transforms into the pipeline that copy-pastes simple by-the-book solutions. It is very frustrating to observe a fresh project with novel idea slowly dying after scrum has been introduced into it.”--Andrei Gudkov, [https://medium.com/@gudok/scrum-dysfunction-55e52494dc1d](https://medium.com/@gudok/scrum-dysfunction-55e52494dc1d)
+
+---
+"I have seen it now several times companies deciding to use scrum for research projects, and after a year they all realize how bad of an idea that is."--DreamFlasher, [https://news.ycombinator.com/item?id=31533420](https://news.ycombinator.com/item?id=31533420)
 
 ---
 "When Agile was introduced into the organization I work it was combined with "become more T-shaped" with the intent that everyone should be able to do everything, but the result was that nobody really understands what they are doing and use it as an excuse for "Somebody Else's Problem". I'm sort of the few remaining "specialists" with deep knowledge regarding my areas of functionality left, which has resulted in the case that I have had to present the intended logic of the functionality 5 times in 2 years now because there have been a new set of developers allocated 5 times now."--Z00L00K, [https://developers.slashdot.org/story/19/08/24/1748246/is-agile-becoming-less-and-less-relevant#comments](https://developers.slashdot.org/story/19/08/24/1748246/is-agile-becoming-less-and-less-relevant#comments)
