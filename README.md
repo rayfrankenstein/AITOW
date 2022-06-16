@@ -65,6 +65,11 @@ Some stuff just takes as long as it takes."--marqis, [https://www.reddit.com/r/p
 "'Your issue isn't agile, it's shitty management'. While I wholeheartedly agree with that statement, Agile/Scrum definitely exacerbates the problem of shitty management."--s73v3r, [https://www.reddit.com/r/programming/comments/8jvrr1/developers_should_abandon_agile/](https://www.reddit.com/r/programming/comments/8jvrr1/developers_should_abandon_agile/)
 
 ---
+"Every time a Scrum project goes badly, any criticism attributed to Scrum is deflected with this no true scottsman argument.
+
+News flash: nobody is doing the actual, literal version of Scrum as defined in the Scrum Guide. Nobody. So if you use this argument to deflect criticisms of Scrum, be consistent & don't attribute any success stories to Scrum either."--baobabKoodaa, --IndyMike, [https://news.ycombinator.com/item?id=31705526](https://news.ycombinator.com/item?id=31705526)
+
+---
 "The real reason programmers hate agile: we like our autonomy. We want to diagnose and fix problems, not be micromanaged and told how to do our jobs by people who don't even know how to program."--deleted, [https://www.reddit.com/r/programming/comments/6rsyrd/in_a_nutshell_why_do_a_lot_of_developers_dislike/](https://www.reddit.com/r/programming/comments/6rsyrd/in_a_nutshell_why_do_a_lot_of_developers_dislike/)
 
 ---
@@ -264,6 +269,9 @@ Firstly, Agile likes breaking down work into very small pieces, and making those
 “We moved to Agile/Scrum and it has worked well. I recently fired an employee who was a slow tester and now others claim that Agile/Scrum is intrusive and refuse to share information on their progress. What should I do?”--Anonymous Question, [https://www.quora.com/We-moved-to-Agile-Scrum-and-it-has-worked-well-I-recently-fired-an-employee-who-was-a-slow-tester-and-now-others-claim-that-Agile-Scrum-is-intrusive-and-refuse-to-share-information-on-their-progress-What-should-I-do](https://www.quora.com/We-moved-to-Agile-Scrum-and-it-has-worked-well-I-recently-fired-an-employee-who-was-a-slow-tester-and-now-others-claim-that-Agile-Scrum-is-intrusive-and-refuse-to-share-information-on-their-progress-What-should-I-do)
 
 ---
+"A long time ago, I hired a scrum master. Two months later, I fired the scrum master, and exorcised scrum from my company. It was bureaucratic, it siloed people (you are front end, and you will only work on front end) turned simple decisions into decision by committee designed to reduce risk to the committee members, favored people who had little knowledge in decision making and put 10 out of 10 client projects behind schedule. I've never really looked at scrum again..."--IndyMike, https://news.ycombinator.com/item?id=31705526](https://news.ycombinator.com/item?id=31705526)
+
+---
 “I hate giving daily standup updates. There is so much pressure from management to say you completed some deliverable every single day.
 
 But in reality, in order to do good work, I need to sometimes just spend a whole day doing research, or meeting with other teams, or writing documentation, or learning a new codebase, or learning a new tech stack, or making prototypes.
@@ -366,7 +374,11 @@ When I hear "Agile" now a days I just tells me I need to up my billing rate and 
 There are perhaps many reasons to be frustrated with Agile, and I've written much on the subject. However my biggest gripe is that is effectively undermines the creative or R&D style elements of being a programmer. Sure you may get to design how the data flows through the system, choices of technologies and libraries, pick programming patterns or languages, but true creativity is usually reserved for projects you work on in your own time - outside of work."--DevIceMan, [https://www.reddit.com/r/programming/comments/6rsyrd/in_a_nutshell_why_do_a_lot_of_developers_dislike/](https://www.reddit.com/r/programming/comments/6rsyrd/in_a_nutshell_why_do_a_lot_of_developers_dislike/)
 
 ---
+"My biggest surprise, when moving from 10+ years at FAANGs to a smaller valley startup, was the cargo cult worship of SCRUM, agile methodologies, story points and all that over just building and shipping value to the customer and moving metrics.
 
+I was also surprised, when starting to get involved in the broader Product Management community, that PMs at most companies (especially outside tech), are mostly project managers pushing JIRA tickets around"--umeshuni, [https://news.ycombinator.com/item?id=31705526](https://news.ycombinator.com/item?id=31705526)
+
+---
 “
 > If you really have a fleet of web servers burning CPU and you aren't tracking the costs, then I guess "it works" until someone figures out there isn't any money left in the coffer.
 
