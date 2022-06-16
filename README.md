@@ -252,6 +252,12 @@ I got told by Manager that you are not giving enough details and working less...
 “[The result of scrum sprints:] Short sight vision. With 2-week or 3-week sprints, people don’t want and don’t dare to make big things happen. Teams are afraid to take risks, to avoid losing sprint velocity, avoid creating more backlogs.As a result, it is incredibly hard to create good products with good technologies.”—Chao Hong Linh, Why Agile doesn’t work, [http://hanoian.com/content/index.php/26-why-agile-doesn-t-work](http://hanoian.com/content/index.php/26-why-agile-doesn-t-work)
 
 ---
+>  _A big motivator [for agile/scrum] wasn't just "Craftsmen who want to do their craft more effectively", it was "Employees who are being abused by project managers, Gantt charts, and top-down waterfall death marches, who want to have sanity_
+
+"And now we’re abused by velocity chart, retrospective about our failings, continuous change because we’re agile, under pressure all the time because of the two weeks « sprint » which end being a disguised death march…
+So how is it any better?"--Arcanum-XIII, [https://news.ycombinator.com/item?id=31533420](https://news.ycombinator.com/item?id=31533420)
+---
+
 “Agile Manifesto and the four values
 
 • Individuals and interactions over processes and tools
@@ -416,6 +422,9 @@ I used CPU as a broad example. What happened in my case was there was _no_ perfo
 “Usually scrum seems to be added for the sake of ‘predictability’.
 
 But nothing about the process fundamentally change the problems with software estimation. So in cases where teams are delivering rapidly at high quality but unpredictably, scrum acts as a place to hang paperwork & as a process to hide bad project managers. All while lying to management with charts.”—kasey_junk, [https://news.ycombinator.com/item?id=16892307](https://news.ycombinator.com/item?id=16892307)
+
+---
+"I use the phrase “the illusion of predictability” a lot when I talk about Scrum. Sadly, some people really cling to that illusion despite overwhelming evidence that it isn’t real."--koreth1, [https://news.ycombinator.com/item?id=31533420](https://news.ycombinator.com/item?id=31533420)
 
 ---
 “You'd be arguing against research in that case. Software estimation is a widely studied subject and no estimation technique we've found has brought projects into the 'predictable' mode.
@@ -643,9 +652,21 @@ Well anyway, managers in my current company are dumber than second coat of paint
 ---
 "Oh god, this perfectly describes the company I just quit. They went from using Trello, allowing us to choose what to work on, loosely setting story points and ... that was it.
 Then they decided they needed the metrics on everything, so they switched to JIRA, started doing retros, setting strict points on tasks(reprimanded in retros if you messed up), using burndown charts to reprimand even more, and giving the product manager the power to dictate what I work on and in what order.
+
 It went from being a great company to work at, to a company I ran away from. I have half a mind to send this thread over to them."--sunwooz
 
+---
 "Retros are great iff there is team empowered to actually meaningfully change stuff. I've been in places where everyone agrees that something sucks but there is no actual way to change it. Then retros turn into an impotent bitching session... no thanks."--gampleman, [https://news.ycombinator.com/item?id=28414751](https://news.ycombinator.com/item?id=28414751)
+
+---
+"I've been in software development for just over 25 years. 'Scrum' didn't start becoming a major thing until 2010-ish. Since that time, I could count the number of useful 'retro'" on one hand. It is almost always a waste of time.
+'What should we stop doing?' 'This' (The retro.)"--icedchai, [https://news.ycombinator.com/item?id=31533420](https://news.ycombinator.com/item?id=31533420)
+
+---
+"Retros are very difficult to get right: many issues brought up cant be fixed by those attending (company policies, group okrs, platform issues, immovable deadlines etc), so the result many times is either self-flagellation or "improvement plans" that don't go anywhere... the end result being even more demotivating for a team...."--andrekandre, [https://news.ycombinator.com/item?id=31533420](https://news.ycombinator.com/item?id=31533420)
+
+---
+"We started playing Counter Strike every retro because all we were doing was bitching against things we have no power over."--maximus-decimus, [https://news.ycombinator.com/item?id=31533420](https://news.ycombinator.com/item?id=31533420)
 
 ---
 “In my experience management likes agile since they set all these random goals on an arbitrary timeline. Devs hate agile since there are all these random goals that must be met by an arbitrary deadline. 
@@ -1025,6 +1046,10 @@ We had a weekly meeting where we would be badgered about every >1 unresolved tic
 So coincidentally, we would "forget" to create a ticket for every issue, that would take more than a day, until it was one day from completion.”--throwaway9471, [https://news.ycombinator.com/item?id=18642336](https://news.ycombinator.com/item?id=18642336)
 
 ---
+"Half completed stories would be split into part 1,2,3, or worse: renamed to "Attempt to implement...", just to make the burndown chart align at closure of sprint and give people the pleasure of dragging items to the done-column. Didn't get better when some higher up scrum master once had the brilliant idea that all stories should be max 2 story point large, otherwise need to be refined further. Together with a company-wide policy that a story point is roughly equal to one day, for all teams, because it made the high level jira dashboards easier to aggregate.
+
+Not sure what it was meant for, since with this practice it would tautologically just show headcount * days in a sprint. More like time reporting rather than measure of progress."--Too, [https://news.ycombinator.com/item?id=31533420](https://news.ycombinator.com/item?id=31533420)
+
 “Tech Crunch is mainly criticizing how "Agile" development is commonly used, to micromanage and give a false sense of grasp of the scope of a project for management. Micromanagement without the responsibilities coming with micromanagement (providing nice specifications, doing follow ups, taking responsibility for failures, etc) make me miss the waterfall model …”--rightbyte, [https://news.ycombinator.com/item?id=18642336](https://news.ycombinator.com/item?id=18642336)
 
 ---
@@ -1108,6 +1133,11 @@ The only things they had in common was bad management and negligence of tech deb
 "The whole reason lean manufacturing works is you're manufacturing slightly different variations the same car, or toaster, TV over and over again. And you have an opportunity to incrementally improve the manufacturing process.
 
 Applying these same principles to a year long development effort where you are building an enterprise software application and dividing it into 2 week sprints doesn't really work when each sprint you're doing something completely different."--elliotLoLerson, [https://www.reddit.com/r/ExperiencedDevs/comments/qc7f5x/what_is_your_most_controversial_opinion_tech/](https://www.reddit.com/r/ExperiencedDevs/comments/qc7f5x/what_is_your_most_controversial_opinion_tech/)
+
+---
+"IMVHO the whole point is that someone have badly misunderstood Toyoda method and have hoped we can do creative work like an industrial production in the assembly line, so someone have adapted assembly line methods from '900 mechanical industry to modern IT and made much of the mess we see around with crap layered on crap layered on other crap and no one have a clue of what's up in general.
+
+That's is. SCRUM is an emergency mode operation technique that might work to sort out standard things, definitively not creating something new."--kkfx, [https://news.ycombinator.com/item?id=31533420](https://news.ycombinator.com/item?id=31533420)
 
 ---
 "I would describe my current project as "Agile at all costs". No testing, no requirements, just go. Just do. I have to say it's created an environment where almost every developer is super unhappy and ultimately producing a sub-par product.
@@ -1249,7 +1279,13 @@ I also hate the term 'agile' itself, which seems to be chosen to appease to a ma
 I also despise the motivation propaganda that usually goes with agile, and the "scrum masters" non-coders interrupting any meaningful technical discussion they don't understand and suggest to take the discussion 'offline' or 'time-boxed'."--imhotap, [https://www.reddit.com/r/programming/comments/6rsyrd/in_a_nutshell_why_do_a_lot_of_developers_dislike/](https://www.reddit.com/r/programming/comments/6rsyrd/in_a_nutshell_why_do_a_lot_of_developers_dislike/)
 
 ---
+"The whole [sprint] terminology shows an attitude hostile to employees, just squeezing out the last drop of juiceout of them. Nobody can sprint all the time, sometimes you just need to walk slower.
+I think I have seen 3 types of people
+* some get cynical and just don't care about the sprint goals. What doesn't get done this sprint gets carried over to the next one
+* others really want to get ticked off everything. So they compromise on quality, pile up technical debt. Eventually they hope the project will be closed or they move one.
+* 3rd category burns out themselves. This can end badly, I have seen suicide attempts, people disappearing from their family and of course sick leaves and quitting their jobs."--usr1106, [https://news.ycombinator.com/item?id=31533420](https://news.ycombinator.com/item?id=31533420)
 
+---
 "The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
 
 This really is the most ridiculous of them all as an absolute statement. Complex features across multiple developers are best documented in some form of design documents which are rigorously reviewed and open for all to see and comment on.
