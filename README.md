@@ -37,6 +37,9 @@ I prefer my people solve difficult problems and not just little bite-sized tasks
 “Developers [under scrum] are incentivized to get it done as quickly as possible and if they start to present multiple steps [in the form of epics] their managers will be likely to acuse them of overengineering the system so they just try to do it all at once.”--nautilus12, [https://news.ycombinator.com/item?id=18642845](https://news.ycombinator.com/item?id=18642845)
 
 ---
+"I am a senior engineer and I still haven't experienced the mythical 'scrum done well'. Every single project that attempts scrum ends up burning people out eventually. The main cause is that it's a grossly leaky abstraction that forces people to micromanage themselves."--mkl95, [https://news.ycombinator.com/item?id=31533420](https://news.ycombinator.com/item?id=31533420)
+
+---
 "What I never hear anyone say, but what I see all the time: Agile is a carte blanche for postponing hard stuff. It stacks technical debt, fast and high. Because we focus on reducible, deductible and demoable problems. And when that stack topples, that's when it gets politicized and we're back at square one in every bad way."--Bas Groot, [https://www.infoq.com/articles/agile-agile-blah-blah/#anch169219](https://www.infoq.com/articles/agile-agile-blah-blah/#anch169219)
 
 ---
@@ -849,6 +852,16 @@ When the project management was informed of these predictions now having come tr
 - Organization politics. When 5 teams publish burn down charts and one goes in the wrong direction, what happens? What happens when you ask another team to do something and they don't deliver? Do we haggle over "acceptance criteria"?--lumost, [https://news.ycombinator.com/item?id=31705526](https://news.ycombinator.com/item?id=31705526)
 
 ---
+Little makes the good devs I know run faster from a job application than the phrase "Full participant in agile rituals/ceremonies". Everyone knows what the employer who says that is actually going to be like by now.
+ 
+If you have to tell everyone what you were doing yesterday and they actually need to know your project tracking tool is broken. If you have to wait until the next day to raise a blocking issue your project management process is broken and your team isn't communicating at all. So what is the benefit of a daily standup again? Anything useful that is said there would probably be better said through asynchronous channels in real time. Most of what is said there isn't useful to most of the people attending anyway.
+
+Then there's the planning poker thing. I think that's the one where a possibly large group of people often with conflicting incentives allocate imaginary points based on a mostly-arbitrary-in-practice scale to some tasks they might do in the next few weeks with the general goal of taking on just enough to look like they're doing something useful when management check without risking missing the entirely arbitrary deadline.
+
+We also have retrospectives to consider. Those are where you have yet another meeting to talk about what you could improve in the future based on what you've learned and then don't do any of it because the people leading the meeting aren't developers and miss the point and in any case management has prescribed the One True Process so you can't do things like dumping standups and planning poker even if none of you believe they are helping.
+As far as I can tell the Age of Scrum should never have started and the continued remarkably widespread practice of Scrum in the industry is much more due to management who read a book or went to a conference than developers who actually believe it makes them more effective."--Silhouette, [https://news.ycombinator.com/item?id=31533420](https://news.ycombinator.com/item?id=31533420)
+
+---
 "Well, now the client is doing "agile", asking new features all the time, never writing actual requirements but just blabbing in a meeting, but we are stuck with the constraints of waterfall. I'd rather do 90's waterfall than this shit, at least I'd have stable requirements and users thinking more than 30 seconds about the shit they're asking."--mlk, [https://www.reddit.com/r/programming/comments/afthlr/manifesto_for_halfarsed_agile_software_development/](https://www.reddit.com/r/programming/comments/afthlr/manifesto_for_halfarsed_agile_software_development/)
 
 ---
@@ -1152,6 +1165,18 @@ me - 'I have a blocker, I need a license for this program, it costs $380.'
 vp - 'Ok, schedule a meeting with myself, the CTO whom we're trying to get to quit by scheduling him in menial meetings to death, your immediate boss and ask anybody in earshot if they want to come.
 
 Also, you haven't filled out all the business process software stuff so that I can tell the CEO who is my buddy why us being behind schedule isn't my fault or his.'"--bodhemon, [https://www.reddit.com/r/programming/comments/afthlr/manifesto_for_halfarsed_agile_software_development/](https://www.reddit.com/r/programming/comments/afthlr/manifesto_for_halfarsed_agile_software_development/)
+
+---
+Looking at one software development agency I worked with for a large corporate client, everyone wanted to use Scrum, but there was massive inefficiency (maybe it was just the way they were doing it, although I've seen such things a few different companies now). The project managers at the customer were bright and competent, as were the team. Nobody was lazy. So why did they decide to work that way, and why did they put up with it?
+
+I came to the conclusion Scrum offers two key advantages to the stakeholders on each side of a client/agency relationship:
+
+- In a large company, mistakes are punished more harshly than successes are celebrated. (Mainly because your competition for the next promotion are going to promote your failures.) So it's important not to get things wrong. The most certain way to not get decisions wrong is to not decide anything at all. By using Scrum and planning only a sprint ahead, and not having any long-term vision, they achieve that.
+
+- The agency is billing by time. The longer things take the better. If all their team spend 30% of their time on Scrum meetings (the amount I currently spend at my current employer), the manager of the agency sees that and isn't unhappy about the situation. Soon progress slows down and the customer requests more people get put on the project, the manager of the agency isn't unhappy about that either.
+ 
+So both parties want to use Scrum, therefore of course an agreement is reached and Scrum is used.
+It's not about delivering great software, or delivering it quickly, etc. Neither the middle manager at the customer nor the boss of an agency directly benefit from those things."--adriansmith, [https://news.ycombinator.com/item?id=31533420](https://news.ycombinator.com/item?id=31533420)
 
 ---
 “Why Scrum is the Wrong Way to Build Software
