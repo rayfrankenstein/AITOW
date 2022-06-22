@@ -1177,7 +1177,22 @@ I came to the conclusion Scrum offers two key advantages to the stakeholders on 
  
 So both parties want to use Scrum, therefore of course an agreement is reached and Scrum is used.
 It's not about delivering great software, or delivering it quickly, etc. Neither the middle manager at the customer nor the boss of an agency directly benefit from those things."--adriansmith, [https://news.ycombinator.com/item?id=31533420](https://news.ycombinator.com/item?id=31533420)
+---
+Scrum erases some of the essential activities of projects, mostly design decisions, necessary evils, getting things clarified so that the right decisions are made (RnD stuff). Here are a couple of examples:
 
+Should we use RDB or NoSQL or combination of both? Ok, which implementation of those should be use? (Just examples…_) MongoDb + MySQL? How does Mongo handle our input or query needs. Hmmm, not very well. Why? Should we switch or tune?
+
+What’s the best way to handle that data widget? Pre-process it once a day? Do it on the fly? Let’s pre-process every day at 4am. (Implement that but… by 4pm it’s too stale). Let’s re-implement it to do it on the fly. But we’ll need another server and interface for that.
+
+How are we going to do auth/auth? What are the capabilities of that geo-spatial library? Does that API in XYZ allow us to do that? What’s a work around for that?
+
+You get the picture. In scrum there’s supposed to be a story worked that you can demonstrate at the end of the sprint. Yeah, yeah, I’ve heard it all before about having stories to do these things. And that WOULD be fine if software dev professionals were running the show. I personally would have a story for each one of the above. The developer would then demonstrate / explain results at the end of the sprint to the team, NOBODY ELSE. But my Direct experience has been, as soon as one of these stories is in the backlog, along comes Joe Scrum Master or Product Owner or Manager and we start arguing about whether that’s a story. Here comes the time wasting nonsense - Can’t we work it into this or that? Or, what can we demo when that story is done because that’s the only way we show progress. You can’t demo THAT! It’s endless nonsense on the dogma that has become scrum.
+
+There’s alot more wrong including how to handle defects flowing in from customers and previous iterations, how to refactor something, etc. I’ve heard the answers from scrum “professionals” and it’s like we’re trying to find the answer to a car question in a yoga manual, i.e. I’m fixing a headlight but that needs to be done in the downward dog position. Everything but the simple stories are unnatural.
+
+Oh, and don’t forget the daily status meetings. Don’t even try to convince me they are Anything But. That’s what they are, that’s what they will always be. A way better way to handle that is a dev is supposed to have responsibility to report potential slippage. If somebody isn’t doing that - then THAT’s when a manager should pop their head in.
+
+It’s a very unnatural, babysitting-like environment."--Jef Gib, [https://www.quora.com/Software-Engineering-Why-do-some-people-hate-on-Agile-Scrum](https://www.quora.com/Software-Engineering-Why-do-some-people-hate-on-Agile-Scrum)
 ---
 “Why Scrum is the Wrong Way to Build Software
 
@@ -1384,20 +1399,6 @@ Another problem with Scrum (and agile methodologies in general) is that it makes
 I actually like waterfall because it is my shield against poorly thought out nonsense. I don't need to get involved in arguments with extroverts. I don't get blamed for poor outcomes. I can even refuse to have meaningful conversations. I can just point to the page and the line whenever they want something."--ScrumSucks, [https://softwareengineering.stackexchange.com/questions/410482/how-do-i-prevent-scrum-from-turning-great-developers-into-average-developers](https://softwareengineering.stackexchange.com/questions/410482/how-do-i-prevent-scrum-from-turning-great-developers-into-average-developers)
 
 ---
-"The problem is twofold;
-SCRUM’s transparency, whilst useful in the context of consulting, is particularly prone to abuse in a context of asymmetrical power.
-SCRUM, the name itself, implies a monolith, and that monolith provides a cover for the above
-I think a lot could be gained if we stopped talking about SCRUM and started talking about “Scrumlike” methodologies, because it would probably allow us to have much more honest conversations about adapting the framework to different needs, and that any such implementation will always be imperfect.
-I get that the idea of SCRUM as a monolith comes from a good place. Having “commitments” only works if the team “directs the scope of the sprint”. Having “daily stand ups” only works if the team is “empowered to discuss improvements to the process, including fundamentals like stand ups”. In theory, it’s a set of checks and balances.
-Unfortunately, SCRUM fails to account for power relationships between employees and employers, and the energy managers will spend subverting the framework, if it serves their agenda. It was written in a context that assumed a judicious balance of power, with experienced developers given a high degree of trust.
-These managers are then able to point to the SCRUM monolith as a form of validation, not unlike the “scientific management” methodologies of the past.
-Reading this thread, it seems like the OP’s problems ultimately are caused by a highly competitive culture and autocratic management. Unfortunately in this context SCRUM has made things worse, because transparency is dangerous in that environment. It has provided their management with more tools to harm their employees. This is indefensible.
-And we have to acknowledge that. It isn’t enough to say, “with the wrong culture, any company can fuck anything up”. We have to own that SCRUM has specific attributes that make these companies worse. Saying otherwise is irresponsible.
-Listen to the people on this thread, and what they are telling you. You’re high up in the management structure, so you won’t know the background radiation of anxiety this kind of process can create. When people tell you - this is very uncomfortable, this got worse when we did SCRUM - listen."--yojimbo_beta, [https://www.reddit.com/r/ExperiencedDevs/comments/livdea/likely_changing_careers_scrum_has_killed_all/](https://www.reddit.com/r/ExperiencedDevs/comments/livdea/likely_changing_careers_scrum_has_killed_all/)
-
----
-
-
 "Scrum erases some of the essential activities of projects, mostly design decisions, necessary evils, getting things clarified so that the right decisions are made (RnD stuff). Here are a couple of examples:
 
 Should we use RDB or NoSQL or combination of both? Ok, which implementation of those should be use? (Just examples…_) MongoDb + MySQL? How does Mongo handle our input or query needs. Hmmm, not very well. Why? Should we switch or tune?
@@ -1408,7 +1409,7 @@ How are we going to do auth/auth? What are the capabilities of that geo-spatial 
 
 You get the picture. In scrum there’s supposed to be a story worked that you can demonstrate at the end of the sprint. Yeah, yeah, I’ve heard it all before about having stories to do these things. And that WOULD be fine if software dev professionals were running the show. I personally would have a story for each one of the above. The developer would then demonstrate / explain results at the end of the sprint to the team, NOBODY ELSE. But my Direct experience has been, as soon as one of these stories is in the backlog, along comes Joe Scrum Master or Product Owner or Manager and we start arguing about whether that’s a story. Here comes the time wasting nonsense - Can’t we work it into this or that? Or, what can we demo when that story is done because that’s the only way we show progress. You can’t demo THAT! It’s endless nonsense on the dogma that has become scrum.
 
-There’s alot more wrong including how to handle defects flowing in from customers and previous iterations, how to refactor something, etc. I’ve heard the answers from scrum “professionals” and it’s like we’re trying to find the answer to a car question in a yoga manual, i.e. I’m fixing a headlight but that needs to be done in the downward dog position. Everything but the simple stories are unnatural.
+There’s alot more wrong including how to handle defects flowing in from customers and previous iterations, how to refactor something, etc. I’ve heard the answers from scrum "professionals" and it’s like we’re trying to find the answer to a car question in a yoga manual, i.e. I’m fixing a headlight but that needs to be done in the downward dog position. Everything but the simple stories are unnatural.
 
 Oh, and don’t forget the daily status meetings. Don’t even try to convince me they are Anything But. That’s what they are, that’s what they will always be. A way better way to handle that is a dev is supposed to have responsibility to report potential slippage. If somebody isn’t doing that - then THAT’s when a manager should pop their head in.
 
