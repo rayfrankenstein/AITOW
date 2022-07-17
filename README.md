@@ -1596,6 +1596,6 @@ The reason there were no bugs was because any question I had, I slacked messaged
 
 Have experts available in team which can be consulted asap - give whole projects - start with minimal project - create small informal groups, POC for each area: sr eng for legacy code, designer to get artifacts, PM to clarify tickets and address new bugs, main dev to do the whole thing - have team informally occasionally input on tech decisions."--lifeplusplus, [https://news.ycombinator.com/item?id=31705526](https://news.ycombinator.com/item?id=31705526)
 
-
+---
 "The best workers I've seen have always been close to stakeholders and have a large set of permissions and a high degree of autonomy."--slifin, [https://news.ycombinator.com/item?id=29495491](https://news.ycombinator.com/item?id=29495491)
 
