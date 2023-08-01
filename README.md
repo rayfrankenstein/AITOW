@@ -762,6 +762,9 @@ Yes, trying to hit minor milestones every two weeks is a good thing. Yes, intera
 But none of that is a substitute for having a plan in a Gantt chart and then executing to it.”--Tony Li, [https://www.quora.com/Why-do-I-feel-like-Agile-sucks-for-software-development](https://www.quora.com/Why-do-I-feel-like-Agile-sucks-for-software-development)
 
 ---
+"In my previous job, they began using scrum agile to develop hardware. I don't know if it ever worked because I left. But when I was there, it was more stressful than before agile scrum."--EarthIsHome, [https://news.ycombinator.com/item?id=34886374](https://news.ycombinator.com/item?id=34886374)
+
+---
 “All I have to say is, when our paycheck, performance reviews, and contribution assessments are “leaderless” - then and only then, and not before, will I be supportive of so-called “leaderless” teams. The root cause of Agile being so dysfunctional is that it is based upon a lie. There are no non-hierarchies in today’s business world. At least in traditional project structures everyone knows who the boss is, and at least the power structure is not based upon some complete unknown (and guess what, there is always a political power structure, either stated or unstated). Agile is so idealistic that it ignores the realities, ironically, ending up in a lot more work - for everyone.”--L. Astro, [https://www.quora.com/Why-do-I-feel-like-Agile-sucks-for-software-development](https://www.quora.com/Why-do-I-feel-like-Agile-sucks-for-software-development)
 
 ---
