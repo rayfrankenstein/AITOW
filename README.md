@@ -1,4 +1,4 @@
-
+ must end
 
 
 **#AgileKillsKittens (or Agile In Their Own Words: The Problem With Agile & Scrum)**
@@ -605,6 +605,9 @@ All of these things could be 'fixed' if scrum trainers/advocates recognized thes
 ---
 "Agile is about measuring and tracking, full stop. The difference between Waterfall and Agile is that Agile promises short iterations and continuous measuring and tracking throughout. But the important bit is that everything you do as a developer is tracked, recorded, and KPIs extracted from it so the company can see if it's hitting its OKRs and if not, what can be done.
 Yeah, I know, that's not Agile according to the Agile Manifesto. Forget the Manifesto. You think the CTO approved an Agile transformation because of a fucking manifesto? NUMBERS. How much money can we save and how much more profitable can we become by delivering exactly the software, and only the software, our users need with ruthless efficiency? This, and ONLY this, is Agile in the enterprise. Shove your manifestos. You have sprint commitments you need to fulfill. Get back to work."--bitwize, [https://news.ycombinator.com/item?id=28414751](https://news.ycombinator.com/item?id=28414751)
+
+---
+"[Agile] will not end. If anything it'll get worse. It's become a tracking mechanism which management loves. There's also a gazillion agencies out there that will push for it as that daily meeting makes it look like there's constant progress, even if most people BS their way thru half the meetings."--teerak, [The age of cargo cult Agile must end](https://news.ycombinator.com/item?id=34886374)
 
 ---
 "Some tasks take 15 minutes of discussion (no, they aren't complex tasks) with people debating whether it is worth 5 points or 8. It is just tiring and pointless. And retro - gawd, I hate those. There are all kinds of stupid shit (people using references from music, movies etc, trying to make it "fun" and "hip"). I can't bring other tasks into the sprint, even if I finished all my current tasks, without my manager's permission. And on and on.
@@ -1339,6 +1342,12 @@ I think I have seen 3 types of people
 * 3rd category burns out themselves. This can end badly, I have seen suicide attempts, people disappearing from their family and of course sick leaves and quitting their jobs."--usr1106, [https://news.ycombinator.com/item?id=31533420](https://news.ycombinator.com/item?id=31533420)
 
 ---
+"But isn’t it the managers’ implicit goal to make it as predictable, modularized / interchangeable as factory work and workers.
+the Agile Industrial Complex realized they can sell that vision to managers, despite it being unachievable.
+
+That promise is so alluring, it’s blinding."--andrei_says_, [The age of cargo cult Agile must end](https://news.ycombinator.com/item?id=34886374)
+---
+
 "The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
 
 This really is the most ridiculous of them all as an absolute statement. Complex features across multiple developers are best documented in some form of design documents which are rigorously reviewed and open for all to see and comment on.
@@ -1492,6 +1501,15 @@ In the end, it was just so obviously unworkable to everyone it had to be stopped
 However, you are absolutely right, we were not in meetings 100% of the time - it just felt like it. Many people need good swaths of uninterrupted time (perhaps 1.5-2 hours minimum) in order to be productive. Rapid context switching between various meetings and development work can be expensive. It is unfortunate when this time can only be found outside of working hours.", [https://news.ycombinator.com/item?id=28414751](https://news.ycombinator.com/item?id=28414751)
 
 ---
+"My company have mandated that my team use sprints, despite us having previously proved that sprints are a bad way to handle our workload (we used a kanban-like system for a glorious year or so and we were actually way more productive in a measurable manner, and also a lot less annoyed). The reason? Predictability.
+
+Except you can also measure that we're not hitting any predicted goal times, ever, because our sprint system is incompatible with the nature of our work supporting live systems and simultaneously developing new features. We're regularly taking on work from outside the sprint half an hour after sprint planning, because something exploded and we're the ones who have to fix it.
+
+It's completely impossible, but the vision of predictability has blinded management.
+
+The number of times there's a card on the retro board under 'Stop doing' that just says 'sprints' on it..."--mathw, [The age of cargo cult Agile must end](https://news.ycombinator.com/item?id=34886374)
+---
+
 "Every company I've worked at that followed some sort of rigid scrum process has suffered from burnout and general failure in one form or another
 
 It treats developers like consultants because it's really designed for agencies working on one-off short-burst projects ( this is the only setting I've seen it have a positive effect )
@@ -1597,6 +1615,9 @@ I will not work at Agile/Scrum shops for similar reasons. Although my primary re
 I work for a smaller dev team currently and I take a project and finish it A to Z. It is extremely satisfying to have complete individual ownership over a task and we've achieved greater development velocity than I ever thought possible.
 
 ---
+"I think you illustrated the point of the deadline well [when combining abstract notions of time like story points with hard sprint deadlines]. How else were they going to get you to work 16 hours days? No way to make someone eat the cost of estimation error by pretending there is no error and making job performance and team esteem dependent on 'not failing the sprint'--seadan83, [The age of cargo cult Agile must end](https://news.ycombinator.com/item?id=34886374)
+
+---
 “I work with people who keep making lots of changes and have no real long term plans. They do Agile and only think a week ahead of things. If you want to ship a long term project you need to lay a lot of groundwork up front and stick to it.”--@RedQueenCoder, https://twitter.com/RedQueenCoder/status/991120881719144449
 
 ---
@@ -1611,3 +1632,12 @@ Things like sizing and planning get done in the initial stages of a project. The
 The reason there were no bugs was because any question I had, I slacked messaged PM, and got replied in less than a minute. She was on the project full time too, and was technical so was able to test out things and apis, document correct relevant data like console log errors, browser version, json response, curl ... etc.
 
 Have experts available in team which can be consulted asap - give whole projects - start with minimal project - create small informal groups, POC for each area: sr eng for legacy code, designer to get artifacts, PM to clarify tickets and address new bugs, main dev to do the whole thing - have team informally occasionally input on tech decisions."--lifeplusplus, [https://news.ycombinator.com/item?id=31705526](https://news.ycombinator.com/item?id=31705526)
+
+--
+"Everything that is needed to develop working software in terms of project management is described in Frederick Brooks "The Mythical Man-Month".
+
+Design software. Do incremental development. Half of the code should be automatic tests (doesn't have to be unit tests, that are often waste of time, functional test is typically more useful).
+
+Unlike many, if not most, 'Agile' proponents Brooks actually took part in creation of a really robust and badass piece of software, IBM's OS/360."--piokoch, [The age of cargo cult Agile must en](https://news.ycombinator.com/item?id=34886374)
+
+--
