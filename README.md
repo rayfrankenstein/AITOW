@@ -1,4 +1,4 @@
- must end
+
 
 
 **#AgileKillsKittens (or Agile In Their Own Words: The Problem With Agile & Scrum)**
@@ -350,6 +350,14 @@ It frees the management from budgeting for discovery and research, which are nes
 
 Then they demand all the things they expect from waterfall - hard deadlines, no surprises. Then they change scope on the fly because 'its agile, right'.
 Agile does more to excuse poor managment than it does to enable developers."--ClumsyPilot, [The age of cargo cult Agile must end](https://news.ycombinator.com/item?id=34886374)
+
+--
+"As someone from the hardware world, I feel like very few of the agile evangelists have actually worked on a waterfall project. Everything they say about waterfall seems to come from hearing polemical takes on it. I have never been part of a waterfall project where the team didn't adapt partway through the project as requirements or understanding about the project shifted."--oscillonoscope, [The age of cargo cult Agile must end](https://news.ycombinator.com/item?id=34886374)
+
+--
+"I cut my teeth at a waterfall shop on the software engineering side. In hindsight, what was really killing our productivity wasn't the process but a bunch of dumb politics in the org. I'm not sure Agile/Scrum could've saved them from that.
+
+With that said I totally get why designers hate Agile - it forces them to make design decisions they're not ready to make and once there's functional software in people's hands everyone groans when design suggests non-feature changes."--spamizbad, [The age of cargo cult Agile must end](https://news.ycombinator.com/item?id=34886374)
 
 ---
 “Technical debt. I see this time and time again. User Stories are supposed to be forecasts, not commitments. But the business doesn't like stories carried over, so they become commitments. At the end of each sprint, everyone rushes to get their stuff done, and hacks are implemented to meet an arbitrary deadline. Many times I want to begin my work by refactoring something to what it needs to be first, then do the actual user story. But its risky because the refactoring might take more than the allocated story points, and you get dinged. So I do the story first, and if there is time do the refactoring but it almost never happens.”—clumsysmurf, [https://news.ycombinator.com/item?id=20017854#20021832](https://news.ycombinator.com/item?id=20017854#20021832)
