@@ -763,6 +763,12 @@ It seems to me "agile" only works if all the features are "light": quick to impl
 Finally, you don't have interchangeable developers. Sure, in a web world where you have 7 people who all do the same job it's easy. But if you have only one expert on the radio, and only one expert on protocols, and only one expert on crypto, and three junior people all unfamiliar with RTOS concepts, then the developers aren't fungible."--DarinBob, [https://developers.slashdot.org/story/19/08/24/1748246/is-agile-becoming-less-and-less-relevant#comments](https://developers.slashdot.org/story/19/08/24/1748246/is-agile-becoming-less-and-less-relevant#comments)
 
 ---
+> break everything up into smaller chunks. It gives you clearly defined guardrails*'
+ 
+This is only true if management respects the estimates. In my experience, they do not understand why Fibonacci or t-shirt sizing, etc. are used. They mentally convert the points to some "X days" and then beat you in the head with it. They want to micromanage and they do not understand they are building software. You can't break certain tasks down further and you can't parallelize many tasks. You can bring up Fred Brooks but it's a hopeless cause. They will never get it. Then as you inch towards their arbitrary deadline (that they tell no one, by the way, because it's better the developers don't know about deadlines until the last fucking minute because 'agile' and not 'waterfall') they suddenly act shocked that 9 women really can't make a baby in one month.
+But I digress."--deckard1, [https://news.ycombinator.com/item?id=34886374](https://news.ycombinator.com/item?id=34886374)
+
+---
 [Scrum] is an approach to development that encourages an extremely limited and short term view on development that leads to low quality software and unhappy developers. It's also only remotely possible with a certain type of software.
 
 "Not all development fits nicely into day-or-two chunks. Forcing all your work to fit nicely into this type of mold is an arbitrary restriction that serves no real purpose except to check all the necessary scrum boxes, give the illusion of extra productivity, and allow for micro-management. It ends up being completely antithetical to thinking deeply and long term about the the code you're writing.
