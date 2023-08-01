@@ -1711,17 +1711,17 @@ The reason there were no bugs was because any question I had, I slacked messaged
 
 Have experts available in team which can be consulted asap - give whole projects - start with minimal project - create small informal groups, POC for each area: sr eng for legacy code, designer to get artifacts, PM to clarify tickets and address new bugs, main dev to do the whole thing - have team informally occasionally input on tech decisions."--lifeplusplus, [https://news.ycombinator.com/item?id=31705526](https://news.ycombinator.com/item?id=31705526)
 
---
+---
 "Everything that is needed to develop working software in terms of project management is described in Frederick Brooks "The Mythical Man-Month".
 
 Design software. Do incremental development. Half of the code should be automatic tests (doesn't have to be unit tests, that are often waste of time, functional test is typically more useful).
 
 Unlike many, if not most, 'Agile' proponents Brooks actually took part in creation of a really robust and badass piece of software, IBM's OS/360."--piokoch, [The age of cargo cult Agile must en](https://news.ycombinator.com/item?id=34886374)
 
---
+---
 "I was a master at waterfall. Few people are able to visualize the end product. I was and I was good at communicating what it was going to be. Everyone has been doing some bastardized version of agile for the last ~20 years and they are late, disorganized and make crappy software. The agile gurus are always incompetent doofuses. I think agile could work, but I’ve never seen it in real life."--workinBuffalo, ["Agile is a disaster" says Tom Gilb, the Gradaddy of Agile. What do you think](https://www.reddit.com/r/programming/comments/x3povm/agile_is_a_disaster_says_tom_gilb_the_grandaddy/) 
 
---
+---
 "Early in my career, I once worked with someone who estimated 40 hours for anything and everything, every single time.
 
 Need to change some text here? 'Well, it's a complex system and we'll have to think about translations and if the same text is used anywhere else, whether it will affect the layout, etc., etc. - 40 hours.'
@@ -1736,7 +1736,7 @@ Somehow, this one person always managed hit their estimates spot-on, every time.
 
 Depending on the company and your management, and how well you can BS, you can simply walk into Mordor whenever you feel like it."--Falkon1313, [Estimation isn't for everyone](https://news.ycombinator.com/item?id=36338941)
 
---
+---
 "With the understanding of this internal contradiction, I've only ever worked one place that did Agile 'correctly.' For the most part, that employer was better off because of it. The only way that actually worked was because the person promoting Agile was in upper-management, and they had the power to tell product/management/etc 'no.' Everyone else in upper-management also signed off on the idea.
 
 For example, if we Devs as a team said a sprint's scope was too tight, we could say 'no' and product had to respect that. If product tried to squeeze more work into a Sprint, the default answer is 'no' and product again had to respect that. If product didn't comply, all it really took was talking to the people in upper-management that enforced Agile, and they would support us.'
