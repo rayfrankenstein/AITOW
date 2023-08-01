@@ -1626,6 +1626,18 @@ __Deliberately estimating inaccurate story points that will help create a “per
 
 __Comparing one team with another team in terms of “velocity”.__ Every team has a different understanding of what a story point is “worth”. This makes story points and in turn velocity ultimately meaningless metrics that simply cannot be used to compare the output of two or more teams. Any decisions based upon this are going to be flawed. This leads to scrum masters and product owners having to present reports to executives that indicate one team is “performing” better than another. Obviously, that is a flawed comparison and despite an organisation “doing agile” they seem to never take these nuances into account and instead pressure teams."--Lloyd Atkinson, [https://www.lloydatkinson.net/posts/2022/one-teams-eight-points-is-another-teams-two-points/](https://www.lloydatkinson.net/posts/2022/one-teams-eight-points-is-another-teams-two-points/)
 
+---
+> There is nothing in agile stopping you from producing comprehensive designs or specs.
+
+"'Agile manifesto, 2nd point "Working software over comprehensive documentation'.
+
+It certainly doesn't stop you but if you focus on writing comprehensive documentation before working software, it is not Agile, it is something else.
+
+As for Agile offering "protection", maybe I misunderstand your point but for me, Agile is the opposite of protection. I think that if there is one thing that defines Agile, it is that the customer is very close the the team, so it can be, well, agile. The customer has to be there to see how things are going and adjust course as necessary, unlike the waterfall style where a formal contract protects both the team and customer.
+
+Note that I don't consider 'waterfall' bad, and 'Agile' good. It is just different approaches for different situations. If the customer wants an 'hands off' approach, or if you write certified software, then I believe that 'waterfall' style approaches are superior most of the times."--Gub-42, [The age of cargo cult Agile must end](https://news.ycombinator.com/item?id=34886374)
+
+
 ## What works, in their own words
 
 _People on social media uncovering better ways of developing software that are entirely different than Agile._
