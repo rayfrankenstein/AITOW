@@ -867,6 +867,17 @@ Otherwise, don't touch it with a ten foot pole. Yeah, you will hear a lot of peo
 Building real things that work is hard. Anyone who tells you they have a silver bullet is not your friend.”--Tim Boudreau, [https://www.quora.com/Why-would-my-coding-employees-be-against-us-moving-to-agile-and-scrum-How-do-I-convince-them-that-agile-is-the-future-and-the-best-direction-for-our-company](https://www.quora.com/Why-would-my-coding-employees-be-against-us-moving-to-agile-and-scrum-How-do-I-convince-them-that-agile-is-the-future-and-the-best-direction-for-our-company)
 
 ---
+"It was started by people doing a giant business consulting project, for Chrysler. The Agile Manifesto came out of (some of? all of? I forget) the signatories' experiences working on the Chrysler Comprehensive Compensation System, using the Extreme Programming methodology. How well did that work out?
+
+From the Wikipedia article:
+
+'The one-year delivery target was nearly achieved...'
+'A few months after this first launch, the project's customer representative—a key role in the Extreme Programming methodology—quit due to burnout and stress, and couldn't be replaced.'
+'The plan was to roll out the system to different payroll 'populations' in stages, but C3 never managed to make another release despite two more years' development.'
+
+'Frank Gerhardt, a manager at the company, announced to the XP conference in 2000 that DaimlerChrysler had de facto banned XP after shutting down C3..'--ElfinTrousers, [The age of cargo cult Agile must end](https://news.ycombinator.com/item?id=34886374)
+
+---
 “I found Scrum to be a series of waterfalls that weren't well thought out. "Iterative Design" essentially meant, "We aren't sure what the button should do exactly, but we know we need it there and it kinda has to do this and we'll figure the rest out for the next iteration."
 
 That caused so many problems with tech debt.
