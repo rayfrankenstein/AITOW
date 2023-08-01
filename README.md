@@ -22,6 +22,11 @@ i know for a fact that 90% of engineers dislike agile but many don't even imagin
 ---
 "Agile is too vague to be dead. You will always find projects to fit your definition of agile."--reanjr, [https://developers.slashdot.org/story/19/08/26/045216/agile-programming-is-not-dead-quite-the-opposite#comments](https://developers.slashdot.org/story/19/08/26/045216/agile-programming-is-not-dead-quite-the-opposite#comments)
 
+--
+"I’ve recently found myself thinking a lot about the coercibility of ideologies as an intrinsic property of the ideology. Agile software development is certainly as much and ideology as it is a methodology, and it seems particularly susceptible to coercion.
+
+I know people who love it and who hate it, and they almost all have one thing in common: the all disagree about what it actually is...the Agile Manifesto is simply broad enough and vague enough that everyone interprets it the way they want"--tacitusarc, [The age of cargo cult Agile must end](https://news.ycombinator.com/item?id=34886374)
+
 ---
 "Scrum doesn't work. You can't apply Lean Manufacturing principles to software development."--elliotLoLerson, [https://www.reddit.com/r/ExperiencedDevs/comments/qc7f5x/what_is_your_most_controversial_opinion_tech/](https://www.reddit.com/r/ExperiencedDevs/comments/qc7f5x/what_is_your_most_controversial_opinion_tech/)
 
