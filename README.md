@@ -560,6 +560,19 @@ If you go by actual behavior, it turns out the highest priority at most companie
 And my point here isn't 'Scrum bad', really. There are some great people in the Scrum world. My point is, "Business models shape outcomes, so be careful which you pick."--wpietri, [https://news.ycombinator.com/item?id=17186591](https://news.ycombinator.com/item?id=17186591)
 
 ---
+"Cults gonna cult, and with special names like _scrum master_ and rituals like _standup_, well ... cults have a way of fragmenting, as per the old Emo Phillips joke. Agile, in its flexibility, lacks what might best be called "orthodoxy." It lacks punishments in accord with the most common failings.
+
+"He hath spoken the forbidden word 'deadline,' and we must pelt him with marshmallows." I'm joking about that, but only sort of. Agile has entirely too many ways it can be taken advantage of by bad and/or incompetent actors to be all that forgiving. I've seen so many sins: the stakeholders who will never meet or communicate with you, the deadline given only to have seven months elapse before they look at the product, the demand to see the prototype _in the first week_ with all of its features (leading me to ask questions like 'How fast does ten percent of a Porsche go?' and 'If the prototype is feature complete, how is it a prototype?') Standups with a lot of clucking from the chickens, standups where the wrong people were present.
+
+It isn't even a 'process', it might better be defined as a failed attempt at a meta-process. It lacks the equivalent of unit tests and commandments graven on stone, so pretty much anything ends up going and Agile stops having its one original virtual: kicking the ball back to the stakeholders constantly so that the developers cannot be seen as the hold-up.
+
+Really, that was the original magic of Agile, just keep punting it back to them so it is that much harder to blame programmers. This failed pretty early on.
+
+As I grew more disenchanted with my latest cult exposure, for one project I finally built in a very specific "Did they even look at it?" framework, much to my boss' eventual dismay. I could tell who looked, when, how much of it, everything. He was very into Resume-Driven Development and blaming anyone else, so me batting it back on the absentee stakeholders didn't go over well ... _but that was the original methodology of Agile._
+
+And the defense is always the same: you didn't pray hard enough, you didn't pray right."--at_a_remove, [The age of cargo cult Agile must end](https://news.ycombinator.com/item?id=34886374)
+
+---
 “[That Agile is completely independent from the concept of full stack development] is true. With the emphasis that Agile puts on "blockers" though it becomes apparent that the typical model of having a simple person own a component with maybe a backup person or two is problematic. "Only Amy knows that code, and she is working on X which is also critical" is one of the more frequent types of issues that comes up in standups.
 
 To combat this, this individual decided to try to reduce the specialization as much as possible. Everyone would do everything was the thought process, so no one could ever hold anything up.
