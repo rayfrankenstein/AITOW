@@ -878,6 +878,15 @@ From the Wikipedia article:
 'Frank Gerhardt, a manager at the company, announced to the XP conference in 2000 that DaimlerChrysler had de facto banned XP after shutting down C3..'--ElfinTrousers, [The age of cargo cult Agile must end](https://news.ycombinator.com/item?id=34886374)
 
 ---
+"No amount of arguments can deny that the vast majority of Agile nowadays is just a blatant MLM scheme. Some people ripped off other people selling them BS "Scrum Master" certifications and then promptly proceeded into roping management into hiring them, so that more scrum matters and agile-related jobs are created.
+
+In practice, I'm still to find a single developer that likes agile or scrum, and doesn't have to battle against the constant nagging and interruptions.
+
+Agile is all about 'letting developers choose what to work on' but in practice that's a delusional fantasy, everyone has people or customers above them that do not understand the slightest thing about how coding works and that want to prioritize some things over others.
+
+For most people scrum is associated with shady figures with nonsensical diplomas that try to sell snake oil to their managers, and that's a hard reality any fan of Agile has to confront with."--qalmakka, [The age of cargo cult Agile must end](https://news.ycombinator.com/item?id=34886374)
+
+---
 “I found Scrum to be a series of waterfalls that weren't well thought out. "Iterative Design" essentially meant, "We aren't sure what the button should do exactly, but we know we need it there and it kinda has to do this and we'll figure the rest out for the next iteration."
 
 That caused so many problems with tech debt.
