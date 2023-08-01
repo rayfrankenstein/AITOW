@@ -1570,6 +1570,7 @@ Except you can also measure that we're not hitting any predicted goal times, eve
 It's completely impossible, but the vision of predictability has blinded management.
 
 The number of times there's a card on the retro board under 'Stop doing' that just says 'sprints' on it..."--mathw, [The age of cargo cult Agile must end](https://news.ycombinator.com/item?id=34886374)
+
 ---
 
 "Every company I've worked at that followed some sort of rigid scrum process has suffered from burnout and general failure in one form or another
