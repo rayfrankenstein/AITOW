@@ -345,6 +345,13 @@ c) cannot understand the risks of a project for their personal careers.
 Their, quite ingenious, response is 'agile': Micromanage everything to mitigate b), but wrap that micromanagement in a 'industry standard' process that hides everything behind double speak (scrum). In particular put an emphasis on the point that 'the team decides' and 'there are no deadlines in agile', while essentially driving all decisions informally (e.g., by prioritizing the backlog) and enforcing deadlines whenever you see fit. Thus, there's no overt responsibility left for a manager, effectively eliminating c).", choeger, [Agile Is a Glass Cannon](https://news.ycombinator.com/item?id=35300331)
 
 ---
+Corporate Agile takes the worst of Waterfall and Agile and combines them.
+It frees the management from budgeting for discovery and research, which are nessesary in waterfall. They can come unprepared.
+
+Then they demand all the things they expect from waterfall - hard deadlines, no surprises. Then they change scope on the fly because 'its agile, right'.
+Agile does more to excuse poor managment than it does to enable developers."--ClumsyPilot, [The age of cargo cult Agile must end](https://news.ycombinator.com/item?id=34886374)
+
+---
 “Technical debt. I see this time and time again. User Stories are supposed to be forecasts, not commitments. But the business doesn't like stories carried over, so they become commitments. At the end of each sprint, everyone rushes to get their stuff done, and hacks are implemented to meet an arbitrary deadline. Many times I want to begin my work by refactoring something to what it needs to be first, then do the actual user story. But its risky because the refactoring might take more than the allocated story points, and you get dinged. So I do the story first, and if there is time do the refactoring but it almost never happens.”—clumsysmurf, [https://news.ycombinator.com/item?id=20017854#20021832](https://news.ycombinator.com/item?id=20017854#20021832)
 
 ---
