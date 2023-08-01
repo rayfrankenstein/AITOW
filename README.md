@@ -332,6 +332,19 @@ It’s the same reason why demonstrably value-additive, cost-effective predictio
 Scrum is just the by-product of corporate status-seeking evolutionary war games against in-house scientific thinking.”—mlthoughts2018, [https://news.ycombinator.com/item?id=20018262](https://news.ycombinator.com/item?id=20018262)
 
 ---
+"Agile as you observe it ist just double speak for micromanagement in my experience.
+
+What we experience is a caste of highly paid managers that: 
+
+a) don't understand the work their subordinates are doing, 
+
+b) don't trust them and thus 
+
+c) cannot understand the risks of a project for their personal careers.
+
+Their, quite ingenious, response is 'agile': Micromanage everything to mitigate b), but wrap that micromanagement in a 'industry standard' process that hides everything behind double speak (scrum). In particular put an emphasis on the point that 'the team decides' and 'there are no deadlines in agile', while essentially driving all decisions informally (e.g., by prioritizing the backlog) and enforcing deadlines whenever you see fit. Thus, there's no overt responsibility left for a manager, effectively eliminating c).", choeger, [Agile Is a Glass Cannon](https://news.ycombinator.com/item?id=35300331)
+
+---
 “Technical debt. I see this time and time again. User Stories are supposed to be forecasts, not commitments. But the business doesn't like stories carried over, so they become commitments. At the end of each sprint, everyone rushes to get their stuff done, and hacks are implemented to meet an arbitrary deadline. Many times I want to begin my work by refactoring something to what it needs to be first, then do the actual user story. But its risky because the refactoring might take more than the allocated story points, and you get dinged. So I do the story first, and if there is time do the refactoring but it almost never happens.”—clumsysmurf, [https://news.ycombinator.com/item?id=20017854#20021832](https://news.ycombinator.com/item?id=20017854#20021832)
 
 ---
@@ -1397,6 +1410,9 @@ Between beating engineers into misery and giving them a way to escape at least t
 Another problem with Scrum (and agile methodologies in general) is that it makes the business people lazy about writing requirements. The best company I ever worked for publicly fired people who wrote bad requirements as that broke budgets. That made them very careful about specifying what they want. Scrum uses tickets, which are often just a one word sentence.
 
 I actually like waterfall because it is my shield against poorly thought out nonsense. I don't need to get involved in arguments with extroverts. I don't get blamed for poor outcomes. I can even refuse to have meaningful conversations. I can just point to the page and the line whenever they want something."--ScrumSucks, [https://softwareengineering.stackexchange.com/questions/410482/how-do-i-prevent-scrum-from-turning-great-developers-into-average-developers](https://softwareengineering.stackexchange.com/questions/410482/how-do-i-prevent-scrum-from-turning-great-developers-into-average-developers)
+
+---
+"The worst [effect of agile] is probably standups-gone-wrong. There's little more demoralizing than a 20-person 3-team standup where you couldn't possibly care about what anyone says (because it's irrelevant to you) except three or four people, and you already know what they're going to say because you all, you know, talk, and then also having to turn yesterday's work into some epic (LOL) tale of adventure and adversity because your manager's in the meeting and that's the kind of dumb-shit tone they've set for it ('now—justify why I should continue paying you' with pointed, bordering-on-hostile follow-up questions to anyone without a sufficiently-convincing theatrical performance) and you'd like to keep your job. Starting every day with a half-hour of that shit. JFC."--yamtaddle, [The age of cargo cult Agile must end](https://news.ycombinator.com/item?id=34886374)
 
 ---
 "Scrum erases some of the essential activities of projects, mostly design decisions, necessary evils, getting things clarified so that the right decisions are made (RnD stuff). Here are a couple of examples:
