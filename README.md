@@ -360,6 +360,9 @@ Agile does more to excuse poor managment than it does to enable developers."--Cl
 With that said I totally get why designers hate Agile - it forces them to make design decisions they're not ready to make and once there's functional software in people's hands everyone groans when design suggests non-feature changes."--spamizbad, [The age of cargo cult Agile must end](https://news.ycombinator.com/item?id=34886374)
 
 ---
+"In my experience agile/scrum just adds to the politics within the org. It’s a bloody religion. Agile adds in agile zealots vs the infidels."--kcplate, [The age of cargo cult Agile must end](https://news.ycombinator.com/item?id=34886374)
+
+---
 “Technical debt. I see this time and time again. User Stories are supposed to be forecasts, not commitments. But the business doesn't like stories carried over, so they become commitments. At the end of each sprint, everyone rushes to get their stuff done, and hacks are implemented to meet an arbitrary deadline. Many times I want to begin my work by refactoring something to what it needs to be first, then do the actual user story. But its risky because the refactoring might take more than the allocated story points, and you get dinged. So I do the story first, and if there is time do the refactoring but it almost never happens.”—clumsysmurf, [https://news.ycombinator.com/item?id=20017854#20021832](https://news.ycombinator.com/item?id=20017854#20021832)
 
 ---
