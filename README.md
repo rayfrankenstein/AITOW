@@ -1821,3 +1821,12 @@ Depending on the company and your management, and how well you can BS, you can s
 For example, if we Devs as a team said a sprint's scope was too tight, we could say 'no' and product had to respect that. If product tried to squeeze more work into a Sprint, the default answer is 'no' and product again had to respect that. If product didn't comply, all it really took was talking to the people in upper-management that enforced Agile, and they would support us.'
 
 In my opinion, the only time Agile is your friend as a Dev, is if you feel Agile gives you the power to say 'no' with the backing of upper-management. If you don't have that, then Agile is not your friend, and in practical terms it's mostly used to boss you around as a Dev. This is how Agile works at more than 90% of all employers."
+
+---
+"With the understanding of this internal contradiction, I've only ever worked one place that did Agile 'correctly.' For the most part, that employer was better off because of it. The only way that actually worked was because the person promoting Agile was in upper-management, and they had the power to tell product/management/etc 'no.' Everyone else in upper-management also signed off on the idea.
+
+For example, if we Devs as a team said a sprint's scope was too tight, we could say 'no' and product had to respect that. If product tried to squeeze more work into a Sprint, the default answer is 'no' and product again had to respect that. If product didn't comply, all it really took was talking to the people in upper-management that enforced Agile, and they would support us.'
+
+In my opinion, the only time Agile is your friend as a Dev, is if you feel Agile gives you the power to say "no" with the backing of upper-management. If you don't have that, then Agile is not your friend, and in practical terms it's mostly used to boss you around as a Dev. This is how Agile works at more than 90% of all employers."--unknown
+
+--
