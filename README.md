@@ -1829,4 +1829,22 @@ For example, if we Devs as a team said a sprint's scope was too tight, we could 
 
 In my opinion, the only time Agile is your friend as a Dev, is if you feel Agile gives you the power to say "no" with the backing of upper-management. If you don't have that, then Agile is not your friend, and in practical terms it's mostly used to boss you around as a Dev. This is how Agile works at more than 90% of all employers."--unknown
 
---
+---
+"Early in my career, I once worked with someone who estimated 40 hours for anything and everything, every single time.
+
+Need to change some text here? 'Well, it's a complex system and we'll have to think about translations and if the same text is used anywhere else, whether it will affect the layout, etc., etc. - 40 hours.'
+
+Need to build a whole new system from scratch? 'Well, we have experience in that and it's a small enough data set and we have tools to help us - 40 hours.'
+
+If it was a trivial change, then they had most of the week free to do whatever.
+
+If it was a huge project, then they'd go back and say 'We need to reduce scope. They said they wanted X, but that actually wouldn't be good for them because of Y. We shouldn't do that, and they'll be glad we didn't.'
+
+Somehow, this one person always managed hit their estimates spot-on, every time. This was a model employee.
+
+Depending on the company and your management, and how well you can BS, you can simply walk into Mordor whenever you feel like it."--Falkon1313, [Estimation isn't for everyone](https://news.ycombinator.com/item?id=36338941)
+
+---
+"I was a master at waterfall. Few people are able to visualize the end product. I was and I was good at communicating what it was going to be. Everyone has been doing some bastardized version of agile for the last ~20 years and they are late, disorganized and make crappy software. The agile gurus are always incompetent doofuses. I think agile could work, but I’ve never seen it in real life."--workinBuffalo, ["Agile is a disaster" says Tom Gilb, the Gradaddy of Agile. What do you think](https://www.reddit.com/r/programming/comments/x3povm/agile_is_a_disaster_says_tom_gilb_the_grandaddy/) 
+
+
