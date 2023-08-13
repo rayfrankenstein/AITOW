@@ -101,6 +101,9 @@ News flash: nobody is doing the actual, literal version of Scrum as defined in t
 That's sad.”—PaulHoule, [https://news.ycombinator.com/item?id=19571809](https://news.ycombinator.com/item?id=19571809)
 
 ---
+"Weird how emulating TPS never includes [the Japanese concept] of lifetime employment. Agile is a talent attraction / retention device more than anything else these days."--steele, [https://news.ycombinator.com/item?id=34886374](https://news.ycombinator.com/item?id=34886374)
+
+---
 "Every scrum proponent always responds to any criticism with a no true Scotsman claim. I’ve never personally seen or heard second hand of a successful scrum implementation, and the SWE academic literature doesn’t support it either.
 
 I’d argue that spending time on activities like scrum poker or sprint planning are actively harmful for most kinds of teams. The points games are inherently adversarial, only add value for scrum masters, and waste time that could be spent understanding requirements/business problems better. The incentives are inherently perverse and the whole exercise encourages and rewards dishonesty."--ch4s3, [https://news.ycombinator.com/item?id=31705526](https://news.ycombinator.com/item?id=31705526)
