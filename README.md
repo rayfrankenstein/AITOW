@@ -1766,6 +1766,133 @@ Me: I won’t be able to touch this for 2 weeks. Even then I can’t get you an 
 
 Them: Yes, yes, but we’re an agile company now so we shouldn’t be bound by these hard constraints. You should be able to pivot and synergize your team to deliver value add. We can take this offline to revisit."--renok_archnmy, ["Agile is a disaster" says Tom Gilb, the Gradaddy of Agile. What do you think](https://www.reddit.com/r/programming/comments/x3povm/agile_is_a_disaster_says_tom_gilb_the_grandaddy/)
 
+--
+"Okay, but I could equally say, "No one would have issues with 'Agile' if developers could get infinite work done in a week... but that's not how the world works."
+
+The fact is, there's a limited amount of work that can be done in a limited amount of time with a limited amount of money. Developers want the time and money to be unlimited, while customers want the work to be unlimited. But none of that is how this works: all three of these things are finite.
+The point of "Customer collaboration over contract negotiation" is that the customer is involved enough in the process to see that you're producing close to optimally with the time and money they're giving you.
+
+Committing to an amount of work in a sprint doesn't work, because it always ends up with customers trying to get more work into the sprint--more production than ultimately is possible. And, it's worth noting, setting boundaries around that and guarding to prevent that, starts to just look like "contract negotiation" with a shorter contract. Sprints aren't agile, they're Agile: a marketable idea that doesn't work.
+
+Part of the problem is that customers see it as their job to get more work for less time and money, so they try to set aside what developers are telling them, the "work is limited" part of the trifecta. They see developers as their subordinates, so they think their desired outcome, where time and money are limited but ability to produce is unlimited, is reality. If developers and customers are seen as equals, both bringing needed value to the table, then this doesn't happen, because everyone agrees on the limitations of the situation. But as soon as you start treating customers as superiors, their view of the limitations becomes dominant, with predictable negative outcomes."--kerkeslager, [https://news.ycombinator.com/item?id=34886374](https://news.ycombinator.com/item?id=34886374)
+
+--
+"Being prepared with a clear, concise, well-communicated vision of what you want to build is essential to developing quality software, regardless of the adopted process.
+
+Agilists frequently argued investing time and energy into crafting requirements is an “anti-pattern”, so being unprepared became the Right Way To Work TM. This is 100% dead-ass wrong."--trentnix, [https://news.ycombinator.com/item?id=34886374](https://news.ycombinator.com/item?id=34886374)
+
+--
+"Agile, and especially Scrum, are a scam. Well intentioned, yes, but mostly serve to create an industry around a problem that often doesn't exist at all.
+
+That's not even my main objection to Agile.
+
+The worst part of these methodologies is that there's no evidence that they work. It doesn't matter whether an individual team thinks it works. Does it work for many teams? What about most teams? What for what kinds of teams does it work best? What kinds of teams does it have no impact on or a negative impact for? Nobody actually knows, and seemingly nobody is interested in studying it. Even companies themselves aren't honest about whether Agile is working for them. Burndown charts and the overall number of tickets being closed is about as far as it gets, except management inevitably gets their hands on these things and uses them as a means to extract more work from their employees. What suffers? Quality. Agile doesn't care about quality."--ravenstime, [https://news.ycombinator.com/item?id=34886374](https://news.ycombinator.com/item?id=34886374)
+
+--
+> The worst part of these methodologies is that there's no evidence that they work.
+
+"I think it's worse than that. The management that promotes these bastardized 'Agile' methodologies are often hostile to any empirical data that raises questions. It's not for a lack of evidence, it's that the methodology is elevated to untouchable status and any evidence to the contrary is explicitly suppressed and ignored.
+
+Take the example of 'story points'. If all planning is based on story points, and all sprints are based on executing those stories, surely each sprint retrospective would look at how well the original points aligned with objective reality - use the empirical data and compare it to the estimated story points in order to refine the theory. This is the basic scientific method! Yet I've found that teams systematically avoid any such analysis. In the worst cases, I've seen teams explicitly forbidden from discussion story points in the retrospective ('How dare you attack the methodology with empirical data!')."--perrygeo, [The age of cargo cult Agile must end](https://news.ycombinator.com/item?id=34886374)
+
+--
+"I feel like when Agile first came out the local agile guru was basically an older programmer w/ a ton of years and wisdom under their belt who knew first hand why doing things a particular way was best. It's since becamse a 2 week course for anyone to enter the tech field. Feel the same way about the influx of cybersecurity experts. Those used to be really good devs who also knew a lot about security, now, don't even get me started.",--anon23anon, [https://news.ycombinator.com/item?id=34886374](https://news.ycombinator.com/item?id=34886374)
+
+--
+"Yes, and who else is annoyed by random Japanese words being used to say the thing English but make it sound exotic and sophisticated? From the article: “Jidoka: the harmonization of people and machines” (jidoka/自動化 which literally means automation), or random TED talks about Muda, Ikigai, or Mottainai (sprinkle in Konmari for good measure). People here in JP think, what’s so special about these words? Kanban in the end just means signboard.
+I get that adding memorable words to things sometimes gets the point across extremely well, but all those other times, just say the thing you would like to say, heh."--justusw, [https://news.ycombinator.com/item?id=34886374](https://news.ycombinator.com/item?id=34886374)
+
+--
+"I'm not a fan of Agile for precisely the reason you give. If the principles are constantly misinterpreted, it exists as name without an anchor.
+
+I have encountered advocates of Agile who say that other people only say they use Agile but don't really use Agile. They are keen to point at successes an say "look They're using Agile" and failures as people who said they were using Agile but weren't really.
+
+You can't point to the foundational document because advocates will claim that Agile has evolved since then. It is unfalsifiable in the sense that no mater what critique you have, it can be avoided by using the shifting definition.
+
+The article here talks about Cargo Cult Agile, but the people doing that Agile don't believe it to be a Cargo Cult phenomenon. Who is the Author to claim that their view is the ground truth? Declaring that there are large groups using the name without the principles is the akin saying "My principles are less popular than you might think"
+
+It has gotten to the point that I don't believe the name is meaningful unless it as a Tribal identifier. To be frank I would like the name to go away completely. The principles should be able to stand on their own merit, people should be free to take the things that work for them. There is no need to Proper Nounify ideas other than to show you are talking about the same thing. For Agile, that ship has sailed."--Lerc, [https://news.ycombinator.com/item?id=34886374](https://news.ycombinator.com/item?id=34886374)
+
+
+--
+"Okay, but I could equally say, 'No one would have issues with 'Agile' if developers could get infinite work done in a week... but that's not how the world works.'
+
+The fact is, there's a limited amount of work that can be done in a limited amount of time with a limited amount of money. Developers want the time and money to be unlimited, while customers want the work to be unlimited. But none of that is how this works: all three of these things are finite.
+
+The point of 'Customer collaboration over contract negotiation' is that the customer is involved enough in the process to see that you're producing close to optimally with the time and money they're giving you.
+
+Committing to an amount of work in a sprint doesn't work, because it always ends up with customers trying to get more work into the sprint--more production than ultimately is possible. And, it's worth noting, setting boundaries around that and guarding to prevent that, starts to just look like "contract negotiation" with a shorter contract. Sprints aren't agile, they're Agile: a marketable idea that doesn't work.
+
+Part of the problem is that customers see it as their job to get more work for less time and money, so they try to set aside what developers are telling them, the "work is limited" part of the trifecta. They see developers as their subordinates, so they think their desired outcome, where time and money are limited but ability to produce is unlimited, is reality. If developers and customers are seen as equals, both bringing needed value to the table, then this doesn't happen, because everyone agrees on the limitations of the situation. But as soon as you start treating customers as superiors, their view of the limitations becomes dominant, with predictable negative outcomes."--kerekeslager, [https://news.ycombinator.com/item?id=34886374](https://news.ycombinator.com/item?id=34886374)
+
+--
+"The agile manifesto makes no sense.
+
+  _1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software._
+  
+What if the software requires a lot more work before it becomes valuable? What if continuous effort isn't sustainable or there aren't many features required? What if this just leads to software development for its own sake?
+
+  _2. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage._
+  
+  
+What if change is so constant that you never ship a single working feature? Or every time you change, it breaks the user experience? Or you simply can't keep pace with how much of the app is changing and are stuck in tech debt hell?
+
+  _3. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale._
+  
+  
+What if the software is running in a car? A plane? A bank? A pacemaker? A power plant?
+
+On and on it goes. Stupid overgeneralizing proclamations that are trivially debunked, yet passed off as some kind of grand scheme to solve all that ails making software products.
+
+You know what software is? Materials. Materials are used in our everyday lives, from textiles to plastics, structural steel to paper. You build a machine to grow the cotton, then a machine to harvest the cotton, then a machine to spin it, then a machine to weave it, then a machine to dye it, then a machine to cut it into a pattern, then a machine to stitch a logo into it, then a machine to make the plastic bag it's packaged in, then a machine to ship it, and so on.
+
+All of those materials and machines are created by people, and then used by people. They break down, they need maintenance, they get replaced, and they get used. The significant difference is, most of them aren't made so only Gardening Machine A can be used with Weaving Machine B to go into Dying Machine C and be used on Cutting Machine D, etc.
+
+Software is written in a little box, and it's very fragile, like the works in a watch. It's not durable and universal. It's delicate and tiny and intricate, and made to fit. We spend all our time fretting and niggling and poking and prodding and teasing the software, and wonder why we can't ever estimate how long it takes to make something. But it's because we keep making new watch springs, each one slightly different than the last one. Of course there's no consistency; we're not making things consistent!
+
+The software industry is like an industry of teenage art school students trying to build hospitals. Quite expensive and complicated, but made worse by a whole bunch of "creatives" constantly changing things to fit some custom ad-hoc sculpture sitting on a platform of marbles. The people who are smart enough to make it won't do it in a way that's repeatable; the people who have the money refuse to contribute their work to some sort of general industry-wide commons of resources; and the people who organize them just want to get anything done, so who cares about rigor or process or efficiency or uniformity, just shove some shit out the door so I can collect a paycheck.
+At least cargo cults deliver a plane every so often."--0xbadcafebee, [https://news.ycombinator.com/item?id=34886374](https://news.ycombinator.com/item?id=34886374)
+
+"Agile was never for the developers, it's for the business. Developers complaining about Agile is like kids complaining about their homework - it's to be expected.
+
+That said I've seen enough Agile projects flounder and fail to know that it's no silver bullet. Like homework, there is little indication that it actually fulfills its purpose.
+
+Whatever snake oil comes next is only going to gain adoption if it promises even more control for the business."--ryandvm, [https://news.ycombinator.com/item?id=34886374](https://news.ycombinator.com/item?id=34886374)
+
+--
+
+"__Misdirection and Misuse:__ Agile methodology was derived from military doctrine, specifically the SMEAC strategy which forms the backbone of Agile's 'epic' and smaller mission plans. These are meant to be executed within a day, yet in corporate settings they have been distorted into a barrage of meetings lasting for weeks, contributing to an aimless approach.
+
+> Isn't it true that Agile offers different frameworks, like Kanban, that doesn't rely on sprints and lengthy meetings?
+
+It's true that Agile does offer multiple frameworks, Scrum being the most notorious, but the corporate adaptation of these often loses the essence of the original doctrine. The core tenet of Agile - _"Individuals and interactions over processes and tools"_ - is often overlooked, leading to a rigid adherence to processes and tools. Does a framework that goes against its fundamental principles serve any purpose?
+
+> Agile promotes interaction and collaboration, helping to prevent misunderstandings and conflicts.
+
+Interaction is key, but one must question whether daily standups, reviews, and sprint planning meetings contribute to clarity or just form a façade of productivity while creating an environment conducive to micromanagement. How many truly beneficial decisions emerge from these countless meetings compared to the time and resources spent on them?
+
+__Infiltration by Non-Coders:__ Agile roles such as Product Owners and Scrum Masters often end up populated by individuals with no coding skills. These individuals come from a variety of backgrounds, sometimes straight out of college with assignments done by others, yet they find a niche within the tech industry under the Agile umbrella.
+
+> Isn't it beneficial to have non-technical individuals who can bridge the gap between developers and stakeholders?
+
+In theory, yes. But when these individuals lack a fundamental understanding of coding and system architecture, they risk becoming bottlenecks rather than facilitators. They often overstep their boundaries, offering ill-informed estimates and decisions. Would you let a layman dictate the workflow and timelines to a team of surgeons?
+
+> What about the benefits of diverse perspectives that non-technical individuals bring to the table?
+
+Different perspectives are certainly valuable, but not when they're fundamentally uninformed or misguided. How can someone unfamiliar with coding offer meaningful insight or guidance in a field that's so intricately technical?
+
+__Complication of Simple Concepts:__ Agile complicates basic concepts like task estimation and completion into an industry of its own, with grifters peddling various methodologies. It seems to be a strategy to inflate non-technical roles within software departments, leading to an overcomplication of simple tasks.
+
+> Isn't Agile all about adapting to changes and delivering value to customers rapidly?
+
+Agile's adaptability and customer-focus are laudable, but one must question whether it achieves these goals or merely complicates the process under the guise of dynamism. Is it really "adapting to changes" or just a constant shifting of goalposts without a concrete direction?
+
+> But the Lean principles in Agile help to eliminate waste and increase efficiency, right?
+
+In theory, yes. But the Lean-inspired focus on billable hours often discourages any improvements that don't directly contribute to the current project. This short-sightedness hampers overall growth and efficiency in the long run. Isn't it more logical to invest a bit of time improving the process now to save more time later?
+
+Agile can serve as a useful framework when implemented correctly, but its misuse, oversimplification of coding, and proliferation of non-technical roles within technical teams suggest an uncomfortable reality - that it is, to an extent, a ploy to shoehorn non-coders into the tech industry."--Federal_Penalty5832, 
+
 ## What works, in their own words
 
 _People on social media uncovering better ways of developing software that are entirely different than Agile._
