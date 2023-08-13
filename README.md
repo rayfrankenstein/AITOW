@@ -1456,6 +1456,11 @@ I think I have seen 3 types of people
 * 3rd category burns out themselves. This can end badly, I have seen suicide attempts, people disappearing from their family and of course sick leaves and quitting their jobs."--usr1106, [https://news.ycombinator.com/item?id=31533420](https://news.ycombinator.com/item?id=31533420)
 
 ---
+> The idea of sprints is also stupid. The sprint is supposed to just be measuring what can be done in two weeks. It isn't supposed to be pressure on the developer to finish X tasks in 2 weeks.
+
+"The metaphor of the "sprint" is so ill-chosen that it ought to give everyone pause about the whole theory. You can't just keep "sprinting" back-to-back"--RICHUNCLEPENNYBAGS, [How does agile work at your company? Is the way my company is doing it unusual?](https://www.reddit.com/r/cscareerquestions/comments/81z1fg/how_does_agile_work_at_your_company_is_the_way_my/)
+
+---
 "But isn’t it the managers’ implicit goal to make it as predictable, modularized / interchangeable as factory work and workers.
 the Agile Industrial Complex realized they can sell that vision to managers, despite it being unachievable.
 
