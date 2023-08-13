@@ -928,6 +928,35 @@ Agile is all about 'letting developers choose what to work on' but in practice t
 For most people scrum is associated with shady figures with nonsensical diplomas that try to sell snake oil to their managers, and that's a hard reality any fan of Agile has to confront with."--qalmakka, [The age of cargo cult Agile must end](https://news.ycombinator.com/item?id=34886374)
 
 ---
+"I feel like the pro-agile people who show up to these threads are simply agile consultants who's job it is to 'sell' agile so they'll say anything pro-agile.
+
+'Agile' follows several sales steps:
+
+1. Tell everyone what they want to hear and get them emotional.
+2. Only give the people with the power what they want. Management has the power, so they what looks good to them - a morning meeting for attendance, social shaming in the morning standup if you say you don't have your task 'done', treating devs like homogenous easily replaceable cogs - if one person writes code never let that person have sense of ownership of that code, assign any followup work to other people.
+3. It makes developers miserable.
+4. Come up with endless excuses for why it's not working 'they're just not doing it right!'
+5. Carefully avoid writing specifics of how to do agile to avoid anyone pointing out that they did it 'right' and still failed. With no actual process you can endless claim that everyone 'didn't do it right'.
+
+Let's play a game - is this a process, or a meaningless sales pitch?
+
+> Agile software development refers to a group of software development methodologies based on iterative development, where requirements and solutions evolve through collaboration between self-organizing cross-functional teams.
+
+Or the 'agile manifesto':
+
+> We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:
+> 
+> * Individuals and interactions over processes and tools
+> 
+> * Working software over comprehensive documentation
+> 
+> * Customer collaboration over contract negotiation
+>
+> * Responding to change over following a plan
+
+Do you see any specific steps? No. Do you see abstract nebulous feel-good phrases? Yup. That's __all__ agile is."--GhostBond, [How does agile work at your company? Is the way my company is doing it unusual?](https://www.reddit.com/r/cscareerquestions/comments/81z1fg/how_does_agile_work_at_your_company_is_the_way_my/)
+
+---
 “I found Scrum to be a series of waterfalls that weren't well thought out. "Iterative Design" essentially meant, "We aren't sure what the button should do exactly, but we know we need it there and it kinda has to do this and we'll figure the rest out for the next iteration."
 
 That caused so many problems with tech debt.
