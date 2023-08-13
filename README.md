@@ -54,6 +54,12 @@ I prefer my people solve difficult problems and not just little bite-sized tasks
 “Scrum is basically a huge amplifier for crappy management, and offers absolutely no protections against it.”--s73v3r_, [https://news.ycombinator.com/item?id=17186591](https://news.ycombinator.com/item?id=17186591)
 
 ---
+"Agile measures success in ticket closures and story points. This incentives people to take short cuts to complete their sprint instead of prioritizing business/customer impact."--tonjohn, [How do you deal with this stuff in agile](https://www.reddit.com/r/ExperiencedDevs/comments/15o5w8l/how_do_you_deal_with_this_stuff_in_agile/)
+
+---
+"I worked one place, and our dev manager told us part of our bonus would be based on an increase in velocity. My reply was, 'So we just have to increase our estimate for the story points to meet the goal?' He looked so defeated."--ThePhoo, [How do you deal with this stuff in agile](https://www.reddit.com/r/ExperiencedDevs/comments/15o5w8l/how_do_you_deal_with_this_stuff_in_agile/)
+
+---
 "I feel that most people don't understand that larger corporations don't adopt Agile to benefit product teams, but to add a layer of measurability to the process that is only useful for middle and upper management to establish and track OKRs.
 
 Thus Agile may not be a failed idea, but it arguably fails at the implementation.
