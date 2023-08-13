@@ -356,10 +356,10 @@ It frees the management from budgeting for discovery and research, which are nes
 Then they demand all the things they expect from waterfall - hard deadlines, no surprises. Then they change scope on the fly because 'its agile, right'.
 Agile does more to excuse poor managment than it does to enable developers."--ClumsyPilot, [The age of cargo cult Agile must end](https://news.ycombinator.com/item?id=34886374)
 
---
+---
 "As someone from the hardware world, I feel like very few of the agile evangelists have actually worked on a waterfall project. Everything they say about waterfall seems to come from hearing polemical takes on it. I have never been part of a waterfall project where the team didn't adapt partway through the project as requirements or understanding about the project shifted."--oscillonoscope, [The age of cargo cult Agile must end](https://news.ycombinator.com/item?id=34886374)
 
---
+---
 "I cut my teeth at a waterfall shop on the software engineering side. In hindsight, what was really killing our productivity wasn't the process but a bunch of dumb politics in the org. I'm not sure Agile/Scrum could've saved them from that.
 
 With that said I totally get why designers hate Agile - it forces them to make design decisions they're not ready to make and once there's functional software in people's hands everyone groans when design suggests non-feature changes."--spamizbad, [The age of cargo cult Agile must end](https://news.ycombinator.com/item?id=34886374)
