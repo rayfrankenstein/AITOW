@@ -2022,3 +2022,7 @@ Somehow, this one person always managed hit their estimates spot-on, every time.
 
 Depending on the company and your management, and how well you can BS, you can simply walk into Mordor whenever you feel like it."--Falkon1313, [Estimation isn't for everyone](https://news.ycombinator.com/item?id=36338941)
 
+---
+"Every functioning team I’ve ever worked on has people running around shoring up sagging foundations not because some book told them to but because it was right and experience taught them what happens when you don’t. None of these people make it into the daydreaming the managers do about the book they want to write. And I include people I call mentors in this list, at least one of which has several books now.
+
+Almost every team I’ve worked on, and for sure every bad team I’ve worked on, had some people talking trash about the people keeping the wheels on. Which alienates them and they leave, and then the project just mysteriously craters even though we 'did everything right.'"--bwainfweeze, [How do you deal with this stuff in agile?](https://www.reddit.com/r/ExperiencedDevs/comments/15o5w8l/how_do_you_deal_with_this_stuff_in_agile/)
