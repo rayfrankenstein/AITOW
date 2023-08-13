@@ -730,6 +730,9 @@ Agile in the enterprise is a game of Mornington Crescent. The goal is not to fos
 Well anyway, managers in my current company are dumber than second coat of paint and I inflate points."--amrx101, [https://news.ycombinator.com/item?id=28414751](https://news.ycombinator.com/item?id=28414751)
 
 ---
+If I do 20% extra work in this sprint, that raises the baseline estimate for all future sprints by 20%. Better to be idle for a few days, than have a permanent workload increase."--fsk, [How does agile work at your company? Is the way my company is doing it unusual?](https://www.reddit.com/r/cscareerquestions/comments/81z1fg/how_does_agile_work_at_your_company_is_the_way_my/)
+
+---
 "Oh god, this perfectly describes the company I just quit. They went from using Trello, allowing us to choose what to work on, loosely setting story points and ... that was it.
 Then they decided they needed the metrics on everything, so they switched to JIRA, started doing retros, setting strict points on tasks(reprimanded in retros if you messed up), using burndown charts to reprimand even more, and giving the product manager the power to dictate what I work on and in what order.
 
