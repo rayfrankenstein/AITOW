@@ -702,6 +702,11 @@ Yeah, I know, that's not Agile according to the Agile Manifesto. Forget the Mani
 "[Agile] will not end. If anything it'll get worse. It's become a tracking mechanism which management loves. There's also a gazillion agencies out there that will push for it as that daily meeting makes it look like there's constant progress, even if most people BS their way thru half the meetings."--teerak, [The age of cargo cult Agile must end](https://news.ycombinator.com/item?id=34886374)
 
 ---
+"If you have a process that can be measured properly, KPIs can be a good tool, but software development is almost impossible to press into short term KPIs. Just ask yourself: how much value does a refactoring create? Is that senior dev, that doesn't push any code himself anymore actually creating value?
+
+Scrum unfortunately offers a huge attack surface for badly designed KPIs and managers will abuse that. Either to because they don't know any better or because they're pressured into it or simply because they have some ulterior motive."--CartmansEvilTwin, ["Agile is a disaster" says Tom Gilb, the Gradaddy of Agile. What do you think](https://www.reddit.com/r/programming/comments/x3povm/agile_is_a_disaster_says_tom_gilb_the_grandaddy/)
+
+---
 "Some tasks take 15 minutes of discussion (no, they aren't complex tasks) with people debating whether it is worth 5 points or 8. It is just tiring and pointless. And retro - gawd, I hate those. There are all kinds of stupid shit (people using references from music, movies etc, trying to make it "fun" and "hip"). I can't bring other tasks into the sprint, even if I finished all my current tasks, without my manager's permission. And on and on.
 
 I was thinking the other day why this is so painful and awkward. I realized that it all comes down to "metrics" - end of every sprint, my manager has to present it to his bosses, with pretty graphs describing "velocity" and other buzzwords. So he has to do all kinds of jugglery to appear competent to his bosses and not alienate the team at the same time.
