@@ -1461,6 +1461,16 @@ I think I have seen 3 types of people
 "The metaphor of the "sprint" is so ill-chosen that it ought to give everyone pause about the whole theory. You can't just keep "sprinting" back-to-back"--RICHUNCLEPENNYBAGS, [How does agile work at your company? Is the way my company is doing it unusual?](https://www.reddit.com/r/cscareerquestions/comments/81z1fg/how_does_agile_work_at_your_company_is_the_way_my/)
 
 ---
+"Agile methods like Scrum are supposed to help teams continuously improve by finding out what’s wrong.
+
+Instead, companies use it as a tool to put pressure on people to get as much done in a Sprint as possible.
+
+This leads to quality getting worse as people scramble to make the burn down chart look good.
+
+I discussed this in my YouTube video 'The Secret of Scrum' last week."--jayme-edwards, [How does agile work at your company? Is the way my company is doing it unusual?](https://www.reddit.com/r/cscareerquestions/comments/81z1fg/how_does_agile_work_at_your_company_is_the_way_my/)
+
+--
+
 "But isn’t it the managers’ implicit goal to make it as predictable, modularized / interchangeable as factory work and workers.
 the Agile Industrial Complex realized they can sell that vision to managers, despite it being unachievable.
 
