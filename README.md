@@ -1079,7 +1079,7 @@ While it "works" it is certainly not ideal that people have to go off the reserv
 ---
 "But that just begs the question, why sprint? Two weeks seems arbitrary, and meetings on that cadence are pretty noisy. Trying to deliver in that frame can either lead to dead time if things go faster than expected or can lead to artificial failures if you miss it. Why set yourself up to fail that particular way? I don’t think it’s especially useful for organization or accountability and adds a lot of noise and waste."--ch4s3, [https://news.ycombinator.com/item?id=31705526](https://news.ycombinator.com/item?id=31705526)
 
---
+---
 “I feel like you work at my last company. But so many companies f* this up that it could be any company.
 
 I got fired from any last job after being one of the only engineers willing to say something to management about this. I figured I had a popular opinion - many other engineers often DM'ed me on slack encouraging me to continue speak out, including my own manager, so I somehow figured I should be safe speaking out, politely, as a respected majority representative.
@@ -1319,7 +1319,7 @@ So Agile robs developers of sense of satisfaction of ownership and completion. W
 "[The] problem is that most Agile proponents say that "estimations aren't to be taken as timelines". But that doesn't address the fundamental issue that management always uses the engineering estimations as a method of managing their timelines.
 Not to mention that "velocity" and burn down charts actually reinforce the idea that estimations are ways of tracking how much work will get done in Agile. Otherwise, tracking those metrics would be completely pointless."--cyphar, [https://news.ycombinator.com/item?id=20417768](https://news.ycombinator.com/item?id=20417768)
 
---
+---
 "What is agile development? Is it anything more than a buzzword?
 
 I have worked in several environments that embraced 'agile'. And they were all different, for the most part.
@@ -1523,8 +1523,7 @@ This leads to quality getting worse as people scramble to make the burn down cha
 
 I discussed this in my YouTube video 'The Secret of Scrum' last week."--jayme-edwards, [How does agile work at your company? Is the way my company is doing it unusual?](https://www.reddit.com/r/cscareerquestions/comments/81z1fg/how_does_agile_work_at_your_company_is_the_way_my/)
 
---
-
+---
 "But isn’t it the managers’ implicit goal to make it as predictable, modularized / interchangeable as factory work and workers.
 the Agile Industrial Complex realized they can sell that vision to managers, despite it being unachievable.
 
@@ -1792,7 +1791,7 @@ Me: I won’t be able to touch this for 2 weeks. Even then I can’t get you an 
 
 Them: Yes, yes, but we’re an agile company now so we shouldn’t be bound by these hard constraints. You should be able to pivot and synergize your team to deliver value add. We can take this offline to revisit."--renok_archnmy, ["Agile is a disaster" says Tom Gilb, the Gradaddy of Agile. What do you think](https://www.reddit.com/r/programming/comments/x3povm/agile_is_a_disaster_says_tom_gilb_the_grandaddy/)
 
---
+---
 "Okay, but I could equally say, "No one would have issues with 'Agile' if developers could get infinite work done in a week... but that's not how the world works."
 
 The fact is, there's a limited amount of work that can be done in a limited amount of time with a limited amount of money. Developers want the time and money to be unlimited, while customers want the work to be unlimited. But none of that is how this works: all three of these things are finite.
@@ -1802,33 +1801,33 @@ Committing to an amount of work in a sprint doesn't work, because it always ends
 
 Part of the problem is that customers see it as their job to get more work for less time and money, so they try to set aside what developers are telling them, the "work is limited" part of the trifecta. They see developers as their subordinates, so they think their desired outcome, where time and money are limited but ability to produce is unlimited, is reality. If developers and customers are seen as equals, both bringing needed value to the table, then this doesn't happen, because everyone agrees on the limitations of the situation. But as soon as you start treating customers as superiors, their view of the limitations becomes dominant, with predictable negative outcomes."--kerkeslager, [https://news.ycombinator.com/item?id=34886374](https://news.ycombinator.com/item?id=34886374)
 
---
+---
 "Being prepared with a clear, concise, well-communicated vision of what you want to build is essential to developing quality software, regardless of the adopted process.
 
 Agilists frequently argued investing time and energy into crafting requirements is an “anti-pattern”, so being unprepared became the Right Way To Work TM. This is 100% dead-ass wrong."--trentnix, [https://news.ycombinator.com/item?id=34886374](https://news.ycombinator.com/item?id=34886374)
 
---
+---
 "Agile, and especially Scrum, are a scam. Well intentioned, yes, but mostly serve to create an industry around a problem that often doesn't exist at all.
 
 That's not even my main objection to Agile.
 
 The worst part of these methodologies is that there's no evidence that they work. It doesn't matter whether an individual team thinks it works. Does it work for many teams? What about most teams? What for what kinds of teams does it work best? What kinds of teams does it have no impact on or a negative impact for? Nobody actually knows, and seemingly nobody is interested in studying it. Even companies themselves aren't honest about whether Agile is working for them. Burndown charts and the overall number of tickets being closed is about as far as it gets, except management inevitably gets their hands on these things and uses them as a means to extract more work from their employees. What suffers? Quality. Agile doesn't care about quality."--ravenstime, [https://news.ycombinator.com/item?id=34886374](https://news.ycombinator.com/item?id=34886374)
 
---
+---
 > The worst part of these methodologies is that there's no evidence that they work.
 
 "I think it's worse than that. The management that promotes these bastardized 'Agile' methodologies are often hostile to any empirical data that raises questions. It's not for a lack of evidence, it's that the methodology is elevated to untouchable status and any evidence to the contrary is explicitly suppressed and ignored.
 
 Take the example of 'story points'. If all planning is based on story points, and all sprints are based on executing those stories, surely each sprint retrospective would look at how well the original points aligned with objective reality - use the empirical data and compare it to the estimated story points in order to refine the theory. This is the basic scientific method! Yet I've found that teams systematically avoid any such analysis. In the worst cases, I've seen teams explicitly forbidden from discussion story points in the retrospective ('How dare you attack the methodology with empirical data!')."--perrygeo, [The age of cargo cult Agile must end](https://news.ycombinator.com/item?id=34886374)
 
---
+---
 "I feel like when Agile first came out the local agile guru was basically an older programmer w/ a ton of years and wisdom under their belt who knew first hand why doing things a particular way was best. It's since becamse a 2 week course for anyone to enter the tech field. Feel the same way about the influx of cybersecurity experts. Those used to be really good devs who also knew a lot about security, now, don't even get me started.",--anon23anon, [https://news.ycombinator.com/item?id=34886374](https://news.ycombinator.com/item?id=34886374)
 
---
+---
 "Yes, and who else is annoyed by random Japanese words being used to say the thing English but make it sound exotic and sophisticated? From the article: “Jidoka: the harmonization of people and machines” (jidoka/自動化 which literally means automation), or random TED talks about Muda, Ikigai, or Mottainai (sprinkle in Konmari for good measure). People here in JP think, what’s so special about these words? Kanban in the end just means signboard.
 I get that adding memorable words to things sometimes gets the point across extremely well, but all those other times, just say the thing you would like to say, heh."--justusw, [https://news.ycombinator.com/item?id=34886374](https://news.ycombinator.com/item?id=34886374)
 
---
+---
 "I'm not a fan of Agile for precisely the reason you give. If the principles are constantly misinterpreted, it exists as name without an anchor.
 
 I have encountered advocates of Agile who say that other people only say they use Agile but don't really use Agile. They are keen to point at successes an say "look They're using Agile" and failures as people who said they were using Agile but weren't really.
@@ -1839,8 +1838,7 @@ The article here talks about Cargo Cult Agile, but the people doing that Agile d
 
 It has gotten to the point that I don't believe the name is meaningful unless it as a Tribal identifier. To be frank I would like the name to go away completely. The principles should be able to stand on their own merit, people should be free to take the things that work for them. There is no need to Proper Nounify ideas other than to show you are talking about the same thing. For Agile, that ship has sailed."--Lerc, [https://news.ycombinator.com/item?id=34886374](https://news.ycombinator.com/item?id=34886374)
 
-
---
+---
 "Okay, but I could equally say, 'No one would have issues with 'Agile' if developers could get infinite work done in a week... but that's not how the world works.'
 
 The fact is, there's a limited amount of work that can be done in a limited amount of time with a limited amount of money. Developers want the time and money to be unlimited, while customers want the work to be unlimited. But none of that is how this works: all three of these things are finite.
@@ -1851,7 +1849,7 @@ Committing to an amount of work in a sprint doesn't work, because it always ends
 
 Part of the problem is that customers see it as their job to get more work for less time and money, so they try to set aside what developers are telling them, the "work is limited" part of the trifecta. They see developers as their subordinates, so they think their desired outcome, where time and money are limited but ability to produce is unlimited, is reality. If developers and customers are seen as equals, both bringing needed value to the table, then this doesn't happen, because everyone agrees on the limitations of the situation. But as soon as you start treating customers as superiors, their view of the limitations becomes dominant, with predictable negative outcomes."--kerekeslager, [https://news.ycombinator.com/item?id=34886374](https://news.ycombinator.com/item?id=34886374)
 
---
+---
 "The agile manifesto makes no sense.
 
   _1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software._
@@ -1885,8 +1883,7 @@ That said I've seen enough Agile projects flounder and fail to know that it's no
 
 Whatever snake oil comes next is only going to gain adoption if it promises even more control for the business."--ryandvm, [https://news.ycombinator.com/item?id=34886374](https://news.ycombinator.com/item?id=34886374)
 
---
-
+---
 "__Misdirection and Misuse:__ Agile methodology was derived from military doctrine, specifically the SMEAC strategy which forms the backbone of Agile's 'epic' and smaller mission plans. These are meant to be executed within a day, yet in corporate settings they have been distorted into a barrage of meetings lasting for weeks, contributing to an aimless approach.
 
 > Isn't it true that Agile offers different frameworks, like Kanban, that doesn't rely on sprints and lengthy meetings?
@@ -1954,57 +1951,62 @@ Me: I won’t be able to touch this for 2 weeks. Even then I can’t get you an 
 
 Them: Yes, yes, but we’re an agile company now so we shouldn’t be bound by these hard constraints. You should be able to pivot and synergize your team to deliver value add. We can take this offline to revisit."--renok_archnmy, ["Agile is a disaster" says Tom Gilb, the Gradaddy of Agile. What do you think](https://www.reddit.com/r/programming/comments/x3povm/agile_is_a_disaster_says_tom_gilb_the_grandaddy/)
 
-
-
-
+---
 "Some software engineers think that, because bad software hurts revenues and generates costs in the long term, a profit-maximizing corporation can still have the incentives to achieve quality. In theory, that's true. The thing is that companies don't actually "maximize" profits because they don't "think"; people do. In practice, power resides not with some theoretical utility-maximizing institution called a corporation but with those who've done the dirty work (and make no mistake, it is always dirty) to grab the political capability to speak for and steer those corporations. Executives don't work for companies; companies work for executives. Even if "shareholders" wanted to defend against this--and they'd be conflicted to do so, since most of the ones who matter are rich people who got that way by twisting organizations toward their personal enrichment, i.e. being executives--they couldn't. Dysfunction is inevitable and intractible, and even if you think you are working for a company or (bless your heart) society at large, the hard political truth is that you're actually working for another man's reputation, and that's it.
 
 Agile failed to solve this, because it assumed good faith--it assumed that the dysfunction and rot in software were due to technical ignorance rather than the intentional malice that is actually at the heart of corporate capitalism."--Michael O. Church, ["Agile is a disaster" says Tom Gilb, the Gradaddy of Agile. What do you think](https://www.reddit.com/r/programming/comments/x3povm/agile_is_a_disaster_says_tom_gilb_the_grandaddy/)
 
-
+---
 "KPIs are just another way [for managers] to accommodate themselves. In practice, managers don't work for companies; companies work for managers.
 
 KPIs are a shopping list of brag points the manager wants to put on his promotion packet or CV; but if the KPIs are missed, then there's an opprtunity for the middle manager to go hurt people, thus impressing his boss by showing he can "be tough" [1] when the putative need arises. Either way, he wins, because that's how management works. If things run well, he takes credit. On the other hand, things go sideways, he can call it a "crisis" and show "decisive leadership" by hurting people, and take credit so long as a solution (even a sub-satisfactory one; a "solution" here means any stable state that is not total annihilation) is reached."--Michael O. Church, ["Agile is a disaster" says Tom Gilb, the Gradaddy of Agile. What do you think](https://www.reddit.com/r/programming/comments/x3povm/agile_is_a_disaster_says_tom_gilb_the_grandaddy/)
 
+---
 "Yes, exactly! Trying to estimate dev time for software full of unknowns is impossible. Those unknowns might be small issues we solve in an hour, or they might be show-stoppers that invalidate the entire design. The only way to know is to dig deeper, start shedding light on the unknowns, and work until you have some kind of confidence that while the issue may still not be perfectly clear, it's at least something that could be guesstimated with a t-shirt size. Unfortunately, I've been on a lot of projects where the time needed to do this work is longer than the fixed sprint length, so people half-ass the analysis to make it fit into the rigid time window of the sprint."--HeckinCornball, ["Agile is a disaster" says Tom Gilb, the Gradaddy of Agile. What do you think](https://www.reddit.com/r/programming/comments/x3povm/agile_is_a_disaster_says_tom_gilb_the_grandaddy/)
 
+---
 "I was nodding my head until the middle, and then Tom [Gilb] lost me:
 
 1:40 - People have to stop using methods that don't work
 1:44 - Management has to demand results
 1:52 - Part of the problem is management has put up with this and pays the price
+
 I'm sure this plays out differently in different companies, private vs govt, etc ... but management is usually the one demanding what methods to use (scrum), and what things to measure (velocity). And you get what you reward for. People don't want to talk about outcomes vs output.
+
 I don't know many developers that willingly chose Scrum, which is what most PMs considers synonymous with Agile. It could be better than nothing but most will prefer something pull based, like Kanban.
+
 The PMI, a huge professional org that doles out PMI certifications, was watching this Agile thing take off and felt kind of threatened. They were the traditionalist plan driven project management. They adopted some parts of agile, but most of the PMI certified people I talk to still don't get it. And where you have PMOs and PMI certified PMs running projects, you will have this corruption."--sonorangoose, ["Agile is a disaster" says Tom Gilb, the Gradaddy of Agile. What do you think](https://www.reddit.com/r/programming/comments/x3povm/agile_is_a_disaster_says_tom_gilb_the_grandaddy/) 
 
+---
 "[Agile] only works well if you already know the scope, and there's a clear way of communicating progress to the client.
 
 If you're in research/discovery phase, or working with tech debt and are prone to yak shaving, it's both difficult to estimate how long a task will take, and to explain to the customer that a work on a feature is barely started due to all manner of technical minutia."--thesuperbob, ["Agile is a disaster" says Tom Gilb, the Gradaddy of Agile. What do you think](https://www.reddit.com/r/programming/comments/x3povm/agile_is_a_disaster_says_tom_gilb_the_grandaddy/) 
 
+---
 "Agile seems to work well when it’s only developers and clients. Add managers and it starts to spiral"--cinnapear, ["Agile is a disaster" says Tom Gilb, the Gradaddy of Agile. What do you think](https://www.reddit.com/r/programming/comments/x3povm/agile_is_a_disaster_says_tom_gilb_the_grandaddy/) 
 
 "It appears that managers have taken a good idea and mutated it into an ugly form while claiming to respect it. It kinda reminds me of politicians using music at their rallies because they falsely believe the song supports their position while the songwriter angrily threatens a lawsuit, saying the song attacks and criticizes their position"--MpVpRb, ["Agile is a disaster" says Tom Gilb, the Gradaddy of Agile. What do you think](https://www.reddit.com/r/programming/comments/x3povm/agile_is_a_disaster_says_tom_gilb_the_grandaddy/) 
 
-
+---
 "I worked at a company with story point estimations, two (or for some, more) daily standups, twice a week planning and ticket estimation, retros, and who knows what else (e.g occasional scrum of scrums for a feature nobody understands, across teams and domains, with around a 100 people, with breakout rooms and presentations of all the teams' "commitments").
 
 Every time I fought the double daily standups, the pointless plannings (where we plan when we know nothing, and by the time we get to work on the tasks, everybody forgets what they agreed on), I failed.
 
 Once I wrote a script to fetch all the relevant data from Jira to figure out whether or story points give better estimates than simply counting up the stories (because of course Jira makes this as hard as possible for you to find out). I went through the channels, discussed it with different people, at every turn I added more info to the report demonstrating the pointlessness of story points, at each turn the data supported my argument stronger and stronger, across all our teams, for sprints going back years. After weeks of discussing it, we kept the story points, because "upper management wants numbers."--serial_dev, [Estimation isn't for everyone](https://news.ycombinator.com/item?id=36338941)
 
---
+---
 > 'I'll not work for a company with Scrum and story point estimations.'
 
 "I take it even further. After years of putting up with various agile things, I made the career decision of no longer accepting positions at agile shops at all, much like I will no longer accept positions at companies that use an open office layout."--JohnFen, [Estimation isn't for everyone](https://news.ycombinator.com/item?id=36338941)
 
---
+---
 "I worked in (too) large scrum team and frustrated, at some point, I also pulled data from Jira. It turned out that our actual pace of work was a fraction of the velocity we used to determine which task to take up into sprint.
 
 There can be a lot of scrum theatre played entirely for the management and divorced from reality. Influence on the work done is completely secondary.
 
 But I find it completely natural that in corporations most important function of a lot of things is providing everyone sufficient excuse to get paid."--scotty79, [Estimation isn't for everyone](https://news.ycombinator.com/item?id=36338941)
 
---
+---
 "Oof. I had to do the double daily standup thing once. In addition to the retros, calls with subject matter experts, company meetings, etc. By the time we could actually get started on sprint work, and do a couple hours work here and there between meetings, it was almost sprint deadline already.
 
 I didn't even bother with pulling data from Jira and trying to make a point that way. It wasn't necessary.
@@ -2013,12 +2015,12 @@ I just quite honestly gave my update in my second standup "No progress since the
 
 Some people were a little rankled by that honesty. But eventually they got the point and scrapped that second hour of standup and some of the other meetings. That helped significantly."--Falkon1313, [Estimation isn't for everyone](https://news.ycombinator.com/item?id=36338941)
 
---
+---
 "I'm a self-taught developer at global market leader company. I worked on the business side for years and built quite a few internal apps end-to-end completely alone. I had no choice but to follow good practice to maintain them alone.
 
 I was quite reluctant to join the dev team, it never had a good reputation, but eventually decided to give it a go. Agile and estimations, spill overs, etc is such a pain in the ass, it feels like a pseudo-science. A lot of people spend a lot of energy on just this administration while we are way behind on many other things, like proper unit testing, good quality documentation, well established CI/CD. And everybody is focusing so much on the estimates, tickets like this was the end goal. I want to change their approach but there's a long way to go."--hereforcomments, [Estimation isn't for everyone](https://news.ycombinator.com/item?id=36338941)
 
---
+---
 > Agile and estimations, spill overs, etc is such a pain in the ass, it feels like a pseudo-science. A lot of people spend a lot of energy on just this administration while we are way behind on many other things, like proper unit testing, good quality documentation, well established CI/CD. And everybody is focusing so much on the estimates, tickets like this was the end goal.
 
 Very well put.
@@ -2035,36 +2037,35 @@ So now I'm with this commenter, and their sage advice:
 
 And no, I'm not going to capitalize the word "agile", either. Or waste any more time with anyone who does."--lisasays, [Estimation isn't for everyone](https://news.ycombinator.com/item?id=36338941)
 
---
+---
 "I still don't understand how we went from the Manifesto's "individuals and interactions over processes and tools" to... Jira."--rvense, [Estimation isn't for everyone](https://news.ycombinator.com/item?id=36338941)
 
---
+---
 "At most companies, 'doing agile' is not for the benefit of the development process or developers, but for upper management."--JohnFen, [Estimation isn't for everyone](https://news.ycombinator.com/item?id=36338941)
 
---
+---
 "If agile is used as a foil -- to project an aura of managerial competence, and keep everyone distracted while no one talks about the real problems that need to be solved -- then it also deserves blame."--lisasays, [Estimation isn't for everyone](https://news.ycombinator.com/item?id=36338941)
 
---
+---
 "I’ve worked as a software developer for a decade and a half now. In that time I’ve had a run at management, I’ve been an “Enterprise Architect” and I’ve had the honour to be selected to work as an external examiner for CS students for the past 6 or 7 years. I’ve spent most of my time in non-tech enterprise organisations, and recently working with non-tech start-ups that are transitioning into enterprise organisations. In my years in the public sector I had the fortune to both make an impact on our national strategies and work along some of the best talent in the Danish Software Industry, both from major software houses and tiny ones.
 
 I’ve never seen anyone make good use of estimation. Or indeed any of the agile tools.
+
 This is not to say that I haven’t seen organisations make successful Agile, CI/CD, code-as-infrastructure or any of those things operations. It’s to say that it always come with a hefty price of needing a bunch of people to do what is essentially pseudo-work, to enable the processes. In my very anecdotal experience buying and building software with over 200 different companies, and more than 200 different ways of doing project management, I’ve never really seen how any PM techniques have had much of a repeatable impact on quality or deadlines.
 
-I sometimes have to work very hard not to snicker when a teacher and a student get into the project management parts or their examinations. Partly because almost nobody does it by the books, but also because it almost never works the way the academics who came up with these process models for “how to work” intended. Sometimes it’s due to incompetence. I can think of very few Scrum Masters or Process Developers or any of those fancy titles, who actually ought to be doing that. Mostly it’s the developers who no longer want to code, for whatever reason, who end up in those situations and as they get further and further away from what produces actual value, they seem to double down ever harder on what ever theory caught their fancy. But for the most part it’s because organisations don’t really want to follow the rules they set up for themselves as soon as the rules get in the way. Yet here we are, grilling students on methodologies that won’t work.
+I sometimes have to work very hard not to snicker when a teacher and a student get into the project management parts or their examinations. Partly because almost nobody does it by the books, but also because it almost never works the way the academics who came up with these process models for 'how to work' intended. Sometimes it’s due to incompetence. I can think of very few Scrum Masters or Process Developers or any of those fancy titles, who actually ought to be doing that. Mostly it’s the developers who no longer want to code, for whatever reason, who end up in those situations and as they get further and further away from what produces actual value, they seem to double down ever harder on what ever theory caught their fancy. But for the most part it’s because organisations don’t really want to follow the rules they set up for themselves as soon as the rules get in the way. Yet here we are, grilling students on methodologies that won’t work.
 
-I know why we do it. It’s because nobody really cares enough about digitalisation to get involved with managing it. Which means we’re left with managing it ourselves and since every CS student gets “agile good, waterfall bad” into them, and the fact that there is a huge industry that will sell you agile training and models and processes and so on, it’s where almost everyone eventually ends up turning. Because why wouldn’t they? Then we all pretend that anyone will sign your 'we don’t know what features we can finish' contract. Or that everyone basically expects your estimates and deadlines to fail.
+I know why we do it. It’s because nobody really cares enough about digitalisation to get involved with managing it. Which means we’re left with managing it ourselves and since every CS student gets 'agile good, waterfall bad' into them, and the fact that there is a huge industry that will sell you agile training and models and processes and so on, it’s where almost everyone eventually ends up turning. Because why wouldn’t they? Then we all pretend that anyone will sign your 'we don’t know what features we can finish' contract. Or that everyone basically expects your estimates and deadlines to fail.
 
 Now now, I know some of you may work in a big American tech company, where these methodologies might actually work out. Because you actually have more than 3 people working on the same thing, and may even have reasonable ways to estimate time because none of those 3+ people will get pulled away at a moments notice to “fix this issue, no. But that’s not the story of software development in general. So on a large generalising scale, things like estimations is basically a lie that we pretend isn’t a lie because business people that don’t care about digitalisation need a deadline for their finance people, so they’ll pretend they believe you’ll keep your estimate, while they secretly have the finance people set off 20-40% extra budgeting for when the estimation eventually fail. Then once those 20-40% are used and they need another 30-50%, things start to get fun."--devjab, [Estimation isn't for everyone](https://news.ycombinator.com/item?id=36338941)
 
-
+---
 "So Agile is this wonderful thing that should make everyone happy. Only it isn't because it fails to understand the basics of how things work in real life and it turns the life of programmers into hell. They cannot do anything semnificative or rewarding anymore because the tasks are too small to mean anything. And if they want to go to an interview when the hr person asks: so what exactly did you do he has nothing to say because he did many pieces from here and there but nothing from beginning to the end. But of course it is a joy for managers because they feel they are being productive even though most of the code is crap and gets re-written a dozen times to make it sorta work but the adage that by then no one really know what the code tried to do. Yeah that's amazing!"--Panait Ciprian, [The Subversion of Agile: "Agile is a Cancer"](https://www.linkedin.com/pulse/subversion-agile-cancer-zach-bonaker/#:~:text=Agile%20is%20a%20cancer%20that,convention%20one%20morning%20in%20Finland.)
 
---
-
+---
 "I'm not an expert in agile approaches either, but after working with agile and scrum methods the last few years one thing has become clear. 'Agile' has been overtaken by people who don't do any coding and do not actually write software."--Kaushik Mukerjee, [The Subversion of Agile: "Agile is a Cancer"](https://www.linkedin.com/pulse/subversion-agile-cancer-zach-bonaker/#:~:text=Agile%20is%20a%20cancer%20that,convention%20one%20morning%20in%20Finland.)
 
---
-
+---
 "I've seen just about everything you describe. I've also seen it even worse, or in some cases being the exact opposite problem
 
 - A backlog so giant it's meaningless.
@@ -2085,11 +2086,14 @@ Zero spikes. (I've been suggesting we do spikes for the last year, and we haven'
 
 The only place I ever worked that did Agile correctly (including Devs being able to say "no" with the backing of upper management) had the problem that Product controlled the majority of the process, and generally decided what we worked on."--DevIceMan, [How does agile work at your company? Is the way my company is doing it unusual?](https://www.reddit.com/r/cscareerquestions/comments/81z1fg/how_does_agile_work_at_your_company_is_the_way_my/)
 
---
+---
 
 "After about 6 months of "agile" we were in a retrospective playing one of the games. I think it involved fuzzy dice. It was my turn to write a suggestion on the board. I wrote, "Let's implement one idea ever discussed from any previous retrospective." The scrum master complained to the CTO about me not being a team player."--Ch3t, [How does agile work at your company? Is the way my company is doing it unusual?](https://www.reddit.com/r/cscareerquestions/comments/81z1fg/how_does_agile_work_at_your_company_is_the_way_my/)
 
--- 
+---
+"A lot of the problem is that sometimes management believes that completing more story points means getting more work done and that you can compare velocity between teams, which is 100% incorrect. If management gets upset that you're only getting x story points done a sprint, that's easy to solve, you could just increase the sizing of all of your stories by y and boom, now you look more productive, even if you aren't."--Jazzy Josh, [How does agile work at your company? Is the way my company is doing it unusual?](https://www.reddit.com/r/cscareerquestions/comments/81z1fg/how_does_agile_work_at_your_company_is_the_way_my/)
+
+---
 > The idea of sprints is also stupid. The sprint is supposed to just be measuring what can be done in two weeks. It isn't supposed to be pressure on the developer to finish X tasks in 2 weeks.
 
 "Having worked at several jobs, this is my #1 issue with scrum. It’s like planning to roll dice and committing to always roll 6s.
@@ -2098,13 +2102,7 @@ Often, developers will be scrambling to finish tasks at the end of a sprint, whi
 
 To counteract this issue, many teams will start to intentionally [overestimate] the amount of work that can be done in a sprint. By the end of a sprint, many developers will be idle because there is nothing to start on. The team lead doesn’t want to jeopardize the sprint by bringing in work that may not be finished by the end. At my old job, I was usually doing nothing for the last two days of a sprint."--[deleted], [How does agile work at your company? Is the way my company is doing it unusual?](https://www.reddit.com/r/cscareerquestions/comments/81z1fg/how_does_agile_work_at_your_company_is_the_way_my/)
 
---
-
-"A lot of the problem is that sometimes management believes that completing more story points means getting more work done and that you can compare velocity between teams, which is 100% incorrect. If management gets upset that you're only getting x story points done a sprint, that's easy to solve, you could just increase the sizing of all of your stories by y and boom, now you look more productive, even if you aren't."--Jazzy Josh, [How does agile work at your company? Is the way my company is doing it unusual?](https://www.reddit.com/r/cscareerquestions/comments/81z1fg/how_does_agile_work_at_your_company_is_the_way_my/)
-
-
---
-
+---
 "My team is currently being coached by Agile consultants (we used to be a waterfall shop). The coaching has been going on for more than three months now and we have all of the problems listed in this thread, and more*. Despite our coaches actually quoting the "getting the processes out of the way" mantra, we're finding that the Agile coaching process itself is getting in our way and blocking work. For example, last week was the start of our two week sprint and we spent the first THREE DAYS in meetings to fix our broken story-splitting/sprint-planning process and try to figure out why the workflow isn't working for us.
 
 Some of the "and more" includes:
@@ -2115,12 +2113,10 @@ Some of the "and more" includes:
 
 3. A large portion of the work in our product development area is sort of like business development stuff, i.e. research, analysis, making presentations to large groups of people, doing a lot of consensus-building/campaigning. Stuff that you can't chop down into "minimum viable product" because there isn't a product there yet, and if there's a nubbins of a proto-product there's not enough of an idea around it to be able to deliver in a two-week sprint. We do task forces and pilot projects but all of that work needs to be reviewed/approved by our external customers and good luck getting THEM to participate in your sprint schedule! LOL! And yet we're required to do this work in the sprints also because our executive team demanded that everybody has to become Agile."--JcWoman, [How does agile work at your company? Is the way my company is doing it unusual?](https://www.reddit.com/r/cscareerquestions/comments/81z1fg/how_does_agile_work_at_your_company_is_the_way_my/)
 
---
-
+---
 > There's no reason meeting goals ahead of time should preclude you from getting a head start on future work.
 
 "There is, if the sprint is seen as a work quota.
-
 
 > faith-based adherence to Agile
 
@@ -2131,14 +2127,12 @@ Some of the "and more" includes:
 "Values are the fundamental building block of all 'belief systems.' If you can dictate values, you can easily manipulate (motivate) them to behave in ways which violate reason or self-interest.
 It doesn't matter if one can demonstrate B is better than A, anyone who adopts a belief system of 'We value [A] over [B].' will still pick A."--DevIceMan, [How does agile work at your company? Is the way my company is doing it unusual?](https://www.reddit.com/r/cscareerquestions/comments/81z1fg/how_does_agile_work_at_your_company_is_the_way_my/)
 
--- 
+--- 
 "If you're talking a daily standup, then you see the problem. You feel uncomfortable saying nothing, because the only reason to say nothing is because you've done nothing.
 
 So you can imagine developers who aren't working for multiple teams simply can't say nothing, so they have to say something, so we all get our time wasted with details we don't need and tune out."--wayoverpaid, [How does agile work at your company? Is the way my company is doing it unusual?](https://www.reddit.com/r/cscareerquestions/comments/81z1fg/how_does_agile_work_at_your_company_is_the_way_my/)
 
-
---
-
+---
 "__Misdirection and Misuse:__ Agile methodology was derived from military doctrine, specifically the SMEAC strategy which forms the backbone of Agile's 'epic' and smaller mission plans. These are meant to be executed within a day, yet in corporate settings they have been distorted into a barrage of meetings lasting for weeks, contributing to an aimless approach.
 
 > Isn't it true that Agile offers different frameworks, like Kanban, that doesn't rely on sprints and lengthy meetings?
@@ -2172,7 +2166,7 @@ In theory, yes. But the Lean-inspired focus on billable hours often discourages 
 
 Agile can serve as a useful framework when implemented correctly, but its misuse, oversimplification of coding, and proliferation of non-technical roles within technical teams suggest an uncomfortable reality - that it is, to an extent, a ploy to shoehorn non-coders into the tech industry."--Federal_Penalty5832, [Agile methodology is a ploy at getting non-technical people into the tech industry without knowing how to code](https://www.reddit.com/r/webdev/comments/15f4rnz/agile_methodology_is_a_ploy_at_getting/)
 
---
+---
 "
 > I think it certainly is possible to work with software developers as a facilitator/scrum master/PM/servant-leader-type and increase the team's throughput without knowing how to code.
 
