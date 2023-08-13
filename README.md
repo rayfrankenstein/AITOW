@@ -240,6 +240,9 @@ Agile is like writing a draft of a mystery novel, before actually thinking throu
 “It’s the worst part of my day.  I have to think back on yesterday and if it sounds like enough.  Like OP said, many times I’m researching libraries or features and I always feel like it doesn’t sound like enough even though you learn a lot for upcoming days and tasks.”—Ytdj51, Expedia, “Anyone else hate scrum standups”, Blind.
 
 ---
+"Unless people can freely get up in the standup meeting and say "I got nothing done yesterday because I spent all day trying to install the new version of the SDK, I'm now a week behind on our two week deliverable", and have zero stigma about it - the standups are mostly useless."--nikofeyn, [Erik Meijer: "Agile is a cancer that we have to eliminate from the industry"](https://www.reddit.com/r/programming/comments/2rqm2v/erik_meijer_agile_is_a_cancer_that_we_have_to/)
+
+---
 "> My current job is the opposite. Some tasks take 15 minutes of discussion (no, they aren't complex tasks) with people debating whether it is worth 5 points or 8. It is just tiring and pointless.
 
 That was my last gig. The whole organization eventually just collapsed under the increasing load of being 'Agile'."--g051051, [https://news.ycombinator.com/item?id=28414751](https://news.ycombinator.com/item?id=28414751)
