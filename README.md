@@ -1730,6 +1730,38 @@ As for Agile offering "protection", maybe I misunderstand your point but for me,
 
 Note that I don't consider 'waterfall' bad, and 'Agile' good. It is just different approaches for different situations. If the customer wants an 'hands off' approach, or if you write certified software, then I believe that 'waterfall' style approaches are superior most of the times."--Gub-42, [The age of cargo cult Agile must end](https://news.ycombinator.com/item?id=34886374)
 
+---
+"Executives in my company use agile as an excuse to completely derail and change direction at random. Like literally any time any day.
+
+Them (via chat): Hi
+
+Me: What’s up?
+
+Them: Do you have a minute?
+
+Me: Sure
+
+Them: What do you think about [this totally left field idea I read in Forbes yesterday]?
+
+Me: Uhh, I mean I guess there’s something there…
+
+Them: What would it take to get that going?
+
+Me: Well, [confabulate some overly extreme time estimate because I don’t want them thinking I’ll just hop to and deliver random Forbes trend on demand].
+
+Them: Oh, see, we’ve identified this as a new strategic opportunity.
+
+Me: Ok… (knowing full well what’s coming)
+
+Them: Can you get a group together and start working on this?
+
+Me: I literally started a sprint yesterday and already committed to X work. This sprint will be complete on [insert date]. I can add that to my backlog and submit it for prioritizing, but it may be a while before anything is delivered. It’s also a large ask so the timeline is going to be pretty long. Additionally, adding this to my plate introduces a lot of context switching for my team and may reduce our overall productivity through each sprint.
+
+Them: Ok, but when can you be done by? I told the CEO we’d have this done by next week.
+
+Me: I won’t be able to touch this for 2 weeks. Even then I can’t get you an estimate until we’ve broke it down further and can start to…
+
+Them: Yes, yes, but we’re an agile company now so we shouldn’t be bound by these hard constraints. You should be able to pivot and synergize your team to deliver value add. We can take this offline to revisit."--renok_archnmy, ["Agile is a disaster" says Tom Gilb, the Gradaddy of Agile. What do you think](https://www.reddit.com/r/programming/comments/x3povm/agile_is_a_disaster_says_tom_gilb_the_grandaddy/)
 
 ## What works, in their own words
 
@@ -1853,8 +1885,4 @@ If it was a huge project, then they'd go back and say 'We need to reduce scope. 
 Somehow, this one person always managed hit their estimates spot-on, every time. This was a model employee.
 
 Depending on the company and your management, and how well you can BS, you can simply walk into Mordor whenever you feel like it."--Falkon1313, [Estimation isn't for everyone](https://news.ycombinator.com/item?id=36338941)
-
----
-"I was a master at waterfall. Few people are able to visualize the end product. I was and I was good at communicating what it was going to be. Everyone has been doing some bastardized version of agile for the last ~20 years and they are late, disorganized and make crappy software. The agile gurus are always incompetent doofuses. I think agile could work, but I’ve never seen it in real life."--workinBuffalo, ["Agile is a disaster" says Tom Gilb, the Gradaddy of Agile. What do you think](https://www.reddit.com/r/programming/comments/x3povm/agile_is_a_disaster_says_tom_gilb_the_grandaddy/) 
-
 
