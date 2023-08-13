@@ -435,6 +435,15 @@ Thus, new features get progressively harder to implement, as you touch a deeper 
 When I hear "Agile" now a days I just tells me I need to up my billing rate and make sure my contract has been run past my lawyer."--DarkKaplah, [https://developers.slashdot.org/story/19/08/26/045216/agile-programming-is-not-dead-quite-the-opposite#comments](https://developers.slashdot.org/story/19/08/26/045216/agile-programming-is-not-dead-quite-the-opposite#comments)
 
 ---
+> i've read like 10 different definitions for agile/scrum/whatever
+
+"Correct. This is entirely Agile's fault, as it refuses to define itself in clear consistent terms.
+
+When you criticize a part of Agile, you get 'that's Scrum not Agile' or 'that's not real Agile' or 'Something about agile vs Agile (lowercase vs uppercase)' or 'Agile is the manifesto, not the implementations' or 'read the manifesto.'
+
+To the best I can tell, Agile is whatever you want it to be, unless you're a critic."--DevIceMan, How does agile work at your company? Is the way my company is doing it unusual?](https://www.reddit.com/r/cscareerquestions/comments/81z1fg/how_does_agile_work_at_your_company_is_the_way_my/)
+
+---
 "While agile claims to be many things, in practice it's usually a mixture of red-tape and rituals which promotes processes that reduce programmers into interchangeable cogs in a machine whose sole purpose is to churn through an assembly line of tickets.
 
 There are perhaps many reasons to be frustrated with Agile, and I've written much on the subject. However my biggest gripe is that is effectively undermines the creative or R&D style elements of being a programmer. Sure you may get to design how the data flows through the system, choices of technologies and libraries, pick programming patterns or languages, but true creativity is usually reserved for projects you work on in your own time - outside of work."--DevIceMan, [https://www.reddit.com/r/programming/comments/6rsyrd/in_a_nutshell_why_do_a_lot_of_developers_dislike/](https://www.reddit.com/r/programming/comments/6rsyrd/in_a_nutshell_why_do_a_lot_of_developers_dislike/)
