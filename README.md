@@ -477,6 +477,13 @@ An enlightening exercise for any project manager is to go to a sales team and ex
 Thats the best case. The worst case is that all that work you put into showing transparency around velocity ends up being used against the teams working on the hardest and most innovative projects in your organization. Their velocity will be all over the map while the maintenance teams will look good. You'll have convinced the leadership of the organization that velocity is a real number to track (cause you spend so much resources tracking it) and the incentive structures will reflect it. You just made it worse for good engineers to join the teams solving your hard problems.”—kasey_junk, [https://news.ycombinator.com/item?id=16892307](https://news.ycombinator.com/item?id=16892307)
 
 ---
+"My company have mandated that my team use sprints, despite us having previously proved that sprints are a bad way to handle our workload (we used a kanban-like system for a glorious year or so and we were actually way more productive in a measurable manner, and also a lot less annoyed). The reason? Predictability.
+Except you can also measure that we're not hitting any predicted goal times, ever, because our sprint system is incompatible with the nature of our work supporting live systems and simultaneously developing new features. We're regularly taking on work from outside the sprint half an hour after sprint planning, because something exploded and we're the ones who have to fix it.
+It's completely impossible, but the vision of predictability has blinded management.
+
+The number of times there's a card on the retro board under "Stop doing" that just says "sprints" on it...", mathw,[The age of cargo cult Agile must end](https://news.ycombinator.com/item?id=34886374)
+
+---
 “Does it? E.g.
 
 _Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage._
