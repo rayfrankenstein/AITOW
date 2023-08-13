@@ -13,6 +13,9 @@ _A curated list of negative developer comments about Agile and Scrum on social m
 i know for a fact that 90% of engineers dislike agile but many don't even imagine there can be an alternative, and most who do are terrified to say anything. Just look at the other answers to this question, most are from the very non engineers that have imposed this nonsense in the first place.”--Anonymous, [https://www.quora.com/Have-developers-finally-started-to-%E2%80%9Csay-no%E2%80%9D-to-agile-development](https://www.quora.com/Have-developers-finally-started-to-%E2%80%9Csay-no%E2%80%9D-to-agile-development)
 
 ---
+"Agile was supposed to free us from operational dogma but instead it, much like Anakin Skywalker, became the very thing it was supposed to destroy."--LavenderDay3544, ["Agile is a disaster" says Tom Gilb, the Gradaddy of Agile. What do you think](https://www.reddit.com/r/programming/comments/x3povm/agile_is_a_disaster_says_tom_gilb_the_grandaddy/)
+
+---
 
 “The 'what did you do yesterday?' part can also encourage people to scramble to justify they worked hard enough yesterday when it's tricky to condense why a task isn't as trivial as it sounds”--seanwilson, [https://news.ycombinator.com/item?id=14085716](https://news.ycombinator.com/item?id=14085716)
 
@@ -122,6 +125,9 @@ I’d argue that spending time on activities like scrum poker or sprint planning
 
 ---
 “In the worst cases, [agile] puts extreme pressure on the people doing the actual development work to deliver 'tasks' within a specific timeframe, without giving much (if any) thought to the overall design, the fact that bugs will appear and need addressing, and without any input.”—Kelly Schrock, [https://www.quora.com/In-a-nutshell-why-do-a-lot-of-developers-dislike-Agile-What-are-better-project-management-paradigm-alternatives](https://www.quora.com/In-a-nutshell-why-do-a-lot-of-developers-dislike-Agile-What-are-better-project-management-paradigm-alternatives)
+
+---
+"Most cases of Agile I've seen means "instead of doing Specification documents, let's use Jira. And by the way, now that you are doing agile, we expect the deliveries to take half the time, because now you are Agile"--SittingWave, ["Agile is a disaster" says Tom Gilb, the Gradaddy of Agile. What do you think](https://www.reddit.com/r/programming/comments/x3povm/agile_is_a_disaster_says_tom_gilb_the_grandaddy/)
 
 ---
 “Generally the problem is that management wants this idea you call -just in time planning’ to happen all the time, and even believes it to be synonymous to Agile. Meanwhile the software team is saying, that's fundamentally at odds with the entire premise of how to write software. Saying you want to produce software that was always planned at the drop of a hat (which is what management wants) is like saying you want to chisel Mount Rushmore but you won't tell whose faces should be on it until right at the end. It's just not a coherent goal. My hope with the barriers to anti-quality thing is that we would take things like this, where regardless of what management feels entitled to, and make it sacred and inviolable that the obviously stupid and incoherent things can be vetoed by the feet-on-the-ground people doing the actual work.”--mlthoughts2018, [https://news.ycombinator.com/item?id=17186591](https://news.ycombinator.com/item?id=17186591)
