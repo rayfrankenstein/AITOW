@@ -368,6 +368,16 @@ Agile does more to excuse poor managment than it does to enable developers."--Cl
 With that said I totally get why designers hate Agile - it forces them to make design decisions they're not ready to make and once there's functional software in people's hands everyone groans when design suggests non-feature changes."--spamizbad, [The age of cargo cult Agile must end](https://news.ycombinator.com/item?id=34886374)
 
 ---
+"I've worked across probably 100+ companies over the last 30 years. The reality is that the implementation of 'agile' has been mostly loosely interpreted and varies wildly across the spectrum of those companies. In most cases - not all - design and research were so deeply subordinated (or at times completely absent) that the VALUE design could offer was limited by the hurried nature of the process.
+
+It's interesting that in all my years it's mostly the agile coaches, scrum masters, and engineering teams who feel agile is working while other disciplines feel it has failed them completely. I'd argue that there is a serious imbalance in the power structures of agile and scrum.
+
+In the automotive industries (and physical product industries in general) design has a much more strategic role to play, usually sits in advance of the 'manufacturing' process, and therefore gets the space and breathing room it needs to design usable products.
+
+Most digital organizations I've worked with -- and I've worked with many -- subordinate design into the 'manufacturing' process, often with little or no research applied, and expect cohesive products to be delivered. You can't think through the scope of a product, understand the needs of users, design 'complete" solution, in 2 week increments.'--Brian Hoadley, [The Age Of Agile Must End](https://uxdesign.cc/the-age-of-agile-must-end-bc89c0f084b7)
+
+---
+
 "In my experience agile/scrum just adds to the politics within the org. It’s a bloody religion. Agile adds in agile zealots vs the infidels."--kcplate, [The age of cargo cult Agile must end](https://news.ycombinator.com/item?id=34886374)
 
 ---
