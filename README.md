@@ -136,6 +136,9 @@ I’d argue that spending time on activities like scrum poker or sprint planning
 "I’ve spent enough time in sprint planning meetings trying to explain why we need to do A before B before C to product owners who are more interested in power politics than working code", Tim Burns, [https://sam-redmond.com/scrum-and-agile-are-one-in-the-same-and-its-killing-us-c67974bb2f48](https://sam-redmond.com/scrum-and-agile-are-one-in-the-same-and-its-killing-us-c67974bb2f48)
 
 ---
+"Waterfall is like heaven compared to Agile. With waterfall, you can just sit down and build the fucking thing. No hourly meetings or checkups from multiple different clueless managers on how your "tasks" are tracking towards "target velocity" etc. etc. You can work at your own pace on your own schedule towards an end goal that you control...you can build the thing without splitting it into tiny parts and having multiple people micromanage those tiny parts. You can just build it. You are your own manager and you can do things your way. No constant daily meetings about changing stuff, adding stuff that was scoped out back in, updating spreadsheets about the status of your 'tasks' so that people who have zero idea what you do for a living can look at them, etc."--hexapawn, [For those of you in a SWE career, what do you not like about Agile](https://www.reddit.com/r/cscareerquestions/comments/15opyhb/for_those_who_are_currently_in_a_swe_career_what/)
+
+---
 “I'll give you a recurring example of [Agile’s] bullshit. 
 
 _‘We need to figure out how to break this task down into smaller parts so we can continuously show progress’._ 
