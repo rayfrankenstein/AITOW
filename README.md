@@ -818,7 +818,14 @@ Finally, you don't have interchangeable developers. Sure, in a web world where y
 > break everything up into smaller chunks. It gives you clearly defined guardrails*'
  
 This is only true if management respects the estimates. In my experience, they do not understand why Fibonacci or t-shirt sizing, etc. are used. They mentally convert the points to some "X days" and then beat you in the head with it. They want to micromanage and they do not understand they are building software. You can't break certain tasks down further and you can't parallelize many tasks. You can bring up Fred Brooks but it's a hopeless cause. They will never get it. Then as you inch towards their arbitrary deadline (that they tell no one, by the way, because it's better the developers don't know about deadlines until the last fucking minute because 'agile' and not 'waterfall') they suddenly act shocked that 9 women really can't make a baby in one month.
-But I digress."--deckard1, [https://news.ycombinator.com/item?id=34886374](https://news.ycombinator.com/item?id=34886374)
+But I digress."--deckard1, [The age of cargo cult Agile must end](https://news.ycombinator.com/item?id=34886374)
+
+---
+For me the most absurd conversation around Fibonacci estimation is the burndown (etc) charts and group estimates.. you can't add non-linear values and expect the sum to mean anything!
+
+I've had managers fight over how the upcoming sprint is doable because it has around as many total points as the last, ignoring that they've defined the individual five-pointers as being significantly more effort than five individual one-pointers. And they either fail to grasp the issue or deflect when it's pointed out.
+
+Agile is a cudgel."--and0, [The age of cargo cult Agile must end](https://news.ycombinator.com/item?id=34886374)
 
 ---
 [Scrum] is an approach to development that encourages an extremely limited and short term view on development that leads to low quality software and unhappy developers. It's also only remotely possible with a certain type of software.
