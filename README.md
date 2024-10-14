@@ -51,12 +51,23 @@ I prefer my people solve difficult problems and not just little bite-sized tasks
 “Developers [under scrum] are incentivized to get it done as quickly as possible and if they start to present multiple steps [in the form of epics] their managers will be likely to acuse them of overengineering the system so they just try to do it all at once.”--nautilus12, [https://news.ycombinator.com/item?id=18642845](https://news.ycombinator.com/item?id=18642845)
 
 ---
+"I was dropped into a complex government program that was 3 years in to a 5 year disaster that was absolutely destroyed by the endless need for each team to demo "something" every sprint. The goals were a lofty mountain, but for every sprint it was easier to go downhill for each team. Even worse, there were multiple contracts with teams working for different companies so it was in no one's interest to make other teams look good. It eventually was the disaster I immediately assessed it would be and fortunately I was able to shift away from the disaster quickly. This program wound up making the news for multiple reasons -- none of them good."--laughingskeptic, [Agile is Killing Software Innovation, Says Moxie Marlinspike (theregister.com)](https://developers.slashdot.org/story/24/08/09/1418217/agile-is-killing-software-innovation-says-moxie-marlinspike)
+
+---
 "Agile is a conveyor-belt sort of methodology, because continuous discovery and continuous delivery, appear to sound like, just the same - an idea metamorphing into a product, streamlined, so that contributions happen in micro-parts, from start to finish. However, Agile is not suited for Software Engineering primarily because the time to actually contribute a micro-part varies enormously, piece-by-piece, for the same stuff, unlike all other industries and business domains. Sometimes it takes 10 hours to write just 10 lines of code, although it was originally planned as a 1 hour task, and nobody willfully wants to hear that, so communicating that is the first in a long chain of problems - why did the conveyor-belt pause for 10 hours, we were supposed to deliver a month ago !!!"--SweetStrawberry4U, [Okay people don't like Agile, what's the alternative?](https://www.reddit.com/r/SoftwareEngineering/comments/16ifv63/okay_people_dont_like_agile_whats_the_alternative/)
 
 ---
 "I have seen busy and misguided development caused by skipping the design phase. These projects are moving without bottlenecks, but never really land.
 
 In my opinion, skipping the design phase is a big mistake. This is where trade offs are weighted against each other, and where we distinguish software engineering from hacking."--transducer, [Bottlenecks that paralyse agile software development](https://www.reddit.com/r/programming/comments/1ckv0ce/comment/l2ply4q/)
+
+---
+"There are always interdependent units and I think the main issue is when we broke down those units into smaller tasks and then transfer the individual task to be implemented in isolation. There should always be someone that own that unit as a whole even if his job is only to answer architectural questions. A unit is assigned to one team (ad hoc or fixed) and a person (if the members count is greater than 3) is directing the implementation.
+
+I still think that the team layout in The Mythical Man month is one of the best for software projects."--skydhash, [Moxie Marlinspike: Agile is killing software innovation (theregister.com)](https://news.ycombinator.com/item?id=41208627)
+
+---
+"Had to do it at a company and thank god we fought against daily standups, but the constant retrospectives, the useless breaking down of tasks into subtasks and ranking how long it’ll take just for the benefit of the non technical manager and nobody else… I admit it was so bad I never wanted to work for a company after that."--baby, [Moxie Marlinspike: Agile is killing software innovation (theregister.com)](https://news.ycombinator.com/item?id=41208627)
 
 ---
 "I am a senior engineer and I still haven't experienced the mythical 'scrum done well'. Every single project that attempts scrum ends up burning people out eventually. The main cause is that it's a grossly leaky abstraction that forces people to micromanage themselves."--mkl95, [https://news.ycombinator.com/item?id=31533420](https://news.ycombinator.com/item?id=31533420)
@@ -71,7 +82,17 @@ In my opinion, skipping the design phase is a big mistake. This is where trade o
 “Scrum is basically a huge amplifier for crappy management, and offers absolutely no protections against it.”--s73v3r_, [https://news.ycombinator.com/item?id=17186591](https://news.ycombinator.com/item?id=17186591)
 
 ---
+"So, when you got to design a system, often there is no actual logical requirements at all. What they want you to design is a system that keeps the right people happy and uses fewer resources to do it (and even that last part is not particularly important anymore). Agile attempts to solve this problem through a sort of 'feel it out as you go' method. While that method is fine in theory, what it has turned into is a way to remove any accountability from anyone in a management position. It means managers don't have to try and come up with a reason why they do anything or risk showing their ignorance by trying to explain what is needed or why anything works the way it does. It also means no pesky people poking around and potentially finding out just how terribly run most things are (which might make them look bad). This means more projects can get off the ground rather than dying in the early phases of waterfall because noone can past the planning or requirements phase."--Jadith, [Study backer: Catastrophic takes on Agile overemphasize new features](https://forums.theregister.com/forum/all/2024/08/07/agile_catastrophes_risk_undermining_the/)
+
+---
 "Agile measures success in ticket closures and story points. This incentives people to take short cuts to complete their sprint instead of prioritizing business/customer impact."--tonjohn, [How do you deal with this stuff in agile](https://www.reddit.com/r/ExperiencedDevs/comments/15o5w8l/how_do_you_deal_with_this_stuff_in_agile/)
+
+---
+> "The thing is: the software stack is a lot deeper than it used to be."
+
+"Maybe it shouldn't be, but so what? It's not relevant.
+
+The relevant problem with Agile is that it is predicated on a bottom-up mindset. Bottom-up design simply does not work and a fundamental reason why Agile approaches have the problems the article mentions. It isn't that there are "black boxes", it's that these abstractions get set in stone before they are sufficiently understood and Agile performance metrics ensure that there are catastrophic penalties for altering them. With Agile, it is important get a design in place quickly, then make sure that design cannot change when you find out how grossly inadequate it is."--dfghjk, [Agile is Killing Software Innovation, Says Moxie Marlinspike (theregister.com)](https://developers.slashdot.org/story/24/08/09/1418217/agile-is-killing-software-innovation-says-moxie-marlinspike)
 
 ---
 "I worked one place, and our dev manager told us part of our bonus would be based on an increase in velocity. My reply was, 'So we just have to increase our estimate for the story points to meet the goal?' He looked so defeated."--ThePhoo, [How do you deal with this stuff in agile](https://www.reddit.com/r/ExperiencedDevs/comments/15o5w8l/how_do_you_deal_with_this_stuff_in_agile/)
@@ -2440,9 +2461,140 @@ I have never seen Scrum work, other it be an ego trip for the PM. Agile, minus S
 
 Also, I've worked at one place in a decade of experience where I had significant freedom, latitude, and support from management to learn, discover, and implement good solutions. Every other job has been "yeah, but like, we needed it yesterday, where's the time machine at?". So, it highly depends on the work environment I'm in. If I'm surrounded by a bunch of machiavellian developers and incompetent management, I will always push back on significant ambiguity."--itsgreater9000, [Is Agile actually dying](https://www.reddit.com/r/ExperiencedDevs/comments/1do8ehp/is_agile_actually_dying/)
 
+---
+"The biggest problem to me seems to be that the agile manifesto and XP especially is pretty clear on the amount of planning: Being agile means being able to pivot within an iteration ("sprint"). Your upfront design should allow you to completely change the requirements and implement the changes within one such "sprint".
 
+In my experience, that is pretty rare, especially for teams that are pushed on velocity."--n3phtys, [Bottlenecks that paralyse agile software development](https://www.reddit.com/r/programming/comments/1ckv0ce/comment/l2ply4q/)
 
+---
+"Because people get obsessed over optimizing the process. I'm currently working at a company where some people spend so much time trying to accurately estimate the workload of features they are planning to build that would have been better spent on actually building them.
 
+And like every team, you run into unexpected road bumps while developing, which leads to even more time spent in meetings talking about how we can improve the process while analyzing various Jira graphs that quantifies how productive the team is.
+
+I've told certain coworkers during meetings to just stop talking because they'd agreed with eachother for 15 minutes without realizing it."--Siduron, [Why does Agile boil down to constant deadlines](https://www.reddit.com/r/ExperiencedDevs/comments/1donpa4/why_does_agile_boil_down_to_constant_deadlines/)
+
+"Here's a theory on why (some form of) Agile is problematic: Subdividing work into smaller parts is typically beneficial. However, in computer programming, this approach often fails because even the smaller tasks require some creativity, and unexpected challenges are likely to arise.
+
+The person who did the subdividing gains a lot of insight while breaking down the larger problem. However, when transferring a portion of the work to a developer, much of this knowledge is inherently lost. The developer must then devise a creative solution, and lacking the necessary information, may either come up with a suboptimal solution or need further communication with the original architect.
+
+There is no clear-cut solution. Some might argue for more experienced developers who have all the necessary knowledge readily available in their heads. Others might advocate for better design diagrams and documentation to capture all the relevant information. Ultimately, it requires careful consideration, or luck, to strike the right balance. But the dogmas of Agile certainly aren't helping much."--smokel, [Moxie Marlinspike: Agile is killing software innovation (theregister.com)](https://news.ycombinator.com/item?id=41208627)
+
+---
+"The people who originally created the agile principles devised it for consulting agencies, not product development."--snovv_crash, [Moxie Marlinspike: Agile is killing software innovation (theregister.com)](https://news.ycombinator.com/item?id=41208627)
+
+---
+"Agile advocates love to contrast their approach with Waterfall, which contrary to Agile folklore, was neither rigid nor uniformly applied.
+
+Let's review the Agile Manifest from the perspective of delivering Software That Matters, that I define as Software where failures can cause significant loss of Lives, Money, or Reputation:
+
+1. Early and Continuous Delivery
+Speed over quality in critical software contexts invites catastrophic failures.
+Instead just implement phased delivery schedules that prioritize comprehensive testing and stability over speed, ensuring system reliability.
+
+2. Welcoming Late Changes
+
+This flexibility often leads to scope creep and consequential delays, undermining system integrity.
+
+Instead have a change control board to rigorously evaluate the implications of proposed changes, safeguarding project stability.
+
+3. Frequent Software Releases
+
+Regular release demands degrade software quality and exhaust development teams, detracting from critical system safety.
+
+Instead base your release schedules on thorough testing and feature completion, ensuring each release enhances system robustness.
+
+4. Daily Business-Developer Interaction
+
+Frequent meetings disrupt productivity and can force development compromises, jeopardizing precise project requirements.
+
+Instead opt for structured weekly updates and essential communication to maintain clarity and focus without sacrificing project integrity.
+
+5. Trusting Motivated Individuals
+
+Sole reliance on individual motivation without structured oversight introduces risks of inconsistent quality in high-stakes projects.
+
+Instead clearly define roles and accountability metrics, aligning individual contributions directly with critical project outcomes.
+
+6. Face-to-Face Communication
+This traditional communication mode fails to accommodate remote participants or ensure accurate documentation of critical decisions.
+
+Instead leverage advanced digital communication tools that enhance documentation, suitable for modern, distributed teams.
+
+7. Working Software as Progress Measure
+
+Focusing solely on functional completions neglects essential aspects like security, scalability, and user experience.
+
+Instead expand progress indicators to include comprehensive evaluations of non-functional requirements, providing a holistic view of system health.
+
+8. Sustainable Development Pace
+
+The ideal of an unvarying pace is impractical under the variable pressures of high-stakes software development.
+
+Instead adopt development rhythms to real-world project dynamics, accommodating natural workflow variations to prevent burnout and ensure quality.
+
+9. Continuous Technical Excellence
+
+An unrelenting pursuit of technical perfection can obstruct pragmatic and timely deliverables in critical scenarios.
+
+Instead aim for pragmatically viable solutions that meet current needs with provisions for iterative enhancements as future requirements evolve.
+
+10. Maximizing Work Not Done
+
+Striving for minimalism can neglect essential complexities, endangering the whole system.
+
+Instead prioritize a thorough approach that covers all necessary bases, balancing simplicity with comprehensive risk management.
+
+11. Self-Organizing Teams
+
+Teams without structured guidance can diverge from critical safety and performance standards.
+
+Instead implement a framework that offers direction and support, ensuring teams adhere to best practices essential for system reliability.
+
+12. Regular Reflection and Adjustment
+
+Constant reassessment cycles can disrupt ongoing projects and dilute focus on strategic goals.
+
+Instead space out reflective practices to better assess their impact and refine processes without compromising ongoing project stability."--belter, 
+
+---
+"I used to ask similar question: Can any other branch of engineering afford to use anything like Agile methodology? Because they could not get away with murder, right? ... And then Boeing happened, first 737MAX, falling doors later, etc. So, the short answer is, nowadays apparently they do."--avakum.zahov, [Study backer: Catastrophic takes on Agile overemphasize new features](https://forums.theregister.com/forum/all/2024/08/07/agile_catastrophes_risk_undermining_the/)
+
+-- 
+"I've worked with 5 different companies that did Agile/Scrum of some sort. Every company does it differently and different groups within the same company do it differently. Some use it as a bludgeon to drive employees forward and some use it as a mild framework to guide product development. No one does it right. Some do it horribly wrong and drove developers away. I had one company that starting tracking story points and claimed they would never use them for employee performance evaluations. Guess what? Within two years it was used for performance evaluations."--Daina.0, [Agile is Killing Software Innovation, Says Moxie Marlinspike (theregister.com)](https://developers.slashdot.org/story/24/08/09/1418217/agile-is-killing-software-innovation-says-moxie-marlinspike)
+
+--
+"Agile tends to prioritize short-term goals. Sprints are 2-weeks most places, that is 80-90 hours at most (Again, we're not talking about crunch time at EA or Rockstar Games, we're talking about some random Sprint at a company that is using the software they're writing, not licensing it to others) but is quite often much less than 80 hours (Meetings, status updates, company/department ceremonies, rabbit-holes and side-quests given by your boss...) Still, the tasks are expected to be done within the Sprint, and Management does not like it if things slip.
+
+Agile is supposed to be developer-driven, in theory. In practice, the Company has their own priorities that get communicated to the Developers, who then have to deliver within some arbitrary time frame, usually not set by them.
+
+All this tends to push the Developers into finding the least-time-intensive ways of solving whatever Task they have been given.
+
+Also, for those who are a little more motivated, the Company's short-term needs outweigh any sort of innovation (quality of life improvement, stability fix, framework overhaul, etc) the Developer(s) would like to see."--kwalker, [Agile is Killing Software Innovation, Says Moxie Marlinspike (theregister.com)](https://developers.slashdot.org/story/24/08/09/1418217/agile-is-killing-software-innovation-says-moxie-marlinspike)
+
+---
+"Agile isn't more than an umbrella term for a set of behaviors that say "we allow you to change your mind throughout the project". It doesn't replace anything else in architectural design, goal tracking or testing. Putting [story points] on things is just to keep effort instead of time as the bartering tool, and it holds back that tide only so long"--mugnyte, [Agile is Killing Software Innovation, Says Moxie Marlinspike (theregister.com)](https://developers.slashdot.org/story/24/08/09/1418217/agile-is-killing-software-innovation-says-moxie-marlinspike)
+
+---
+"Agile's biggest problem is that it is nothing and anything but it is at least one thing: The go to buzzword for leadership teams that would inflict bad management but look towards "Agile" as an appeal to authority to say they are, in fact, good leaders regardless of how they bungle things.
+
+Some people want to white knight for "Agile" but the reality is that reality has diluted any meaning and all that remains is a hollow buzz word that is used to suppress conversation around reforming processes because the current process is "Agile" and thus can't possibly be flawed."--Junta, [Agile is Killing Software Innovation, Says Moxie Marlinspike (theregister.com)](https://developers.slashdot.org/story/24/08/09/1418217/agile-is-killing-software-innovation-says-moxie-marlinspike)
+
+--
+"I appreciate and share the contempt, but cannot agree. Agile does mean something specific, whether it is implemented well or not. The problem is that what Agile means is fucking terrible.
+
+Agile is generally implemented terribly and management justifies it for terrible reasons, but even if those were not true, Agile remains at its core a terrible idea. Problems should well understood, solutions should be well designed and right sized, then implemented with care. Agile is an insult to these fundamental goals. With Agile, problems are never understood, can change at any time, and solutions are never invested in because they will be abandoned before they are ever complete.
+
+Agile software a skim coat of feces on a software stack dung heap that no one ever knows, understands or is accountable for. And then there's Agile's idiot partner in crime, CI/CD. The perfect way to pretend the garbage you produce works."--dfghjk, [Agile is Killing Software Innovation, Says Moxie Marlinspike (theregister.com)](https://developers.slashdot.org/story/24/08/09/1418217/agile-is-killing-software-innovation-says-moxie-marlinspike)
+
+--
+"You'd kind of want the entirety of the senior R&D staff to understand the whole product. Maybe not all the details of course, but enough that they could draw out a good diagram of all the pieces and their fundamental design.
+
+The bigger issue with Agile I think, is not putting people into black boxes that limit the scope of what they need to think about, but putting people into a tiny period of time, where they only need to think about one to three sprints at once. Which means someone else needs to be doing long term planning, which often does not actually happen."--Darinbob, [Agile is Killing Software Innovation, Says Moxie Marlinspike (theregister.com)](https://developers.slashdot.org/story/24/08/09/1418217/agile-is-killing-software-innovation-says-moxie-marlinspike)
+
+---
+"Agile IS PERVASIVE MISMANAGEMENT. Waterfall is not, it's just a stupid name for responsible engineering and development. Waterfall can be done poorly, Agile can only be acceptable when it is done poorly, if at all.
+
+The mythical man-month has been understood longer than most anyone here has worked professionally, yet the fallacy it describes is the CORNERSTONE of Agile's approach. That's how fundamentally dumb Agile is."--dfghjk, [Agile is Killing Software Innovation, Says Moxie Marlinspike (theregister.com)](https://developers.slashdot.org/story/24/08/09/1418217/agile-is-killing-software-innovation-says-moxie-marlinspike)
 
 ## What works, in their own words
 
