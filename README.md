@@ -16,7 +16,13 @@ i know for a fact that 90% of engineers dislike agile but many don't even imagin
 "Agile was supposed to free us from operational dogma but instead it, much like Anakin Skywalker, became the very thing it was supposed to destroy."--LavenderDay3544, ["Agile is a disaster" says Tom Gilb, the Gradaddy of Agile. What do you think](https://www.reddit.com/r/programming/comments/x3povm/agile_is_a_disaster_says_tom_gilb_the_grandaddy/)
 
 ---
+"The reason agile spread like wildfire in the business isn't technical, but that it provides plausible denial in the face of failure at every management level, and the only thing management loves more than that is money.
 
+See, when something goes wrong in an agile project, you can't blame the design and specification process because it doesn't nominally exist (it's just built up one user story at a time, and that's gospel), neither the project management becauses as long as it fulfills the ritual (meetings, sprints, retros, whatever) it's assumed to be infallible too, so the only conclusion left is poor team performance expressed in whatever way, and then ... it's crunch time! what else?
+
+It's effectively a way for management to push down responsibility all the way down onto developers (who are powerless), and to plausibly deny any shorcommings all the way up the chain right to the top (who are clueless). so guess what happens in business when you let *all* people with decision power in the process be unaccountable. what could possibly go wrong?"--znrt, [Agile is Killing Software Innovation, Says Moxie Marlinspike](https://developers.slashdot.org/story/24/08/09/1418217/agile-is-killing-software-innovation-says-moxie-marlinspike)
+
+---
 “The 'what did you do yesterday?' part can also encourage people to scramble to justify they worked hard enough yesterday when it's tricky to condense why a task isn't as trivial as it sounds”--seanwilson, [https://news.ycombinator.com/item?id=14085716](https://news.ycombinator.com/item?id=14085716)
 
 ---
