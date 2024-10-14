@@ -54,6 +54,11 @@ I prefer my people solve difficult problems and not just little bite-sized tasks
 "Agile is a conveyor-belt sort of methodology, because continuous discovery and continuous delivery, appear to sound like, just the same - an idea metamorphing into a product, streamlined, so that contributions happen in micro-parts, from start to finish. However, Agile is not suited for Software Engineering primarily because the time to actually contribute a micro-part varies enormously, piece-by-piece, for the same stuff, unlike all other industries and business domains. Sometimes it takes 10 hours to write just 10 lines of code, although it was originally planned as a 1 hour task, and nobody willfully wants to hear that, so communicating that is the first in a long chain of problems - why did the conveyor-belt pause for 10 hours, we were supposed to deliver a month ago !!!"--SweetStrawberry4U, [Okay people don't like Agile, what's the alternative?](https://www.reddit.com/r/SoftwareEngineering/comments/16ifv63/okay_people_dont_like_agile_whats_the_alternative/)
 
 ---
+"I have seen busy and misguided development caused by skipping the design phase. These projects are moving without bottlenecks, but never really land.
+
+In my opinion, skipping the design phase is a big mistake. This is where trade offs are weighted against each other, and where we distinguish software engineering from hacking."--transducer, [Bottlenecks that paralyse agile software development](https://www.reddit.com/r/programming/comments/1ckv0ce/comment/l2ply4q/)
+
+---
 "I am a senior engineer and I still haven't experienced the mythical 'scrum done well'. Every single project that attempts scrum ends up burning people out eventually. The main cause is that it's a grossly leaky abstraction that forces people to micromanage themselves."--mkl95, [https://news.ycombinator.com/item?id=31533420](https://news.ycombinator.com/item?id=31533420)
 
 ---
@@ -82,6 +87,15 @@ Agile apologists seem to be disconnected from this reality."--manuelabelado, [ht
 "I've worked for 15 different companies, and 13 of those had a standup. And of those 13/13 were a status report."--JamesBarney, [https://news.ycombinator.com/item?id=31705526](https://news.ycombinator.com/item?id=31705526)
 
 ---
+"This is the one thing that has always bothered me about how people portray Agile as a "good" thing. Doing instead of planning is anathema to every other engineering discipline known to humanity. You don't build a bridge then test it to see if it works. You don't just start cutting lumber and putting it together to build a house, figuring that you can just "add in" the plumbing and wiring later, because you didn't need that feature for the minimum viable product. Oh and whoops the foundation wasn't prepared correctly, just start adding more reinforcing beams to the structure...
+
+Sure, planning first means longer time to first article, but that first article is demonstrably more robust and has less errors if it is made after some design work and verification. As we see almost daily, the philosophy of "just do stuff" without planning results in massive real-world physical or financial damage.
+
+I'll happily take slower software update cycles in exchange for more confidence that software updates aren't going to break anything.
+
+And don't give me "but you need to be able to roll out fast updates to cover vulnerabilities"; I would wager that if you didn't have fast rollouts in the first place, the need for such "emergency patches" would be significantly (I admit not completely) reduced because good engineers, given the opportunity, are probably going to identify and protect against those vulnerabilities if they have time to analyze their systems first."--ThosLives, [Agile is Killing Software Innovation, Says Moxie Marlinspike (theregister.com)](https://developers.slashdot.org/story/24/08/09/1418217/agile-is-killing-software-innovation-says-moxie-marlinspike)
+
+---
 "All these teams down in the weeds are obsessed with following the rituals to a tee thinking that makes them good little devs. When the whole point is so the middle and upper managements can track your activity to the minute and judge your performance."--matt-attach, [https://news.ycombinator.com/item?id=31533420](https://news.ycombinator.com/item?id=31533420)
 
 ---
@@ -93,6 +107,13 @@ Some stuff just takes as long as it takes."--marqis, [https://www.reddit.com/r/p
 
 ---
 "Almost invariably, there are tickets that simply do not fit into a 2-3 week sprint, which cannot reasonably be split into multiple tickets (possibly done by another dev, who starts from "zero"). What almost always happens in my own experience is that no one really cares about the sprint as such. The tickets take as long as they need."--Juha Utinen, [https://softwareengineering.stackexchange.com/questions/410482/how-do-i-prevent-scrum-from-turning-great-developers-into-average-developers](https://softwareengineering.stackexchange.com/questions/410482/how-do-i-prevent-scrum-from-turning-great-developers-into-average-developers)
+
+---
+"I just got kicked off a project for doing exactly this. Most part of my job was helping others get to work or transfering know how and boarding them onto different tools, concepts in code etc.
+
+I was constantly communicating that i cannot finish my tasks and at the same time help others to finish theirs. My squad owner didn't care, wanted me to still do my things and onboard the new guys just to then kick me out because i didn't perform on my tasks.
+
+Lessons learned, if something doesn't exist on my part of the board, it doesn't exist at all for me and i do not care. My squad owner actually appreciated my way of helping others (and him/her too) but still wanted me gone.", dEEkAy2k9, [Bottlenecks that paralyse agile software development](https://www.reddit.com/r/programming/comments/1ckv0ce/comment/l2ply4q/)
 
 ---
 "Agile just lets business leaders justify tapping you on the shoulder or slack pings for a task they deem business critical from a manufacturered urgency born out of their poor project management"--Tech_Mix_Guru111, [Scrum isn't as fun as I thought it'd be.](https://www.reddit.com/r/devops/comments/1f3digx/scrum_isnt_as_fun_as_i_thought_itd_be/)
@@ -240,6 +261,13 @@ A few things that agile fails to capture IMHO:
 Agile is like writing a draft of a mystery novel, before actually thinking through the details of the crime, or the backstory of the characters. Or shooting a bunch of scenes of a movie - only to discover that they all have to be reshot because there’s no continuity.”—Miles Fidelman, [https://www.quora.com/In-a-nutshell-why-do-a-lot-of-developers-dislike-Agile-What-are-better-project-management-paradigm-alternatives](https://www.quora.com/In-a-nutshell-why-do-a-lot-of-developers-dislike-Agile-What-are-better-project-management-paradigm-alternatives)
 
 ---
+"I've always taken the view that agile development was created with real intention to do nothing more than increase billable hours.
+
+Case in point, I was working on a fairly complex text parsing library that was part of a much bigger project. It was going to take me several weeks to complete and the nature of the library was that it was either complete or it wasn't, there was no mid point where I could demonstrate what I'd completed so far.
+
+Everyday during the 10 minutes scrum stand up I had to announce that I was still working on it. Of course the 10 minutes from was never 10 minutes, typically it was 30 minutes because everyone else had a lot to say. So over a period of five weeks every day I stood for around 30 minutes for no real benefit. That was a total of 12.5 hours which of course was logged as development time and billed to the client. But here's the thing, there were 18 other developers on that team, each day spending half an hour in a scrum meeting that could have been an email. All that time was charged to the client which of course was a government agency."--TheSameButBetter, [Agile has ruined software development](https://www.reddit.com/r/DevelEire/comments/1eprcm2/agile_has_ruined_software_development/)
+
+---
 "My experience is that sprints interrupt my workflow to such an extent that I can no longer get anything done. In other words, they make a good team bad. Perhaps it's just me, but I need long periods uninterrupted to work. It's not just the regular status meetings, but other meetings which break up the day to an extent that I can no longer get that."--rwmj, [https://news.ycombinator.com/item?id=17186591](https://news.ycombinator.com/item?id=17186591)
 
 ---
@@ -350,6 +378,9 @@ All in the name of pedantic adherence to process and Velocity metrics."--Nimish 
 "A long time ago, I hired a scrum master. Two months later, I fired the scrum master, and exorcised scrum from my company. It was bureaucratic, it siloed people (you are front end, and you will only work on front end) turned simple decisions into decision by committee designed to reduce risk to the committee members, favored people who had little knowledge in decision making and put 10 out of 10 client projects behind schedule. I've never really looked at scrum again..."--IndyMike, https://news.ycombinator.com/item?id=31705526](https://news.ycombinator.com/item?id=31705526)
 
 ---
+"My velocity is always low. And you know what? I don’t give a damn shit about it. Most of my time is devoted to help other developers keep their work flowing. I’m a team player and problem solver. Do my manager knows about it? Totally, and is very happy that I share my knowledge and experience with the team. My ScamMaster? Always pissed about me. 🤭 Sadly for these people who prefer to look at gaming numbers, I’m not gaming the game for them. Velocity means nothing, celebrate the bottleneckers."--Individual-Praline20, [Bottlenecks that paralyse agile software development](https://www.reddit.com/r/programming/comments/1ckv0ce/comment/l2ply4q/)
+
+---
 “I hate giving daily standup updates. There is so much pressure from management to say you completed some deliverable every single day.
 
 But in reality, in order to do good work, I need to sometimes just spend a whole day doing research, or meeting with other teams, or writing documentation, or learning a new codebase, or learning a new tech stack, or making prototypes.
@@ -425,6 +456,11 @@ Agile does more to excuse poor managment than it does to enable developers."--Cl
 With that said I totally get why designers hate Agile - it forces them to make design decisions they're not ready to make and once there's functional software in people's hands everyone groans when design suggests non-feature changes."--spamizbad, [The age of cargo cult Agile must end](https://news.ycombinator.com/item?id=34886374)
 
 ---
+"I think [agile is] driven by fear from product/management, because those groups are even MORE fearful of uncertainty. So they seem to want to shift responsibility down to the engineers. Which might work except engineers are rarely given the power to make systemic change, so you get all the responsibility and consequence and no power to make things successful. Basically setup to fail. So engineers correctly want nothing to do with that, they want all the uncertainty removed BEFORE, so they can the deliver the certainty desired by management.
+
+How many times have we heard stories of engineers asked to make an estimate only for that estimate to either be taken as gospel/hard commitment, or instantly ignored in favor of whatever the deadline is, decreed from on high?"--ArcanePariah, [Is Agile actually dying](https://www.reddit.com/r/ExperiencedDevs/comments/1do8ehp/is_agile_actually_dying/)
+
+---
 "I've worked across probably 100+ companies over the last 30 years. The reality is that the implementation of 'agile' has been mostly loosely interpreted and varies wildly across the spectrum of those companies. In most cases - not all - design and research were so deeply subordinated (or at times completely absent) that the VALUE design could offer was limited by the hurried nature of the process.
 
 It's interesting that in all my years it's mostly the agile coaches, scrum masters, and engineering teams who feel agile is working while other disciplines feel it has failed them completely. I'd argue that there is a serious imbalance in the power structures of agile and scrum.
@@ -439,6 +475,11 @@ Most digital organizations I've worked with -- and I've worked with many -- subo
 
 ---
 “Technical debt. I see this time and time again. User Stories are supposed to be forecasts, not commitments. But the business doesn't like stories carried over, so they become commitments. At the end of each sprint, everyone rushes to get their stuff done, and hacks are implemented to meet an arbitrary deadline. Many times I want to begin my work by refactoring something to what it needs to be first, then do the actual user story. But its risky because the refactoring might take more than the allocated story points, and you get dinged. So I do the story first, and if there is time do the refactoring but it almost never happens.”—clumsysmurf, [https://news.ycombinator.com/item?id=20017854#20021832](https://news.ycombinator.com/item?id=20017854#20021832)
+
+---
+"leadership [is] using agile to force people to do worse quality development. The industry itself has shifted away from slow release cycles to continuous delivery and slamming things out as fast as possible.
+
+Agile has always been a controversial thing because the core of it is telling execs “no” and then needing them to actually listen. Any place where that isn’t happening, agile gets crippled or “modified” to fit the needs of doing more faster than the team can actually do."--mq2thez, [Agile has ruined software development](https://www.reddit.com/r/DevelEire/comments/1eprcm2/agile_has_ruined_software_development/)
 
 ---
 "My company is undergoing an "agile transformation" to use Scrum. Whereas before my team was working prioritising people and communication over process we're now "committing" to arbitrary deadlines and bogged down by process and useless meetings. Rather than being able to respond to change we have set scope and bringing work in is frowned upon because it might cross the "deadline". We don't even have a fixed release schedule so the fortnightly sprint boundary is pointless. 
@@ -770,6 +811,13 @@ I was thinking the other day why this is so painful and awkward. I realized that
 All of this could be avoided by treating the team as adults, instead of trying to "processify" or quantify everything."--akudha, [https://news.ycombinator.com/item?id=28414751](https://news.ycombinator.com/item?id=28414751)
 
 ---
+"It’s not the snake venom that kills you. It is you do not believe enough.
+
+Its not that the rain dance doesn’t work. You are just not dancing right.
+
+Agile is perfect for execs who want instant success and are smart enough to run before the technical debt crushes them and all of their Sr. Devs are working elsewhere."--Jim Fallin, [Why Scrum is the Wrong Way to Build Software](https://medium.com/@ard_adam/why-scrum-is-the-wrong-way-to-build-software-99d8994409e5)
+
+---
 "I think that it takes freedoms and responsibilities away from developers, chops work into chunks that are too small, forces constant arbitrary deadlines and a lack of a relaxed pace (they are not called 'sprints' for nothing), and incentivizes under-estimation to 'fit things in', resulting in overloading or overruns. It also treats developers as fungible which is very much not the case if specialist skills are not evenly distributed. The constant "scrum meetings" serve as an unwelcome goad and very rarely convey information that anyone except micromanagers care about.
 
 Learning is an important part of being a programmer. Experimenting, reading the manual, trying it out, these are all things that get managed out, when you have to beg for 'spike' time to do them, and somebody else doesn't see the importance."--JulianMorrison, [https://news.ycombinator.com/item?id=26345235&p=3](https://news.ycombinator.com/item?id=26345235&p=3)
@@ -1039,6 +1087,9 @@ In practice, I'm still to find a single developer that likes agile or scrum, and
 Agile is all about 'letting developers choose what to work on' but in practice that's a delusional fantasy, everyone has people or customers above them that do not understand the slightest thing about how coding works and that want to prioritize some things over others.
 
 For most people scrum is associated with shady figures with nonsensical diplomas that try to sell snake oil to their managers, and that's a hard reality any fan of Agile has to confront with."--qalmakka, [The age of cargo cult Agile must end](https://news.ycombinator.com/item?id=34886374)
+
+---
+"A PO will be mostly motivate to satisfy their line manager’s desires (who will be pushing for new features as fast as possible) and will largely ignore those of the engineers (who will need to reduce technical debt, spend time researching, spend time designing, spend time educating themselves). Even if there is a benevolent one or two out there, Scrum is not constructed to motivate a PO to act that way. They have to do it in spite of the system."--Adam Ard, [Why Scrum is the Wrong Way to Build Software](https://medium.com/@ard_adam/why-scrum-is-the-wrong-way-to-build-software-99d8994409e5)
 
 ---
 "I feel like the pro-agile people who show up to these threads are simply agile consultants who's job it is to 'sell' agile so they'll say anything pro-agile.
@@ -1591,6 +1642,11 @@ Cheap, Fast, or Good.. Agile is a shift toward the Cheap and the Fast vector of 
 Oh, and if you blaspheme against the Agile, it's always "YOU'RE DOING IT WRONG", as if it is a perfect thing of which merely all bad implementations are flawed. Convenient."--emergent_properties, [https://www.reddit.com/r/programming/comments/6rsyrd/in_a_nutshell_why_do_a_lot_of_developers_dislike/](https://www.reddit.com/r/programming/comments/6rsyrd/in_a_nutshell_why_do_a_lot_of_developers_dislike/)
 
 ---
+"If I had a nickel for every Scrum advocate who insists that there’s no such thing as a flaw in Scrum, but that any bad experience is due to “Scrum done wrong,” I could retire in comfort and never have to work in a Scrum shop again.
+
+Happily, my current company doesn’t do Scrum, and doesn’t need it."--Ryan Lundy,  [Why Scrum is the Wrong Way to Build Software](https://medium.com/@ard_adam/why-scrum-is-the-wrong-way-to-build-software-99d8994409e5)
+
+---
 "One aspect of agile, and of SCRUM in particular, is that the team is expected to 'forecast' which stories it will 'burn down' for a sprint. The phrase "forecast" is often replaced with "commit", and a manager-type will interpret this to mean he/she gets a fixed price deal with the team, yet without any quotation on behalf of the team for assessing risks/opportunities, as with a regular fixed price contract. As a freelancer, you can't let this happen, so it leads to unpleasant discussions.
 
 I also take issue with the term 'sprint'. By definition, a sprint is a short-term sports activity to reach a goal in the shortest amount of time possible. But just as in sports, you can't expect to do one sprint after another without quickly burning out, and that's exactly what I've been seeing in agile projects. An engineering-heavy software project shouldn't be seen as a series of sprints at all, but more as an endurance run if anything.
@@ -1749,6 +1805,15 @@ Of course you can intentionally create epics for these kinds of reviews, but tho
 For me, Scrum was a straightjacket, a hundred NOs against my creativity and my attention to broader concerns. There are times when you are implementing a simple ticket, but you keep touching things that need attention... or you see how the entire system has become convoluted, and you see a better way. To do it the right way either means creating new epics and tickets, debating those with product owners who don't understand the value, and generally NOT solving the real problem."--blunte, [https://news.ycombinator.com/item?id=28414751](https://news.ycombinator.com/item?id=28414751)
 
 ---
+"Amen Brother.
+
+I currently have a P.O., a Scrum Master, a Line Manager, a Business Analyst, a Project Manager, and an Architect that demand kowtowing in order to get any development done. It’s &*$%£*.
+
+I have seen countless man hours get pissed away by managers beating dead horses in retrospectives, and work get delayed by weeks as people navel gaze about the definition of ‘ready’ and ‘done’. I’ve seen good people get pushed out when they don’t march in lock step with the wisdom of Scrum, and have been criticized when trying to make light of things, being told that I wasn’t respecting the Agile process.
+
+I could continue but it’s Saturday."--K Meuse, [Why Scrum is the Wrong Way to Build Software](https://medium.com/@ard_adam/why-scrum-is-the-wrong-way-to-build-software-99d8994409e5)
+
+---
 "A cause of this problem is when people are worried about what happens when they say 'erm, I don't know how to do this cleanly' and so they want the "how" to be defined far far in advance. Solving this requires a mix of
 A. Identifying those activities that will genuinely make people's lives easier if they have a process and designing those processes to be meaningful and low-burden. Those activities will vary based on team members individual peeves and affinities.
 B. Creating clear lines of communication for how and whom to ask for help. This often means more clear naming of responsibilities.
@@ -1902,6 +1967,12 @@ Part of the problem is that customers see it as their job to get more work for l
 "Being prepared with a clear, concise, well-communicated vision of what you want to build is essential to developing quality software, regardless of the adopted process.
 
 Agilists frequently argued investing time and energy into crafting requirements is an “anti-pattern”, so being unprepared became the Right Way To Work TM. This is 100% dead-ass wrong."--trentnix, [https://news.ycombinator.com/item?id=34886374](https://news.ycombinator.com/item?id=34886374)
+
+---
+"None of Scrum’s activities are directed to improving development. Instead Scrum just keeps piling on soul sucking micro management, without ever questioning its lack of value."--Tom Flaherty, [Why Scrum is the Wrong Way to Build Software](https://medium.com/@ard_adam/why-scrum-is-the-wrong-way-to-build-software-99d8994409e5)
+
+---
+"Calling [these dysfunctional things we see in scrum projects] Anti-patterns implies that people just aren’t “Scrumming hard enough”, when in actuality these are behaviors that emerge when people are following the process exactly as it is prescribed. You have to omit many of its core tenants to avoid them."--Adam Ard, [Why Scrum is the Wrong Way to Build Software](https://medium.com/@ard_adam/why-scrum-is-the-wrong-way-to-build-software-99d8994409e5)
 
 ---
 "Agile, and especially Scrum, are a scam. Well intentioned, yes, but mostly serve to create an industry around a problem that often doesn't exist at all.
@@ -2191,6 +2262,35 @@ The only place I ever worked that did Agile correctly (including Devs being able
 "A lot of the problem is that sometimes management believes that completing more story points means getting more work done and that you can compare velocity between teams, which is 100% incorrect. If management gets upset that you're only getting x story points done a sprint, that's easy to solve, you could just increase the sizing of all of your stories by y and boom, now you look more productive, even if you aren't."--Jazzy Josh, [How does agile work at your company? Is the way my company is doing it unusual?](https://www.reddit.com/r/cscareerquestions/comments/81z1fg/how_does_agile_work_at_your_company_is_the_way_my/)
 
 ---
+"Hey kids,
+
+Do ya love sprinting? Wanna never stop?
+Wanna play with cards shouting numbers with no meaning not unlike old ladies playing Bingo?
+
+Wanna have a mini CEO, who, for some reason bosses around people far more qualified than themselves, implying that they are just nerds that can't be trusted to speak to the outside world?
+
+Wanna appoint one of your team members each week (or, even better, hire a dedicated member of your team) to whine about you adhering to all of the rules you just made up?
+
+If you love all of the above, you'd love Scrum. And, if your idea of good time is being in meetings about meetings, you'd love SAFe even more.
+
+> If you are just getting started, think of Scrum as a way to get work done as a team in small pieces at a time,
+
+The reality is that if you are just getting started, think of Scrum as a way to talk about work and have rituals about work, preventing you from doing actual work. I have never, in my long career, seen Scrum work. Unless your idea of it working is chasing away good developers and making the mediocre ones thrive (in following the process, not in actual achievements).
+
+Scrum is just terrible and should be killed with fire."--ath3hd, [Scrum is the Symptom, not the Problem](https://news.ycombinator.com/item?id=41183725)
+
+---
+"As someone who was doing waterfall projects back in the day and lived through various agile variants, I don't think the amount of process that scrum involves is justifiable. At least waterfall produced tons of documentations which made projects rock solid. With scrum you do all these crap rituals and you are left with nothing but depressed engineers. And no, an "energizer" is not going to help.
+
+I've seen plenty of times were scrum was added to organizations (even to teams that were working incredibly well without it) with horrific results. In one case, developers just started quitting (me included).
+
+I'm glad one of my client is walking back on scrum, even though there are still a few zealots trying to do scrum without calling it scrum, no matter the pushback they receive from everyone else.
+
+There are definitely some good ideas coming out of scrum (the product backlog is a great concept) but as a whole it's definitely a net negative for morale and productivity.
+
+I respect the hustle of the scrum masters who managed to create the most useless job role I've ever seen, though."--jokethrowaway, [Scrum is the Symptom, not the Problem](https://news.ycombinator.com/item?id=41183725)
+
+---
 > The idea of sprints is also stupid. The sprint is supposed to just be measuring what can be done in two weeks. It isn't supposed to be pressure on the developer to finish X tasks in 2 weeks.
 
 "Having worked at several jobs, this is my #1 issue with scrum. It’s like planning to roll dice and committing to always roll 6s.
@@ -2209,6 +2309,11 @@ Some of the "and more" includes:
 2. We are completely driven by the product manager, starting with her deciding who our product owners and scrum master should be, and assigning each one of us to a scrum team. The two scrum teams are "assigned" to work on two or three products each. There are a few of us (like me) who are assigned to BOTH scrum teams.
 
 3. A large portion of the work in our product development area is sort of like business development stuff, i.e. research, analysis, making presentations to large groups of people, doing a lot of consensus-building/campaigning. Stuff that you can't chop down into "minimum viable product" because there isn't a product there yet, and if there's a nubbins of a proto-product there's not enough of an idea around it to be able to deliver in a two-week sprint. We do task forces and pilot projects but all of that work needs to be reviewed/approved by our external customers and good luck getting THEM to participate in your sprint schedule! LOL! And yet we're required to do this work in the sprints also because our executive team demanded that everybody has to become Agile."--JcWoman, [How does agile work at your company? Is the way my company is doing it unusual?](https://www.reddit.com/r/cscareerquestions/comments/81z1fg/how_does_agile_work_at_your_company_is_the_way_my/)
+
+---
+"I work in a place where our doing "agile" is doing a story a sprint or two in advance of when it is going to be officially "taken in" to the sprint. So we would work lowkey on a story for a sprint, then day one of the following sprint we would take the story in during planning and then deliver it almost immediately. This is because when we were taking stories in as normal there were occasions the story would run over the sprint limit and this looked bad on highlevel PM metrics.
+
+Its embarrassing. So now we do less work/work slower, but we deliver 100% of what we commit and they're happier, rather than us not delivering 100% of what we deliver but we've gone from 15-20 point committment to 5-10 typically. All in the name of delivery KPIs and metrics"--timmyctc, [Agile has ruined software development](https://www.reddit.com/r/DevelEire/comments/1eprcm2/agile_has_ruined_software_development/)
 
 ---
 > There's no reason meeting goals ahead of time should preclude you from getting a head start on future work.
@@ -2295,6 +2400,49 @@ The crux of my argument isn't merely based on personal perspectives but the wide
 It's convenient to revert back to Agile's principles when defending it, yet most corporate applications fall woefully short of these ideals. If a methodology's foundational principles are consistently overshadowed by bureaucracy and misconceptions, can it truly be considered effective or reliable?
 
 My critique is rooted in the tangible outcomes of Agile's application, not the idealistic principles upon which it was founded. If a bridge is designed to be magnificent but collapses under the slightest pressure, do we laud its design or question its integrity? Shouldn't we similarly question a methodology that, when largely applied, seems to drift from its core principles?
+
+---
+"From my experience, Agile, especially Agile + Scrum, in some implementations, turns making an object into small, siloed tasks, that nobody really cares about the whole that they are making. They just want their little part to pass validation checking so it can be moved out of their swim lane, and they don't have to explain they are working on it during the 4-6 hour daily standup meeting. There is no reward in Agile/Scrum development for making the entire gestalt work, because if one does anything other than get stuff out of their queue as fast as possible, the direct threats about one's prospects to continue having a company badge, every single day, by the Scrum master will start, and ask why the dev should even be working there in the first place.
+
+Agile encourages nice little parts, but actually making code that stands the test of time? That, and massive technological debt are a plague, but it is treated as an occupational hazard, and is gotten around by more shenanigans. For example, Bob the developer doesn't know how Alice did the database fields, so he edits the DB schema to add his own first.name and last.name fields for his part of the backend app, and that goes into production. This compounds on itself to where what can be a database that can be gigabytes in size turns into terabytes. Of course, a refactor can go a long while in fixing this, but the PMs will say, "if we are not in a sprint, it is like a car that isn't in drive, and this isn't generating revenue. We are not a F/OSS project and don't have time for perfect code." Of course time taken for security is rebuffed with "Security has no ROI. Only profit from a lock is for the lock maker."
+
+The places that actually do make code secure and allow developers to focus on it don't use Scrum. Most don't even use Agile. They use a variant of the waterfall model, so developers are not forced to just look at their little piece of the puzzle, but can fix anything in the project without having to justify their existence to the company every single day.
+
+Sort of like, if you want someone to not drown, get your foot off their head while they are in the pool. However, in my experience, the ego of the PM lording over the dev team as the Scrum master is more important than having any real code quality."--ctilsie242, [Agile is Killing Software Innovation, Says Moxie Marlinspike (theregister.com)](https://developers.slashdot.org/story/24/08/09/1418217/agile-is-killing-software-innovation-says-moxie-marlinspike)
+
+---
+"The constant planning, meetings, meeting to plan the meeting, meeting to review the meeting, is all just show. I'm convinced Agile wasn't made by engineers or developers, it was made by PM's, because Project Management is usually done very poorly, and PM's love to shift the responsibility off their plate.
+
+Year ago, a PM told me I had 3 weeks, literally 21 days, to implement something that needed 12+ week, probably more like 16. I pushed back, of course, but was told it had already been budgeted. End of week 3, I'm being demanded to show the completed work, to which I stated outright was not done, and not only wasn't I done, the backend team wasn't done. That triggered a series of meetings where all the engineers / developers got roasted because we couldn't work "Agile" enough.
+
+Other times I've been told our deployment wasn't fast enough, we can deploy 200+ clients in ~27 minutes. I wrote the deployment platform as a side project. Should we talk about designers? Requirements? Can anyone show a true Agile workflow, NOT Scrum or XP, that is effective? Agile is all about never being ready, and always planning what's being worked on, which is why it fails. Waterfall, and other processes in contrast, start with locked in documentation, requirements, DEVELOPER / ENGINEER lead timelines, and importantly wiggle room. Agile has absolutely failed."--Murdoch5, [Agile is Killing Software Innovation, Says Moxie Marlinspike (theregister.com)](https://developers.slashdot.org/story/24/08/09/1418217/agile-is-killing-software-innovation-says-moxie-marlinspike)
+
+---
+> Standups taking 4-6 hours a day? Seriously? I know Agile/Scrum can be done badly, but that's mind-blowingly bad...
+
+"What happens is that there are 8-10 developers. Each of them have about 8-10 items on their plate. The Scrum master goes through, item by item with Alice, demanding why she has not finished it, she points and says she is blocked. Then Alice is asked about item #2, and when she says it is still being worked on, some snide reply is made questioning Alice's IQ level to have an employee, and it moves to #3 on her swim lane. After Alice, comes Bob, so repeat. Which means one has to sit through 80-100 items and the "lively debate" (i.e. blamestorming) back and forth."--ctilsie242, [Agile is Killing Software Innovation, Says Moxie Marlinspike (theregister.com)](https://developers.slashdot.org/story/24/08/09/1418217/agile-is-killing-software-innovation-says-moxie-marlinspike)
+
+Every. Single. Workday."--ctilsie242,
+
+---
+"In most places I've worked, the daily Scrum standup meeting can take 4-6 hours every day, where the Scrum master, often a PM from marketing demands why each dev hasn't done everything on their plate, the dev points to someone else (usually Ops), says they are blocked, the other party claps back, then it goes to the next entries and the next dev. Hours later, usually everyone gets lunch, and it takes some time to mentally prepare for any work after that session of kangaroo court.
+
+With the daily standup meeting taking that much time, every day, effectively, each employee is working at most, 15-20 hours a week, and having to piss on other people, or deal with being pissed on for 20+ hours, which means that nothing gets done other than bickering and bad feelings. Especially when the Scrum master mocks people and says that some dude offshore can do what they do for a fraction of the cost, or the cure to the dev teams problems is having a WITCH company come in and offshore the entire dev team. Always threats of job loss, every single damn day.
+
+This is why we don't see any interest in security or defensive coding. If a dev doesn't get code in, they lose their jobs. If a massive breach happens, the dev is shielded by layers and layers of corporate infrastructure.
+
+I have never seen Scrum work, other it be an ego trip for the PM. Agile, minus Scrum has worked, but in my experience, if you want to get the stuff done "right", you go to a waterfall model. I've worked in environments with this model, and they actually produce stuff, and generally have the entire week to do this, as opposed to having one's workday be mainly sitting in meetings and pointing fingers, while fending off the constant question, "why should we not replace you with some dude overseas?" every damn standup meeting. Fortunately, I was in Ops, but I was always badgered about why I didn't let devs just throw code in without testing, so it was a different battle for what I did."--ctilsie242, [Agile is Killing Software Innovation, Says Moxie Marlinspike (theregister.com)](https://developers.slashdot.org/story/24/08/09/1418217/agile-is-killing-software-innovation-says-moxie-marlinspike)
+
+---
+> It seems like many SWEs I have worked with, from senior to junior, want clear tasks because they fear being wrong or something.
+
+"I used to be like this, but after one too many run-ins with other devs looking to weasel a promotion in via management-by-ticket-output and not solving the given problem, paired with managers who have 0 interest in understanding the outcomes besides "ticket moved right" has caused me to not want to deal with the crap associated with unclear tickets.
+
+Also, I've worked at one place in a decade of experience where I had significant freedom, latitude, and support from management to learn, discover, and implement good solutions. Every other job has been "yeah, but like, we needed it yesterday, where's the time machine at?". So, it highly depends on the work environment I'm in. If I'm surrounded by a bunch of machiavellian developers and incompetent management, I will always push back on significant ambiguity."--itsgreater9000, [Is Agile actually dying](https://www.reddit.com/r/ExperiencedDevs/comments/1do8ehp/is_agile_actually_dying/)
+
+
+
+
 
 ## What works, in their own words
 
