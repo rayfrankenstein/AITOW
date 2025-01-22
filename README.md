@@ -51,6 +51,9 @@ I prefer my people solve difficult problems and not just little bite-sized tasks
 “Developers [under scrum] are incentivized to get it done as quickly as possible and if they start to present multiple steps [in the form of epics] their managers will be likely to acuse them of overengineering the system so they just try to do it all at once.”--nautilus12, [https://news.ycombinator.com/item?id=18642845](https://news.ycombinator.com/item?id=18642845)
 
 ---
+"Scrum works, it just fails as soon as points are assigned to tickets and dev value is assigned to tickets completed. I seen firms lose contracts due to keeping the devs that are good at keeping up story points while those that actually had the real experience by doing the actually challenging tickets get the boot"--deleted, [If scrum doesn't work, what does?](https://www.reddit.com/r/ExperiencedDevs/comments/1f3iqiy/if_scrum_doesnt_work_what_does/)
+
+---
 "I was dropped into a complex government program that was 3 years in to a 5 year disaster that was absolutely destroyed by the endless need for each team to demo "something" every sprint. The goals were a lofty mountain, but for every sprint it was easier to go downhill for each team. Even worse, there were multiple contracts with teams working for different companies so it was in no one's interest to make other teams look good. It eventually was the disaster I immediately assessed it would be and fortunately I was able to shift away from the disaster quickly. This program wound up making the news for multiple reasons -- none of them good."--laughingskeptic, [Agile is Killing Software Innovation, Says Moxie Marlinspike (theregister.com)](https://developers.slashdot.org/story/24/08/09/1418217/agile-is-killing-software-innovation-says-moxie-marlinspike)
 
 ---
@@ -70,6 +73,10 @@ I still think that the team layout in The Mythical Man month is one of the best 
 "Had to do it at a company and thank god we fought against daily standups, but the constant retrospectives, the useless breaking down of tasks into subtasks and ranking how long it’ll take just for the benefit of the non technical manager and nobody else… I admit it was so bad I never wanted to work for a company after that."--baby, [Moxie Marlinspike: Agile is killing software innovation (theregister.com)](https://news.ycombinator.com/item?id=41208627)
 
 ---
+"I have been an IT Business analyst for about 4 and a half years now and this particular issue has been bothering me for ages. There are times when developers tell me that my user story doesn’t have enough technical information for them to get started but I believe and have been told that user stories cannot be technical in nature but rather functional and from the user’s perspective--SFBA_Jezza, [User Stories do not contain enough technical details](https://www.reddit.com/r/businessanalyst/comments/119ot2j/user_stories_do_not_contain_enough_technical/)
+
+---
+
 "I am a senior engineer and I still haven't experienced the mythical 'scrum done well'. Every single project that attempts scrum ends up burning people out eventually. The main cause is that it's a grossly leaky abstraction that forces people to micromanage themselves."--mkl95, [https://news.ycombinator.com/item?id=31533420](https://news.ycombinator.com/item?id=31533420)
 
 ---
@@ -80,6 +87,9 @@ I still think that the team layout in The Mythical Man month is one of the best 
 
 ---
 “Scrum is basically a huge amplifier for crappy management, and offers absolutely no protections against it.”--s73v3r_, [https://news.ycombinator.com/item?id=17186591](https://news.ycombinator.com/item?id=17186591)
+
+---
+"If they have decided the software needs to do exactly A, B, and C by this deadline then dev team is just there as mercenaries to estimate and construct exactly that. In this case agile is a complete waste"--Kobold-Helper, [If scrum doesn't work, what does?](https://www.reddit.com/r/ExperiencedDevs/comments/1f3iqiy/if_scrum_doesnt_work_what_does/)
 
 ---
 "So, when you got to design a system, often there is no actual logical requirements at all. What they want you to design is a system that keeps the right people happy and uses fewer resources to do it (and even that last part is not particularly important anymore). Agile attempts to solve this problem through a sort of 'feel it out as you go' method. While that method is fine in theory, what it has turned into is a way to remove any accountability from anyone in a management position. It means managers don't have to try and come up with a reason why they do anything or risk showing their ignorance by trying to explain what is needed or why anything works the way it does. It also means no pesky people poking around and potentially finding out just how terribly run most things are (which might make them look bad). This means more projects can get off the ground rather than dying in the early phases of waterfall because noone can past the planning or requirements phase."--Jadith, [Study backer: Catastrophic takes on Agile overemphasize new features](https://forums.theregister.com/forum/all/2024/08/07/agile_catastrophes_risk_undermining_the/)
@@ -448,7 +458,9 @@ Photoshop was not built with agile, with the developers required to stop work an
 ‘Waterfall’ and ‘planning’ and ‘specifications’ are not bad words."--Ixis743, [Okay people don't like Agile, what's the alternative?](https://www.reddit.com/r/SoftwareEngineering/comments/16ifv63/okay_people_dont_like_agile_whats_the_alternative/)
 
 ---
+"'Scrum' isn't work for us because, despite what they say, the uppermost management actually wants us to do waterfall minus the analysis and design steps. Then they get pisssed with us for not meeting the arbitrary deadlines that they guessed at based on not having done any real analysis. Fucking idiots"--Beka_Cooper, "[If scrum doesn't work, what does?] (https://www.reddit.com/r/ExperiencedDevs/comments/1f3iqiy/if_scrum_doesnt_work_what_does/))
 
+---
 "Agile as you observe it ist just double speak for micromanagement in my experience.
 
 What we experience is a caste of highly paid managers that: 
@@ -1270,6 +1282,11 @@ Although this process was extremely successful, I don't know if I would call thi
 
 ---
 “In practice, I find that the single biggest problem with "Agile" is that bad product/project managers like to hide their own incompetence behind the "react to change" aspects of agile — "I screwed up and missed an important user requirement" and "I forgot to loop in an important stakeholder who has a hard date for a release" becomes "the requirements changed and so you need to drop what you're doing and working on something else instead. It's not a fuckup on my part, it's Agile."—pdpi, [https://www.google.com/amp/s/amp.reddit.com/r/programming/comments/bla7sm/why_agile_is_so_misunderstood_and_what_is_the/](https://www.google.com/amp/s/amp.reddit.com/r/programming/comments/bla7sm/why_agile_is_so_misunderstood_and_what_is_the/)
+
+---
+"Anyone who tells you Scrum has velocities is delusional.
+
+Those burndown/up charts weren’t and aren’t about where the developers are going to meet the Y axis. They are about how the business keeps moving the goalposts via scope creep. They’re about how the project will never ship if people can’t stop moving the goalposts faster than the team can approach it."--bwainfweeze, [If scrum doesn't work, what does?](https://www.reddit.com/r/ExperiencedDevs/comments/1f3iqiy/if_scrum_doesnt_work_what_does/)
 
 ---
 “A problem I've run into is management is using "Agile" but in the most short sighted way possible. I would get a rigid spec for a feature and implement it. Then three or four weeks later get a new spec to expand that feature that requires a lot rework of the original implementation, because it's so far outside the original scope, or involves integration with another feature/system that was never designed to work with the new one. It's still agile, but may as well be waterfall. If the original spec had given me outlines or plans of where they wanted the feature to eventually end up if budget/time permitted, I could have setup hooks, or more appropriately designed the original feature to make expanding it far easier with minimal additional effort or time commitment on my part.”—0x8086, [https://www.google.com/amp/s/amp.reddit.com/r/programming/comments/bla7sm/why_agile_is_so_misunderstood_and_what_is_the/](https://www.google.com/amp/s/amp.reddit.com/r/programming/comments/bla7sm/why_agile_is_so_misunderstood_and_what_is_the/)
@@ -2596,6 +2613,25 @@ The bigger issue with Agile I think, is not putting people into black boxes that
 
 The mythical man-month has been understood longer than most anyone here has worked professionally, yet the fallacy it describes is the CORNERSTONE of Agile's approach. That's how fundamentally dumb Agile is."--dfghjk, [Agile is Killing Software Innovation, Says Moxie Marlinspike (theregister.com)](https://developers.slashdot.org/story/24/08/09/1418217/agile-is-killing-software-innovation-says-moxie-marlinspike)
 
+---
+"The main problem I see is that it morphed into a massive bureaucratic monster thanks to things like training/certification, Jira and SAFe. It means a team of 2-4 developers having as many or more managers, like a "Product Ownership Manager", "Agile Program Manager", "Release Project Manager" and so forth. Middle managers get obsessed by Jira metrics like velocity and story points per sprint. Expensive consultants are brought in to "fix" problems that aren't really problems."--jfcarr, [If scrum doesn't work, what does?](https://www.reddit.com/r/ExperiencedDevs/comments/1f3iqiy/if_scrum_doesnt_work_what_does/)
+
+---
+"So I'm going to be real. The issue is that process is used to micromanage a project when they have no idea what they fucking want. So instead of delaying their project and hammering out requirements, they'll bring on a dev and let the dev do all the discovery. Really my major issue with all modern project management is that they think their role is solely about reporting throughput and estimating feature cost before actually discovering and mapping out requirements.
+
+And to add this in terms of AGILE specifically, a lot of sprints start with near blank cards and that's on the PMs and BAs to actually develop those before they reach the dev. Like before sprint planning, those two aforementioned groups should be bothering the stakeholders daily to figure out what the next set of priorities are and what the next set of deliverables are. Instead we're focused on managing the money aspect solely without realizing that since the deliverable isn't defined, it's going to make the project more expensive (it may cause a card to carry over to the next sprint as an example)."--SomeRandoWeirdo, [If scrum doesn't work, what does[?](](https://www.reddit.com/r/ExperiencedDevs/comments/1f3iqiy/if_scrum_doesnt_work_what_does/))
+
+---
+"It's not that scrum doesn't work: it's that top-down prescription of development methodology doesn't work. Corporate management is by and large committed to a) not understanding anything, and b) magic solutions.
+
+How this manifests in scrum is that businesses refuse to acknowledge the fundamental insight of "The Mythical Man-Month": which is that predicting how long creative tasks take to complete — especially complex systems of creative tasks like programming — is impossible. This insight is what inspired scrum in the first place. Management instead takes scrum as the magic solution which makes it possible to predict how long programming will take.
+
+Thus management, whenever allowed to interact with the scrum process, directly inverts the actual goals of scrum. This is why a common complaint of developers in corporate "agile" environments is that the business is demanding they implement waterfall in scrum."--sehrgut, [If scrum doesn't work, what does[?](](https://www.reddit.com/r/ExperiencedDevs/comments/1f3iqiy/if_scrum_doesnt_work_what_does/))
+
+---
+"Unfortunately I have never seen a well working scrum team, we got close sometimes but scrum requires time and a leisure pace, if deadlines are always too close the rules are being broken and you get a mess. The whole problem starts with the deadlines. In a real agile project the deadlines should be "set" by the team, but that almost never happens. What happens is management sets the deadline, and asks the developers what you can implement in the given time, then scope creeping appears and you feel like you are trying to squeeze rubber balls into a metal box."--BanaTibor, [If scrum doesn't work, what does[?](](https://www.reddit.com/r/ExperiencedDevs/comments/1f3iqiy/if_scrum_doesnt_work_what_does/))
+
+
 ## What works, in their own words
 
 _People on social media uncovering better ways of developing software that are entirely different than Agile._
@@ -2744,3 +2780,37 @@ The short-termism of a lot of agile practice, and the idea that anything worth d
 "I have, he was an ex-engineer. It was the best 1 year of my experience as an engineer. He was aware of the technical intricacies and transformed his requirements that would fit our infrastructure well. We rolled out features non stop every 2 weeks because of how efficient we were and it was incredible.
 
 Unfortunately he was way too good and got reassigned to the core product of the company. He was the only PM who wouldn't ask questions if we said we wanted to take a few days break to refactor parts of our codebase."--Unknown
+
+---
+"Best pattern I saw was at TransUnion in early 2000s. 1200 employees maybe? At least 500 for software and hardware. I was on various sized teams from 5-15. Manager would just have a list of tasks in a spreadsheet and the team would meet maybe once a month for 30 min or an hour and as you freed up you get the next task, we’d often pair up and volunteer for a task. If management wanted a status update they would just ask. If you needed something, you’d just ask. Hard deadlines and the occasional crunch only for really large projects that several teams were coordinating on for months or years."--Nofanta, [If scrum doesn't work, what does](https://www.reddit.com/r/ExperiencedDevs/comments/1f3iqiy/if_scrum_doesnt_work_what_does/)
+
+---
+"So this is just a small part of the broader fight between Waterfall and Agile. Each system has its own positives and negatives;
+
+* Waterfall: You know exactly how much time and money the project will take, but you have to invest like 6 months in planning and your project will be very inflexible to change.
+
+* Agile: You can respond very quickly to changing requirements or desires, and you should start delivering useful tools ASAP. However, by cutting out the planning and fixed goals, you can no longer strictly estimate the cost or timeline, these things being guaranteed to shift under an agile framework.
+
+Scrums become nightmares when you are in an Agile team [and have a management] that can't accept the system's drawbacks; Your [management] wants the flexibility of Agile, but wants to keep to a strict timeline or budget (and this is a requirement of almost every [management] using Agile, cause no duh you want to know what it will cost). In this environment, you can't really use Scrum in the way it was meant to, because people won't be open; Managers will lie about timelines, developers will be encouraged to downplay delays, and everyone will generally be a bit tense and unhappy. When I was in consulting we called this "FrAgile".
+
+If you want to know what works, it is being honest and using the system whose drawbacks you can actually accept; If your [management] can't accept the uncertainty, you should not be using Agile. Unfortunately, everyone just uses Agile regardless of their requirements, because who wants to spend 6 months planning things just so they can get delivered on time?"--AngusAIThor, [If scrum doesn't work, what does](https://www.reddit.com/r/ExperiencedDevs/comments/1f3iqiy/if_scrum_doesnt_work_what_does/)
+
+---
+"I don’t have a name for the process I use, and it’s not agile, but it works pretty well. I give the people on my team chunks of work that solve a whole business problem and will take them in the ballpark of 1-3 months. I facilitate them talking to stakeholders, and the whole team meets twice a week. Once for a status update, and again for a technical brainstorming and social session, where people hang out and often, but not exclusively, talk about the interesting technical challenges they are dealing with. I ask for milestones when they are thinking about a project (and ask them to revise the milestones as they go) and each month I check in to see about what milestone(s) they expect to have done so I can communicate with my business stakeholders. If the milestones aren’t getting met I work with the engineers to figure out why (usually too much optimism). If business priorities change we just stop what we’re doing and work on those instead. Ultimately it’s just about giving people as much autonomy as possible, providing just enough structure so that people can be accountable, and otherwise recognizing that excessive measurement and ceremony might change the outcome, but never in the way you want."--miyakohouou, [If scrum doesn't work, what does](https://www.reddit.com/r/ExperiencedDevs/comments/1f3iqiy/if_scrum_doesnt_work_what_does/)
+
+---
+"My team runs very smoothly. 7 people (3.5 regular devs, 1 microcontroller/pcb, 1 fpga dev, 1 lead and 0.5 devops), embedded project. Company size around 250 people, of which around 60-70 devs.
+
+We run a loose agile thing where we have one 2h meeting a week that is sync and retro.
+We do project planning on a per-quarter level, no need to plan more granular for things that involve hardware with long delivery lead times. If stuff happens in the 3 months we swap out or rephrase goals by team vote.
+
+About 20-30% of capacity is for small daily business items that we do not track in detail. Goals come largely self organized from the team and are then aligned with company objectives.
+
+The team works mostly because my company does not hire juniors and has high employee retention. This means we accept not everyone being able to do everything, but everyone in the team knows who knows what. Everyone has their little area of expertise, people usually trust the experts knowledge so any debate comes from a place of appreciation and not constantly having to justify yourself in front of the team. If you have problem with an implementation you talk to the person who did it in a one to one meeting, these are usually very productive.
+
+I have worked in a scrum team before and back then it was endless meetings and everyone constantly giving input on stuff they are nto the expert in, I kept having to justify my choices over and over.
+
+The team I work in now has less meetings, less friction, and is faster and more agile even though we only plan higher time frames. The only downside is the way we work is hard to track for the higher ups, but out team lead is doing a great job at either keeping bullshit off our backs or making it clear that it is appreciated if we have to jump."--Chabamaster, [If scrum doesn't work, what does](https://www.reddit.com/r/ExperiencedDevs/comments/1f3iqiy/if_scrum_doesnt_work_what_does/)
+
+---
+
