@@ -19,7 +19,7 @@ While Agile was created with good intentions, its implementation in corporate en
 - ❌ Story points and velocity metrics get weaponized for performance evaluations
 - ❌ Creates a "theatre" of productivity through ceremonies while actual productivity suffers
 - ❌ Used to justify constant deadline pressure and unrealistic expectations
-- ❌ Agile avoidance of comprehensive requirements documentation lets management avoid accountability for their bad or incmoplete design decisions and blameshift the consequences to developers who will have nothing in writing to defend themselves with.
+- ❌ Agile's avoidance of comprehensive requirements documentation lets management avoid accountability for their bad or incomplete design decisions and instead blameshift the consequences to developers who will have nothing in writing from management to defend themselves with.
 
 ### 3. Process Overhead
 - ❌ Excessive meetings (standups, planning, retros, etc.) consume productive time
