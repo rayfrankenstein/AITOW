@@ -38,6 +38,8 @@ While Agile was created with good intentions, its implementation in corporate en
 - ❌ Encourages blame culture through constant progress tracking
 - ❌ Developers feel pressured to lie about estimates and progress
 - ❌ Trust breaks down as metrics get gamified
+- ❌ Developers fight each other to get low-complexity stories with low-risk of sprint carryover.
+- ❌ Developers stop helping each other as "assists" don't count towards individual sprint velocity.
 
 ### 6. Structural Issues
 - ❌ Often implemented by non-technical people who don't understand software development
